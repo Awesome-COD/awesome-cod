@@ -22,6 +22,7 @@
 - [04/2023] Update with CVPR2023 papers for COD and CIS.
 </details>
 
+---
 
 :teddy_bear: We mark different tasks with coloured squares:
 
@@ -45,3 +46,32 @@
         <td style="width: 20%;">Other types of COD</td>
     </tr>
 </table>
+
+---
+
+<!--TOC-->
+
+## 📚 Table of Contents:
+<!-- - [Overview](#Overview) -->
+- [Preprint](#Preprint)
+- [Survey Papers](#Survey-Papers)
+- [Universal Segmentation](#Universal-Segmentation)
+- [Camouflaged Object Detection (COD)](#COD)
+- [Video Camouflaged Object Detection (VCOD)](#VCOD)
+- [Camouflaged Instance Segmentation (CIS)](#CIS)
+- [Weakly-supervised COD](#WSCOD)
+- [Semi-supervised COD](#Semi-supervised-COD)
+- [Unsupervised COD](#Unsupervised-COD)
+- [Zero-Shot COD](#Zero-Shot-COD)
+- [Referring COD](#RefCOD)
+- [Open-Vocabulary COS](#OVCOS)
+- [RGB-P COS](#RGBP-COS)
+- [MMW COD](#MMW-COD)
+- [Camouflage Generation](#Camouflage-Generation)
+- [Camouflaged Object Tracking (COT)](#Camouflaged-Object-Tracking)
+- [(Multi/Hyper-)Spectral COD](#Spectral-COD)
+- [Other Related](#Other-Related)
+- [Datasets](#Datasets)
+- [Appendix](#Appendix)
+
+
