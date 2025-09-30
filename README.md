@@ -90,8 +90,9 @@
 
 ---
 
-## Datasets
+
 <details>
+<summary><h2>Datasets</h2></summary>
 <sup>Note: Ann. Img. = Number of frames annotated in the dataset; BBbox = Bounding box; Pix. = Pixel-level mask; Ins. = Instance mask; Cate. = Category.</sup>
 
 #### - Image COD
