@@ -6,7 +6,7 @@
 
 
 ![Awesome Badge](https://img.shields.io/badge/-As%20awesome%20as%20you%20think!-red)
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Awesome-COD/awesome-cod)
 
 
