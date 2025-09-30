@@ -44,7 +44,7 @@
     <tr>
         <td style="width: 20%;">:purple_square:<code>RCOD</code></td>
         <td style="width: 20%;">Referring Camouflaged Object Detection</td>
-        <td style="width: 20%;">:white_large_square:<code>XCOD</code></td>
+        <td style="width: 20%;">:white_square:<code>XCOD</code></td>
         <td style="width: 20%;">Other types of COD</td>
     </tr>
 </table>
@@ -152,10 +152,10 @@ MVCOD  | 2025 | arXiv | [Paper](https://arxiv.org/abs/2502.13859) | Video | 162/
 
 </details>
 
+
 ## <span id="Arxiv">ArXiv (Last 6 months)</span>
 
-:red_square: `AVOS` `Sep` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [paper](https://arxiv.org/abs/2509.18912) / code &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Frequency-Domain Decomposition and Recomposition for Robust Audio-Visual Segmentation
-
+:white_square: `XCOD` `Sep` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [Paper](https://arxiv.org/abs/2305.18476) / [Code](https://github.com/NiFangBaAGe/Explicit-Visual-Prompt) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Explicit Visual Prompting for Universal Foreground Segmentations
 
 ## Appendix
 
