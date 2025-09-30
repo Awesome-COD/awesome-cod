@@ -56,16 +56,18 @@
 <table style="margin-left: auto; margin-right: auto;">
     <tr>
         <td> <!--左侧内容-->
-            - [Preprint](#Preprint)
-            - [Survey Papers](#Survey-Papers)
-            - [Universal Segmentation](#Universal-Segmentation)
-            - [Camouflaged Object Detection (COD)](#COD)
-            - [Video Camouflaged Object Detection (VCOD)](#VCOD)
-            - [Camouflaged Instance Segmentation (CIS)](#CIS)
-            - [Weakly-supervised COD](#WSCOD)
-            - [Semi-supervised COD](#Semi-supervised-COD)
-            - [Unsupervised COD](#Unsupervised-COD)
-            - [Zero-Shot COD](#Zero-Shot-COD)
+            <ul>
+                <li>[Preprint](#Preprint)</li>
+                <li>[Survey Papers](#Survey-Papers)</li>
+                <li>[Universal Segmentation](#Universal-Segmentation)</li>
+                <li>[Camouflaged Object Detection (COD)](#COD)</li>
+                <li>[Video Camouflaged Object Detection (VCOD)](#VCOD)</li>
+                <li>[Camouflaged Instance Segmentation (CIS)](#CIS)</li>
+                <li>[Weakly-supervised COD](#WSCOD)</li>
+                <li>[Semi-supervised COD](#Semi-supervised-COD)</li>
+                <li>[Unsupervised COD](#Unsupervised-COD)</li>
+                <li>[Zero-Shot COD](#Zero-Shot-COD)</li>
+            </ul>
         </td>
         <td> <!--右侧内容-->
             - [Referring COD](#RefCOD)
