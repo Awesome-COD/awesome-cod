@@ -155,7 +155,7 @@ MVCOD  | 2025 | arXiv | [Paper](https://arxiv.org/abs/2502.13859) | Video | 162/
 
 ## <span id="ArXiv">ArXiv (Last 6 months)</span>
 
-:white_large_square: `XCOD` `Sep` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [Paper](https://arxiv.org/abs/2305.18476) / [Code](https://github.com/NiFangBaAGe/Explicit-Visual-Prompt) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Explicit Visual Prompting for Universal Foreground Segmentations
+:white_large_square: `XCOD` '2025' `Sep` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [Paper](https://arxiv.org/abs/2305.18476) / [Code](https://github.com/NiFangBaAGe/Explicit-Visual-Prompt) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Explicit Visual Prompting for Universal Foreground Segmentations
 
 ## Appendix
 
