@@ -165,4 +165,9 @@ MVCOD  | 2025 | arXiv | [Paper](https://arxiv.org/abs/2502.13859) | Video | 162/
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Awesome-COD/awesome-cod&type=Date)](https://star-history.com/#Awesome-COD/awesome-cod&Date)
+<picture>
+    <img
+    alt="Star History Chart"
+    src="https://api.star-history.com/svg?Awesome-COD/awesome-cod&type=Date"
+  />
+</picture>
