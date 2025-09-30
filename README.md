@@ -59,7 +59,7 @@
     <tr>
         <td> <!--左侧内容-->
             <ul>
-                <li><a href="#Preprint">Preprint</a></li>
+                <li><a href="#Arxiv">Arxiv</a></li>
                 <li><a href="#Survey-Papers">Survey Papers</a></li>
                 <li><a href="#Universal-Segmentation">Universal Segmentation</a></li>
                 <li><a href="#COD">Camouflaged Object Detection (COD)</a></li>
@@ -91,6 +91,8 @@
 ---
 
 ## Datasets
+
+<detail>
 
 <sup>Note: Ann. Img. = Number of frames annotated in the dataset; BBbox = Bounding box; Pix. = Pixel-level mask; Ins. = Instance mask; Cate. = Category.</sup>
 
@@ -149,6 +151,7 @@ MVCOD  | 2025 | arXiv | [Paper](https://arxiv.org/abs/2502.13859) | Video | 162/
 [IOCfish5K](https://github.com/GuoleiSun/Indiscernible-Object-Counting) | 2023 | CVPR | [Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Sun_Indiscernible_Object_Counting_in_Underwater_Scenes_CVPR_2023_paper.html) | Img | 5637 | Point/Counting | <sup><sub>Indiscernible Object Counting</sub></sup>  
 [CDS2K](https://github.com/DengPingFan/CSU) | 2023 | VI | [Paper](https://arxiv.org/abs/2304.11234) | Img | 2492 | BBbox+Pix. | <sup><sub>Defect seg. dataset</sub></sup>  
 
+</detail>
 
 ## Appendix
 
