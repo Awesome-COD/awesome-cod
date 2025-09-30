@@ -31,19 +31,19 @@
 <table>
     <tr>
         <td style="width: 20%;">:blue_square:<code>COD</code></td>
-        <td style="width: 20%;">Camouflaged Object Detection (COD)</td>
+        <td style="width: 20%;">Camouflaged Object Detection</td>
         <td style="width: 20%;">:orange_square:<code>CIS</code></td>
-        <td style="width: 20%;">Camouflaged Instance Segmentation (CIS)</td>
+        <td style="width: 20%;">Camouflaged Instance Segmentation</td>
     </tr>
     <tr>
         <td style="width: 20%;">:green_square:<code>COC</code></td>
-        <td style="width: 20%;">Camouflaged Object Counting (COC)</td>
+        <td style="width: 20%;">Camouflaged Object Counting</td>
         <td style="width: 20%;">:red_square:<code>VCOD</code></td>
-        <td style="width: 20%;">Video Camouflaged Object Detection (VCOD)</td>
+        <td style="width: 20%;">Video Camouflaged Object Detection</td>
     </tr>
     <tr>
         <td style="width: 20%;">:purple_square:<code>RCOD</code></td>
-        <td style="width: 20%;">Referring Camouflaged Object Detection (RCOD)</td>
+        <td style="width: 20%;">Referring Camouflaged Object Detection</td>
         <td style="width: 20%;">:white_large_square:<code>XCOD</code></td>
         <td style="width: 20%;">Other types of COD</td>
     </tr>
