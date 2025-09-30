@@ -2,15 +2,13 @@
     <img src="./imgs/Logo.png"/> <br />
 </p>
 
-# <p align=center>`Awesome List for Camouflaged Object Detection (COD)`
-
-
 <p align="center">
     <img src="https://img.shields.io/badge/-As%20awesome%20as%20you%20think!-red" alt="Awesome Badge">
     <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT">
     <img src="https://img.shields.io/github/last-commit/Awesome-COD/awesome-cod" alt="GitHub last commit">
 </p>
 
+# <p align=center>`Awesome List for Camouflaged Object Detection (COD)`
 
 <details>
 <summary><strong>:loudspeaker: Last updated: Sept/30/2025 </strong></summary>
