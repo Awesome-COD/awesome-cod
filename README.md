@@ -4,12 +4,13 @@
 
 # <p align=center>`Awesome List for Camouflaged Object Detection (COD)`
 
-<div style="text-align: center;">
+---
+
+<p style="text-align: center;">
     <img src="https://img.shields.io/badge/-As%20awesome%20as%20you%20think!-red" alt="Awesome Badge">
     <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT">
     <img src="https://img.shields.io/github/last-commit/Awesome-COD/awesome-cod" alt="GitHub last commit">
-</div>
-
+</p>
 
 
 <details>
