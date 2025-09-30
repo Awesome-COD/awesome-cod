@@ -71,15 +71,15 @@
         </td>
         <td> <!--右侧内容-->
             <ul>
-                <li> [Referring COD](#RefCOD) </li>
+                <li>[Referring COD](#RefCOD) </li>
                 <li>[Open-Vocabulary COS](#OVCOS)</li>
                 <li>[RGB-P COS](#RGBP-COS)</li>
                 <li>[MMW COD](#MMW-COD)</li>
                 <li>[Camouflage Generation](#Camouflage-Generation)</li>
                 <li>[Camouflaged Object Tracking (COT)](#Camouflaged-Object-Tracking)</li>
-                <li>[[(Multi/Hyper-)Spectral COD](#Spectral-COD)</li>
+                <li>[(Multi/Hyper-)Spectral COD](#Spectral-COD)</li>
                 <li>[Other Related](#Other-Related)</li>
-                <li> [Datasets](#Datasets) </li>
+                <li>[Datasets](#Datasets) </li>
                 <li>[Appendix](#Appendix)</li>
             </ul>
         </td>
