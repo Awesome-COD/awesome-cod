@@ -165,4 +165,4 @@ MVCOD  | 2025 | arXiv | [Paper](https://arxiv.org/abs/2502.13859) | Video | 162/
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=ChunmingHe/awesome-concealed-object-segmentation&type=Date)](https://star-history.com/#ChunmingHe/awesome-concealed-object-segmentation&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Awesome-COD/awesome-cod&type=Date)](https://star-history.com/#Awesome-COD/awesome-cod&Date)
