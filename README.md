@@ -42,7 +42,7 @@
         <td style="width: 20%;">Video Camouflaged Object Detection (VCOD)</td>
     </tr>
     <tr>
-        <td style="width: 20%;">:diamond_shape_with_a_dot_inside:<code>RCOD</code></td>
+        <td style="width: 20%;">:purple_square:<code>RCOD</code></td>
         <td style="width: 20%;">Referring Camouflaged Object Detection (RCOD)</td>
         <td style="width: 20%;">:white_large_square:<code>XCOD</code></td>
         <td style="width: 20%;">Other types of COD</td>
