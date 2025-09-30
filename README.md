@@ -82,7 +82,7 @@
                 <li><a href="#Spectral-COD">(Multi/Hyper-)Spectral COD</a></li>
                 <li><a href="#Other-Related">Other Related</a></li>
                 <li><a href="#Datasets">Datasets</a></li>
-                <li><a href="#Appendix">Appendix</a></li>
+                <li><a href="#Reference">Reference</a></li>
             </ul>
         </td>
     </tr>
@@ -157,7 +157,7 @@ MVCOD  | 2025 | arXiv | [Paper](https://arxiv.org/abs/2502.13859) | Video | 162/
 
 :white_large_square: `XCOD` `2023` `Mar` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [Paper](https://arxiv.org/abs/2305.18476) / [Code](https://github.com/NiFangBaAGe/Explicit-Visual-Prompt) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Explicit Visual Prompting for Universal Foreground Segmentations
 
-## Appendix
+## Reference
 
 - [SINet-V2/AWESOME_COD_LIST](https://github.com/GewelsJI/SINet-V2/blob/main/AWESOME_COD_LIST.md)
 - [visionxiang/awesome-camouflaged-object-detection](https://github.com/visionxiang/awesome-camouflaged-object-detection)
