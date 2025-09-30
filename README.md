@@ -9,7 +9,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/Awesome-COD/awesome-cod)
 
 <details>
-<summary><strong>:loudspeaker: Latest Updates</strong></summary>
+<summary><strong>:loudspeaker: Last updated: Sept/30/2025 </strong></summary>
 
 - [09/2025] Update with ACMMM2025 and latest papers. 
 - [06/2025] Update with ICCV2025 papers.    
