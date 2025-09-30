@@ -70,16 +70,18 @@
             </ul>
         </td>
         <td> <!--右侧内容-->
-            - [Referring COD](#RefCOD)
-            - [Open-Vocabulary COS](#OVCOS)
-            - [RGB-P COS](#RGBP-COS)
-            - [MMW COD](#MMW-COD)
-            - [Camouflage Generation](#Camouflage-Generation)
-            - [Camouflaged Object Tracking (COT)](#Camouflaged-Object-Tracking)
-            - [(Multi/Hyper-)Spectral COD](#Spectral-COD)
-            - [Other Related](#Other-Related)
-            - [Datasets](#Datasets)
-            - [Appendix](#Appendix)
+            <ul>
+                <li>[Referring COD](#RefCOD)</li>
+                <li>[Open-Vocabulary COS](#OVCOS)</li>
+                <li>[RGB-P COS](#RGBP-COS)</li>
+                <li>[MMW COD](#MMW-COD)</li>
+                <li>[Camouflage Generation](#Camouflage-Generation)</li>
+                <li>[Camouflaged Object Tracking (COT)](#Camouflaged-Object-Tracking)</li>
+                <li>[[(Multi/Hyper-)Spectral COD](#Spectral-COD)</li>
+                <li>[Other Related](#Other-Related)</li>
+                <li>[Datasets](#Datasets)</li>
+                <li>[Appendix](#Appendix)</li>
+            </ul>
         </td>
     </tr>
 </table>
