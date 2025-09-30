@@ -21,3 +21,27 @@
 - [08/2023] Update with ICCV2023, MM2023, etc. papers for COD and CIS.   
 - [04/2023] Update with CVPR2023 papers for COD and CIS.
 </details>
+
+
+:teddy_bear: We mark different tasks with coloured squares:
+
+<table>
+    <tr>
+        <td style="width: 20%;">:blue_square:<code>COD</code></td>
+        <td style="width: 20%;">Camouflaged Object Detection (COD)</td>
+        <td style="width: 20%;">:orange_square:<code>CIS</code></td>
+        <td style="width: 20%;">Camouflaged Instance Segmentation (CIS)</td>
+    </tr>
+    <tr>
+        <td style="width: 20%;">:green_square:<code>COC</code></td>
+        <td style="width: 20%;">Camouflaged Object Counting (COC)</td>
+        <td style="width: 20%;">:red_square:<code>VCOD</code></td>
+        <td style="width: 20%;">Video Camouflaged Object Detection (VCOD)</td>
+    </tr>
+    <tr>
+        <td style="width: 20%;">:diamond_shape_with_a_dot_inside:<code>RCOD</code></td>
+        <td style="width: 20%;">Referring Camouflaged Object Detection (RCOD)</td>
+        <td style="width: 20%;">:white_large_square:<code>XCOD</code></td>
+        <td style="width: 20%;">Other types of COD</td>
+    </tr>
+</table>
