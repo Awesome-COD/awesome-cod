@@ -56,6 +56,7 @@
 <table style="margin-left: auto; margin-right: auto;">
     <tr>
         <td> <!--左侧内容-->
+            
             - [Preprint](#Preprint)
             - [Survey Papers](#Survey-Papers)
             - [Universal Segmentation](#Universal-Segmentation)
@@ -68,6 +69,7 @@
             - [Zero-Shot COD](#Zero-Shot-COD)
         </td>
         <td> <!--右侧内容-->
+            
             - [Referring COD](#RefCOD)
             - [Open-Vocabulary COS](#OVCOS)
             - [RGB-P COS](#RGBP-COS)
