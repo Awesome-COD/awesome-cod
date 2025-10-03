@@ -92,7 +92,7 @@
                 <li><a href="#6-Camouflage-Generation">6. Camouflage Generation</a></li>
                 <li><a href="#7-Camouflage-Tracking">7. Camouflage Tracking</a></li>
                 <li><a href="#8-Other-Related">8. Other Related</a></li>
-                <li><a href="#9-Datasets">9. Datasets</a></li>
+                <li><a href="#Datasets">Datasets</a></li>
                 <li><a href="#Reference">Reference</a></li>
             </ul>
         </td>
@@ -216,7 +216,7 @@
 
 ----------------------------------------------------------------------------------------------------------------------
 
-## 9. Datasets
+## Datasets
 <sup>Note: Ann. Img. = Number of frames annotated in the dataset; BBbox = Bounding box; Pix. = Pixel-level mask; Ins. = Instance mask; Cate. = Category.</sup>
 
 #### - Image COD
