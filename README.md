@@ -45,7 +45,7 @@
         <td style="width: 20%;">:purple_square:<code>COT</code></td>
         <td style="width: 20%;">Camouflaged Object Tracking</td>
         <td style="width: 20%;">:white_large_square:<code>COX</code></td>
-        <td style="width: 20%;">Other types of Camouflage</td>
+        <td style="width: 20%;">Other types of Camouflage task</td>
     </tr>
 </table>
 
