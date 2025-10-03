@@ -153,7 +153,7 @@ MVCOD  | 2025 | arXiv | [Paper](https://arxiv.org/abs/2502.13859) | Video | 162/
 </details>
 
 
-## <span id="Latest">Latest Work (Last 6 months)</span>
+## <span id="Latest"> :fire: Latest Work (Last 6 months)</span>
 
 | **Task** | **Pub** |**Year** | **Month** | **Links** | **Title** |
 | :------: | :-----: | :-----: | :-------: | :-------: | :-------: |
