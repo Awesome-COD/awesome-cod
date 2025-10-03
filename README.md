@@ -171,6 +171,22 @@ MVCOD  | 2025 | arXiv | [Paper](https://arxiv.org/abs/2502.13859) | Video | 162/
 |:white_large_square: `XCOD` | `Arxiv` | `2023` | `Mar` | [Paper](https://arxiv.org/abs/2305.18476) / [Code](https://github.com/NiFangBaAGe/Explicit-Visual-Prompt) | Explicit Visual Prompting for Universal Foreground Segmentations <br> <sup><sub>*Weihuang Liu, Xi Shen, Chi-Man Pun, Xiaodong Cun*</sub></sup> |
 
 
+<!--Image Camouflage Detection-->
+<details>
+    <summary>
+        <h2>
+            <span id="Image-Camouflage-Detection">Image Camouflage Detection</span>
+        </h2>
+    </summary>
+    <details>
+        <summary>
+            <h3>
+                <span id="COD">Camouflaged Object Detection</span>
+            </h3>
+        </summary>
+    </details>
+</details>
+
 
 ## Reference
 
