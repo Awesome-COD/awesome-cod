@@ -61,8 +61,9 @@
             <ul>
                 <li><a href="#Latest">Latest Work</a></li>
                 <li><a href="#Survey-Papers">Survey Papers</a></li>
-                <li><a href="#COD">Camouflaged Object Detection (COD)</a>
+                <li><a href="#Camouflage-Detection">Camouflage Detection</a>
                     <ul>
+                        <li><a href="#COD">Camouflaged Object Detection (COD)</a></li>
                         <li><a href="#Semi-supervised-COD">Semi-supervised COD</a></li>
                         <li><a href="#WSCOD">Weakly-supervised COD</a></li>
                         <li><a href="#Unsupervised-COD">Unsupervised COD</a></li>
@@ -77,9 +78,10 @@
         </td>
         <td> <!--右侧内容-->
             <ul>
-                <li><a href="#CIS">Camouflaged Instance Segmentation (CIS)</a></li>
-                <li><a href="#COS">Camouflaged Object Segmentation (COS)</a>
+                <li><a href="#Camouflage-Segmentation">Camouflage Segmentation</a>
                     <ul>
+                        <li><a href="#COS">Camouflage Object Segmentation (COS)</a>
+                        <li><a href="#CIS">Camouflaged Instance Segmentation (CIS)</a></li>
                         <li><a href="#OVCOS">Open-Vocabulary COS</a></li>
                         <li><a href="#RGBP-COS">RGB-P COS</a></li>
                     </ul>
