@@ -124,6 +124,7 @@
             </h3>
         </summary>
     </details>
+    
 ### 3.2. Semi-supervised COD
     
 ### 3.3. Weakly-supervised COD
