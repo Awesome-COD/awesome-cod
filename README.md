@@ -69,7 +69,7 @@
                         <li><a href="#34-Unsupervised-COD">3.4. Unsupervised COD</a></li>
                         <li><a href="#35-RefCOD">3.5. Referring COD</a></li>
                         <li><a href="#36-Zero-Shot-COD">3.6. Zero-Shot COD</a></li>
-                        <li><a href="#37-Spectral-COD">3.7. Multispectral COD</a></li>
+                        <li><a href="#37-Multispectral-COD">3.7. Multispectral COD</a></li>
                         <li><a href="#38-Polarized-COD">3.8. Polarized COD</a></li>
                     </ul>
                 </li>
