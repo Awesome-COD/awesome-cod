@@ -126,6 +126,7 @@
     <summary><h2 id="3-Image-Camouflage-Detection"><span>3. Image Camouflage Detection</span></h2></summary>
 <details>
     <summary><h3 id="31-COD"><span>3.1. Camouflaged Object Detection</span></h3></summary>
+
 | **Year** | **Pub.** | **Method** | **Title** | **Links** |
 | :------: | :------: | :-------: | :--------: | :-------: |
     
