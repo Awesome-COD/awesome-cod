@@ -110,6 +110,10 @@
 |:white_large_square: `XCOD` | `Arxiv` | `2023` | `Mar` | [Paper](https://arxiv.org/abs/2305.18476) / [Code](https://github.com/NiFangBaAGe/Explicit-Visual-Prompt) | Explicit Visual Prompting for Universal Foreground Segmentations <br> <sup><sub>*Weihuang Liu, Xi Shen, Chi-Man Pun, Xiaodong Cun*</sub></sup> |
 
 
+
+## 2. Survey Papers
+
+
 <!--Image Camouflage Detection-->
 <details>
     <summary>
