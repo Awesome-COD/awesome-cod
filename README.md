@@ -59,41 +59,41 @@
     <tr>
         <td> <!--左侧内容-->
             <ul>
-                <li><a href="#Latest">Latest Work</a></li>
-                <li><a href="#Survey-Papers">Survey Papers</a></li>
-                <li><a href="#Image-Camouflage-Detection">Image Camouflage Detection</a>
+                <li><a href="#1-Latest">1. Latest Work</a></li>
+                <li><a href="#2-Survey-Papers">2. Survey Papers</a></li>
+                <li><a href="#3-Image-Camouflage-Detection">3. Image Camouflage Detection</a>
                     <ul>
-                        <li><a href="#COD">Camouflaged Object Detection (COD)</a></li>
-                        <li><a href="#Semi-supervised-COD">Semi-supervised COD</a></li>
-                        <li><a href="#Weakly-supervised-COD">Weakly-supervised COD</a></li>
-                        <li><a href="#Unsupervised-COD">Unsupervised COD</a></li>
-                        <li><a href="#RefCOD">Referring COD</a></li>
-                        <li><a href="#Zero-Shot-COD">Zero-Shot COD</a></li>
-                        <li><a href="#Spectral-COD">Multispectral COD</a></li>
-                        <li><a href="#Polarized-COD">Polarized COD</a></li>
+                        <li><a href="#31-COD">3.1. Camouflaged Object Detection (COD)</a></li>
+                        <li><a href="#32-Semi-supervised-COD">3.2. Semi-supervised COD</a></li>
+                        <li><a href="#33-Weakly-supervised-COD">3.3. Weakly-supervised COD</a></li>
+                        <li><a href="#34-Unsupervised-COD">3.4. Unsupervised COD</a></li>
+                        <li><a href="#35-RefCOD">3.5. Referring COD</a></li>
+                        <li><a href="#36-Zero-Shot-COD">3.6. Zero-Shot COD</a></li>
+                        <li><a href="#37-Spectral-COD">3.7. Multispectral COD</a></li>
+                        <li><a href="#38-Polarized-COD">3.8. Polarized COD</a></li>
                     </ul>
                 </li>
             </ul>
         </td>
         <td> <!--右侧内容-->
             <ul>
-                <li><a href="#Video-Camouflage-Detection">Video Camouflage Detection</a>
+                <li><a href="#4-Video-Camouflage-Detection">4. Video Camouflage Detection</a>
                     <ul>
-                         <li><a href="#VCOD">Video Camouflaged Object Detection (VCOD)</a></li>
+                         <li><a href="#41-VCOD">4.1. Video Camouflaged Object Detection (VCOD)</a></li>
                     </ul>
                 </li>
-                <li><a href="#Camouflage-Segmentation">Camouflage Segmentation</a>
+                <li><a href="#5-Camouflage-Segmentation">5. Camouflage Segmentation</a>
                     <ul>
-                        <li><a href="#COS">Camouflage Object Segmentation (COS)</a>
-                        <li><a href="#CIS">Camouflaged Instance Segmentation (CIS)</a></li>
-                        <li><a href="#OVCOS">Open-Vocabulary COS</a></li>
+                        <li><a href="#51-COS">5.1. Camouflage Object Segmentation (COS)</a>
+                        <li><a href="#52-CIS">5.2. Camouflaged Instance Segmentation (CIS)</a></li>
+                        <li><a href="#53-OVCOS">5.3. Open-Vocabulary COS</a></li>
                     </ul>
                 </li>
-                <li><a href="#Camouflage-Generation">Camouflage Generation</a></li>
-                <li><a href="#Camouflage-Tracking">Camouflage Tracking</a></li>
-                <li><a href="#Other-Related">Other Related</a></li>
-                <li><a href="#Datasets">Datasets</a></li>
-                <li><a href="#Reference">Reference</a></li>
+                <li><a href="#6-Camouflage-Generation">6. Camouflage Generation</a></li>
+                <li><a href="#7-Camouflage-Tracking">7. Camouflage Tracking</a></li>
+                <li><a href="#8-Other-Related">8. Other Related</a></li>
+                <li><a href="#9-Datasets">9. Datasets</a></li>
+                <li><a href="#10-Reference">10. Reference</a></li>
             </ul>
         </td>
     </tr>
@@ -101,6 +101,51 @@
 
 ---
 
+## <span id="1-Latest"> :fire: 1. Latest Work (Last 6 months)</span>
+
+| **Task** | **Pub** |**Year** | **Month** | **Links** | **Title** |
+| :------: | :-----: | :-----: | :-------: | :-------: | :-------: |
+|:white_large_square: `XCOD` | `Arxiv` | `2023` | `Mar` | [Paper](https://arxiv.org/abs/2305.18476) / [Code](https://github.com/NiFangBaAGe/Explicit-Visual-Prompt) | Explicit Visual Prompting for Universal Foreground Segmentations <br> <sup><sub>*Weihuang Liu, Xi Shen, Chi-Man Pun, Xiaodong Cun*</sub></sup> |
+
+
+<!--Image Camouflage Detection-->
+<details>
+    <summary>
+        <h2>
+            <span id="Image-Camouflage-Detection">Image Camouflage Detection</span>
+        </h2>
+    </summary>
+    <details>
+        <summary>
+            <h3>
+                <span id="COD">Camouflaged Object Detection</span>
+            </h3>
+        </summary>
+    </details>
+    <details>
+        <summary>
+            <h3>
+                <span id="Semi-supervised-COD">Semi-supervised COD</span>
+            </h3>
+        </summary>
+    </details>
+    <details>
+        <summary>
+            <h3>
+                <span id="COD">Camouflaged Object Detection</span>
+            </h3>
+        </summary>
+    </details>
+    <details>
+        <summary>
+            <h3>
+                <span id="COD">Camouflaged Object Detection</span>
+            </h3>
+        </summary>
+    </details>
+
+
+</details>
 
 <details>
 <summary><h2>Datasets</h2></summary>
@@ -163,24 +208,6 @@ MVCOD  | 2025 | arXiv | [Paper](https://arxiv.org/abs/2502.13859) | Video | 162/
 
 </details>
 
-
-## <span id="Latest"> :fire: Latest Work (Last 6 months)</span>
-
-| **Task** | **Pub** |**Year** | **Month** | **Links** | **Title** |
-| :------: | :-----: | :-----: | :-------: | :-------: | :-------: |
-|:white_large_square: `XCOD` | `Arxiv` | `2023` | `Mar` | [Paper](https://arxiv.org/abs/2305.18476) / [Code](https://github.com/NiFangBaAGe/Explicit-Visual-Prompt) | Explicit Visual Prompting for Universal Foreground Segmentations <br> <sup><sub>*Weihuang Liu, Xi Shen, Chi-Man Pun, Xiaodong Cun*</sub></sup> |
-
-
-<!--Image Camouflage Detection-->
-<details>
-    <summary>
-        <h2>
-            <span id="Image-Camouflage-Detection">Image Camouflage Detection</span>
-        </h2>
-    </summary>
-    - <span id="COD">Camouflaged Object Detection</span>
-    - <span id="COD">Camouflaged Object Detection</span>
-</details>
 
 
 ## Reference
