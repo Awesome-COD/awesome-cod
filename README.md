@@ -125,12 +125,19 @@
         </summary>
     </details>
 ### 3.2. Semi-supervised COD
+    
 ### 3.3. Weakly-supervised COD
+    
 ### 3.4. Unsupervised COD
+
 ### 3.5. Referring COD
+
 ### 3.6. Zero-Shot COD
+
 ### 3.7. Multispectral COD
+
 ### 3.8. Polarized COD
+
 
 </details>
 
