@@ -134,6 +134,7 @@
                 <span>3.1. Camouflaged Object Detection</span>
             </h3>
         </summary>
+        <!--demo-->
         | **Year** | **Pub.** | **Method** | **Title** | **Links** |
         | :------: | :------: | :-------: | :--------: | :-------: |
     </details>
