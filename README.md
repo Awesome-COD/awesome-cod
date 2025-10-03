@@ -244,7 +244,7 @@ MVCOD  | 2025 | arXiv | [Paper](https://arxiv.org/abs/2502.13859) | Video | 162/
 
 - [SINet-V2/AWESOME_COD_LIST](https://github.com/GewelsJI/SINet-V2/blob/main/AWESOME_COD_LIST.md)
 - [visionxiang/awesome-camouflaged-object-detection](https://github.com/visionxiang/awesome-camouflaged-object-detection)
-- [ChunmingHe/awesome-concealed-object-segmentation](https://raw.githubusercontent.com/ChunmingHe/awesome-concealed-object-segmentation)
+- [ChunmingHe/awesome-concealed-object-segmentation](https://github.com/ChunmingHe/awesome-concealed-object-segmentation)
 
 ## Star History
 
