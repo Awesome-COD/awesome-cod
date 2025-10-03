@@ -89,11 +89,11 @@
                         <li><a href="#53-OVCOS">5.3. Open-Vocabulary COS</a></li>
                     </ul>
                 </li>
-                <li><a href="#6-Camouflage-Generation">6. Camouflage Generation</a></li>
-                <li><a href="#7-Camouflage-Tracking">7. Camouflage Tracking</a></li>
-                <li><a href="#8-Other-Related">8. Other Related</a></li>
-                <li><a href="#9-Datasets">9. Datasets</a></li>
-                <li><a href="#Reference">10. Reference</a></li>
+                <li><a href="#Camouflage-Generation">6. Camouflage Generation</a></li>
+                <li><a href="#Camouflage-Tracking">7. Camouflage Tracking</a></li>
+                <li><a href="#Other-Related">8. Other Related</a></li>
+                <li><a href="#Datasets">9. Datasets</a></li>
+                <li><a href="#10-Reference">10. Reference</a></li>
             </ul>
         </td>
     </tr>
@@ -195,7 +195,7 @@ MVCOD  | 2025 | arXiv | [Paper](https://arxiv.org/abs/2502.13859) | Video | 162/
 
 
 
-## Reference
+## 10. Reference
 
 - [SINet-V2/AWESOME_COD_LIST](https://github.com/GewelsJI/SINet-V2/blob/main/AWESOME_COD_LIST.md)
 - [visionxiang/awesome-camouflaged-object-detection](https://github.com/visionxiang/awesome-camouflaged-object-detection)
