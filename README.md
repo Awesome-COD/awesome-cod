@@ -32,20 +32,20 @@
     <tr>
         <td style="width: 20%;">:blue_square:<code>COD</code></td>
         <td style="width: 20%;">Camouflaged Object Detection</td>
-        <td style="width: 20%;">:orange_square:<code>CIS</code></td>
-        <td style="width: 20%;">Camouflaged Instance Segmentation</td>
+        <td style="width: 20%;">:orange_square:<code>COS</code></td>
+        <td style="width: 20%;">Camouflaged Object Segmentation</td>
     </tr>
     <tr>
-        <td style="width: 20%;">:green_square:<code>COC</code></td>
-        <td style="width: 20%;">Camouflaged Object Counting</td>
+        <td style="width: 20%;">:green_square:<code>COG</code></td>
+        <td style="width: 20%;">Camouflage Object Generation</td>
         <td style="width: 20%;">:red_square:<code>VCOD</code></td>
         <td style="width: 20%;">Video Camouflaged Object Detection</td>
     </tr>
     <tr>
-        <td style="width: 20%;">:purple_square:<code>RCOD</code></td>
-        <td style="width: 20%;">Referring Camouflaged Object Detection</td>
-        <td style="width: 20%;">:white_large_square:<code>XCOD</code></td>
-        <td style="width: 20%;">Other types of COD</td>
+        <td style="width: 20%;">:purple_square:<code>COT</code></td>
+        <td style="width: 20%;">Camouflaged Object Tracking</td>
+        <td style="width: 20%;">:white_large_square:<code>COX</code></td>
+        <td style="width: 20%;">Other types of Camouflage</td>
     </tr>
 </table>
 
@@ -84,7 +84,7 @@
                 </li>
                 <li><a href="#Camouflage-Segmentation">Camouflage Segmentation</a>
                     <ul>
-                        <li><a href="#COS"><sub>Camouflage Object Segmentation (COS)</sub></a>
+                        <li><a href="#COS">Camouflage Object Segmentation (COS)</a>
                         <li><a href="#CIS">Camouflaged Instance Segmentation (CIS)</a></li>
                         <li><a href="#OVCOS">Open-Vocabulary COS</a></li>
                     </ul>
