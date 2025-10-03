@@ -105,9 +105,9 @@
     <span>:fire: 1. Latest Work (Last 6 months)</span>
 </h2>
 
-| **Task** | **Release** |**Pub.** | **Method** | **Title** | **Links** |
-| :------: | :-----: | :--------: | :-------: | :-------: | :-------: |
-|:white_large_square: `XCOD` | `2023/Mar` | `Arxiv` |  | Explicit Visual Prompting for Universal Foreground Segmentations <br> <sup><sub>*Weihuang Liu, Xi Shen, Chi-Man Pun, Xiaodong Cun*</sub></sup> | [Paper](https://arxiv.org/abs/2305.18476) / [Code](https://github.com/NiFangBaAGe/Explicit-Visual-Prompt) |
+| **Task** | **Release** |**Pub.** | **Title** | **Links** |
+| :------: | :---------: | :-----: | :-------: | :-------: |
+|:white_large_square: `XCOD` | `2023/Mar` | `Arxiv` | Explicit Visual Prompting for Universal Foreground Segmentations <br> <sup><sub>*Weihuang Liu, Xi Shen, Chi-Man Pun, Xiaodong Cun*</sub></sup> | [Paper](https://arxiv.org/abs/2305.18476) / [Code](https://github.com/NiFangBaAGe/Explicit-Visual-Prompt) |
 
 ----------------------------------------------------------------------------------------------------------------------
 
