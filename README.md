@@ -62,13 +62,16 @@
                 <li><a href="#Latest">Latest Work</a></li>
                 <li><a href="#Survey-Papers">Survey Papers</a></li>
                 <li><a href="#Universal-Segmentation">Universal Segmentation</a></li>
-                <li><a href="#COD">Camouflaged Object Detection (COD)</a></li>
+                <li><a href="#COD">Camouflaged Object Detection (COD)</a>
+                    <ul>
+                        <li><a href="#Semi-supervised-COD">Semi-supervised COD</a></li>
+                        <li><a href="#Unsupervised-COD">Unsupervised COD</a></li>
+                        <li><a href="#Zero-Shot-COD">Zero-Shot COD</a></li>
+                    </ul>
+                </li>
                 <li><a href="#VCOD">Video Camouflaged Object Detection (VCOD)</a></li>
                 <li><a href="#CIS">Camouflaged Instance Segmentation (CIS)</a></li>
                 <li><a href="#WSCOD">Weakly-supervised COD</a></li>
-                <li><a href="#Semi-supervised-COD">Semi-supervised COD</a></li>
-                <li><a href="#Unsupervised-COD">Unsupervised COD</a></li>
-                <li><a href="#Zero-Shot-COD">Zero-Shot COD</a></li>
             </ul>
         </td>
         <td> <!--右侧内容-->
