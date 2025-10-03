@@ -36,15 +36,15 @@
         <td style="width: 20%;">Camouflaged Object Segmentation</td>
     </tr>
     <tr>
-        <td style="width: 20%;">:green_square:<code>COG</code></td>
-        <td style="width: 20%;">Camouflage Object Generation</td>
+        <td style="width: 20%;">:green_square:<code>CG</code></td>
+        <td style="width: 20%;">Camouflage Generation</td>
         <td style="width: 20%;">:red_square:<code>VCOD</code></td>
         <td style="width: 20%;">Video Camouflaged Object Detection</td>
     </tr>
     <tr>
         <td style="width: 20%;">:purple_square:<code>COT</code></td>
         <td style="width: 20%;">Camouflaged Object Tracking</td>
-        <td style="width: 20%;">:white_large_square:<code>COX</code></td>
+        <td style="width: 20%;">:white_large_square:<code>CX</code></td>
         <td style="width: 20%;">Other types of Camouflage task</td>
     </tr>
 </table>
