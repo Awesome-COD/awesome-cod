@@ -93,7 +93,7 @@
                 <li><a href="#7-Camouflage-Tracking">7. Camouflage Tracking</a></li>
                 <li><a href="#8-Other-Related">8. Other Related</a></li>
                 <li><a href="#9-Datasets">9. Datasets</a></li>
-                <li><a href="#10-Reference">10. Reference</a></li>
+                <li><a href="#Reference">10. Reference</a></li>
             </ul>
         </td>
     </tr>
