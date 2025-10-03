@@ -59,7 +59,7 @@
     <tr>
         <td> <!--左侧内容-->
             <ul>
-                <li><a href="#ArXiv">ArXiv</a></li>
+                <li><a href="#Latest">Latest Work</a></li>
                 <li><a href="#Survey-Papers">Survey Papers</a></li>
                 <li><a href="#Universal-Segmentation">Universal Segmentation</a></li>
                 <li><a href="#COD">Camouflaged Object Detection (COD)</a></li>
@@ -153,11 +153,12 @@ MVCOD  | 2025 | arXiv | [Paper](https://arxiv.org/abs/2502.13859) | Video | 162/
 </details>
 
 
-## <span id="ArXiv">ArXiv (Last 6 months)</span>
+## <span id="Latest">Latest Work (Last 6 months)</span>
 
-:white_large_square: `XCOD` `2023` `Mar` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; [Paper](https://arxiv.org/abs/2305.18476) / [Code](https://github.com/NiFangBaAGe/Explicit-Visual-Prompt) &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; Explicit Visual Prompting for Universal Foreground Segmentations
+| **Note** | **Task** | **Year** | **Month** | **Links** | **Title** |
+|:white_large_square: | `XCOD` | `2023` | `Mar` | [Paper](https://arxiv.org/abs/2305.18476) / [Code](https://github.com/NiFangBaAGe/Explicit-Visual-Prompt) | Explicit Visual Prompting for Universal Foreground Segmentations |
 
-## TEST
+
 
 ## Reference
 
