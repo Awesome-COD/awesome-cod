@@ -178,13 +178,8 @@ MVCOD  | 2025 | arXiv | [Paper](https://arxiv.org/abs/2502.13859) | Video | 162/
             <span id="Image-Camouflage-Detection">Image Camouflage Detection</span>
         </h2>
     </summary>
-    <details>
-        <summary>
-            <h3>
-                <span id="COD">Camouflaged Object Detection</span>
-            </h3>
-        </summary>
-    </details>
+    - <span id="COD">Camouflaged Object Detection</span>
+    - <span id="COD">Camouflaged Object Detection</span>
 </details>
 
 
