@@ -79,13 +79,13 @@
             <ul>
                 <li><a href="#4-Video-Camouflage-Detection">4. Video Camouflage Detection</a>
                     <ul>
-                         <li><a href="#41-Video-Camouflaged-Object-Detection-(VCOD)">4.1. Video Camouflaged Object Detection (VCOD)</a></li>
+                         <li><a href="#41-Video-Camouflaged-Object-Detection">4.1. Video Camouflaged Object Detection (VCOD)</a></li>
                     </ul>
                 </li>
                 <li><a href="#5-Camouflage-Segmentation">5. Camouflage Segmentation</a>
                     <ul>
-                        <li><a href="#51-Camouflage-Object-Segmentation-(COS)">5.1. Camouflage Object Segmentation (COS)</a>
-                        <li><a href="#52-Camouflaged-Instance-Segmentation-(CIS)">5.2. Camouflaged Instance Segmentation (CIS)</a></li>
+                        <li><a href="#51-Camouflage-Object-Segmentation">5.1. Camouflage Object Segmentation (COS)</a>
+                        <li><a href="#52-Camouflaged-Instance-Segmentation">5.2. Camouflaged Instance Segmentation (CIS)</a></li>
                         <li><a href="#53-Open-Vocabulary-COS">5.3. Open-Vocabulary COS</a></li>
                     </ul>
                 </li>
@@ -149,7 +149,7 @@
         </h2>
     </summary>
     
-### 4.1. Video Camouflaged Object Detection (VCOD)
+### 4.1. Video Camouflaged Object Detection
 
 
 </details>
@@ -162,11 +162,9 @@
     </summary>
 
 
-### 5.1. Camouflage Object Segmentation (COS)
+### 5.1. Camouflage Object Segmentation
 
-
-### 5.2. Camouflaged Instance Segmentation (CIS)
-
+### 5.2. Camouflaged Instance Segmentation
 
 ### 5.3. Open-Vocabulary COS
 
