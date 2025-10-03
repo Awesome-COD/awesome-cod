@@ -89,10 +89,10 @@
                         <li><a href="#53-OVCOS">5.3. Open-Vocabulary COS</a></li>
                     </ul>
                 </li>
-                <li><a href="#Camouflage-Generation">6. Camouflage Generation</a></li>
-                <li><a href="#Camouflage-Tracking">7. Camouflage Tracking</a></li>
-                <li><a href="#Other-Related">8. Other Related</a></li>
-                <li><a href="#Datasets">9. Datasets</a></li>
+                <li><a href="#6-Camouflage-Generation">6. Camouflage Generation</a></li>
+                <li><a href="#7-Camouflage-Tracking">7. Camouflage Tracking</a></li>
+                <li><a href="#8-Other-Related">8. Other Related</a></li>
+                <li><a href="#9-Datasets">9. Datasets</a></li>
                 <li><a href="#10-Reference">10. Reference</a></li>
             </ul>
         </td>
@@ -101,7 +101,7 @@
 
 ---
 
-## <span id="1-Latest"> :fire: 1. Latest Work (Last 6 months)</span>
+## :fire: 1. Latest Work (Last 6 months)
 
 | **Task** | **Pub** |**Year** | **Month** | **Links** | **Title** |
 | :------: | :-----: | :-----: | :-------: | :-------: | :-------: |
