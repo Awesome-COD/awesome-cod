@@ -112,7 +112,7 @@
 <details>
     <summary>
         <h2>
-            <span id="3-Image-Camouflage-Detection">3. Image Camouflage Detection</span>
+            <span id="#3-Image-Camouflage-Detection">3. Image Camouflage Detection</span>
         </h2>
     </summary>
     <details>
