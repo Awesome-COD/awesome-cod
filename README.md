@@ -134,9 +134,8 @@
                 <span>3.1. Camouflaged Object Detection</span>
             </h3>
         </summary>
-        
-| **Year** | **Pub.** | **Method** | **Title** | **Links** |
-| :------: | :------: | :-------: | :--------: | :-------: |
+        | **Year** | **Pub.** | **Method** | **Title** | **Links** |
+        | :------: | :------: | :-------: | :--------: | :-------: |
     </details>
     
 ### 3.2. Semi-supervised COD
