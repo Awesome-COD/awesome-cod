@@ -61,33 +61,40 @@
             <ul>
                 <li><a href="#Latest">Latest Work</a></li>
                 <li><a href="#Survey-Papers">Survey Papers</a></li>
-                <li><a href="#Camouflage-Detection">Camouflage Detection</a>
+                <li><a href="#Image-Camouflage-Detection">Image Camouflage Detection</a>
                     <ul>
                         <li><a href="#COD">Camouflaged Object Detection (COD)</a></li>
                         <li><a href="#Semi-supervised-COD">Semi-supervised COD</a></li>
-                        <li><a href="#WSCOD">Weakly-supervised COD</a></li>
+                        <li><a href="#Weakly-supervised-COD">Weakly-supervised COD</a></li>
                         <li><a href="#Unsupervised-COD">Unsupervised COD</a></li>
+                        <li><a href="#RefCOD">Referring COD</a></li>
                         <li><a href="#Zero-Shot-COD">Zero-Shot COD</a></li>
-                        <li><a href="#Spectral-COD">(Multi/Hyper-)Spectral COD</a></li>
-                        <li><a href="#MMW-COD">MMW COD</a></li>
+                        <li><a href="#Spectral-COD">Multispectral COD</a></li>
+                        <li><a href="#Polarized-COD">Polarized COD</a></li>
                     </ul>
                 </li>
-                <li><a href="#VCOD">Video Camouflaged Object Detection (VCOD)</a></li>
-                <li><a href="#RefCOD">Referring COD</a></li>
             </ul>
         </td>
         <td> <!--右侧内容-->
             <ul>
+                <li><a href="#Video-Camouflage-Detection">Video Camouflage Detection</a>
+                    <ul>
+                         <li><a href="#VCOD">Video Camouflaged Object Detection (VCOD)</a></li>
+                    </ul>
+                </li>
                 <li><a href="#Camouflage-Segmentation">Camouflage Segmentation</a>
                     <ul>
                         <li><a href="#COS">Camouflage Object Segmentation (COS)</a>
                         <li><a href="#CIS">Camouflaged Instance Segmentation (CIS)</a></li>
                         <li><a href="#OVCOS">Open-Vocabulary COS</a></li>
-                        <li><a href="#RGBP-COS">RGB-P COS</a></li>
                     </ul>
                 </li>
                 <li><a href="#Camouflage-Generation">Camouflage Generation</a></li>
-                <li><a href="#Camouflaged-Object-Tracking">Camouflaged Object Tracking (COT)</a></li>
+                <li><a href="#Camouflaged-Tracking">Camouflaged Tracking</a>
+                    <ul>
+                        <li><a href="#Camouflaged-Object-Tracking">Camouflaged Object Tracking (COT)</a></li>
+                    </ul>
+                </li>
                 <li><a href="#Other-Related">Other Related</a></li>
                 <li><a href="#Datasets">Datasets</a></li>
                 <li><a href="#Reference">Reference</a></li>
