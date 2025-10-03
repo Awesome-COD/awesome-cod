@@ -101,7 +101,9 @@
 
 ---
 
-## :fire: 1. Latest Work (Last 6 months)
+<h2>
+    <span id="#1-Latest">:fire: 1. Latest Work (Last 6 months)</span>
+</h2>
 
 | **Task** | **Pub** |**Year** | **Month** | **Links** | **Title** |
 | :------: | :-----: | :-----: | :-------: | :-------: | :-------: |
