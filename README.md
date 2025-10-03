@@ -61,13 +61,12 @@
             <ul>
                 <li><a href="#Latest">Latest Work</a></li>
                 <li><a href="#Survey-Papers">Survey Papers</a></li>
-                <li><a href="#Universal-Segmentation">Universal Segmentation</a></li>
                 <li><a href="#COD">Camouflaged Object Detection (COD)</a>
                     <ul>
                         <li><a href="#Semi-supervised-COD">Semi-supervised COD</a></li>
+                        <li><a href="#WSCOD">Weakly-supervised COD</a></li>
                         <li><a href="#Unsupervised-COD">Unsupervised COD</a></li>
                         <li><a href="#Zero-Shot-COD">Zero-Shot COD</a></li>
-                        <li><a href="#WSCOD">Weakly-supervised COD</a></li>
                         <li><a href="#Spectral-COD">(Multi/Hyper-)Spectral COD</a></li>
                         <li><a href="#MMW-COD">MMW COD</a></li>
                     </ul>
