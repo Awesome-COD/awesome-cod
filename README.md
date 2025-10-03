@@ -67,22 +67,26 @@
                         <li><a href="#Semi-supervised-COD">Semi-supervised COD</a></li>
                         <li><a href="#Unsupervised-COD">Unsupervised COD</a></li>
                         <li><a href="#Zero-Shot-COD">Zero-Shot COD</a></li>
+                        <li><a href="#WSCOD">Weakly-supervised COD</a></li>
+                        <li><a href="#Spectral-COD">(Multi/Hyper-)Spectral COD</a></li>
+                        <li><a href="#MMW-COD">MMW COD</a></li>
                     </ul>
                 </li>
-                <li><a href="#VCOD">Video Camouflaged Object Detection (VCOD)</a></li>
-                <li><a href="#CIS">Camouflaged Instance Segmentation (CIS)</a></li>
-                <li><a href="#WSCOD">Weakly-supervised COD</a></li>
             </ul>
         </td>
         <td> <!--右侧内容-->
             <ul>
+                <li><a href="#VCOD">Video Camouflaged Object Detection (VCOD)</a></li>
                 <li><a href="#RefCOD">Referring COD</a></li>
-                <li><a href="#OVCOS">Open-Vocabulary COS</a></li>
-                <li><a href="#RGBP-COS">RGB-P COS</a></li>
-                <li><a href="#MMW-COD">MMW COD</a></li>
+                <li><a href="#CIS">Camouflaged Instance Segmentation (CIS)</a></li>
+                <li><a href="#COS">Camouflaged Object Segmentation (COS)</a>
+                    <ul>
+                        <li><a href="#OVCOS">Open-Vocabulary COS</a></li>
+                        <li><a href="#RGBP-COS">RGB-P COS</a></li>
+                    </ul>
+                </li>
                 <li><a href="#Camouflage-Generation">Camouflage Generation</a></li>
                 <li><a href="#Camouflaged-Object-Tracking">Camouflaged Object Tracking (COT)</a></li>
-                <li><a href="#Spectral-COD">(Multi/Hyper-)Spectral COD</a></li>
                 <li><a href="#Other-Related">Other Related</a></li>
                 <li><a href="#Datasets">Datasets</a></li>
                 <li><a href="#Reference">Reference</a></li>
