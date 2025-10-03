@@ -112,38 +112,23 @@
 <details>
     <summary>
         <h2>
-            <span id="Image-Camouflage-Detection">Image Camouflage Detection</span>
+            <span id="3-Image-Camouflage-Detection">3. Image Camouflage Detection</span>
         </h2>
     </summary>
     <details>
         <summary>
             <h3>
-                <span id="COD">Camouflaged Object Detection</span>
+                <span id="31-COD">3.1. Camouflaged Object Detection</span>
             </h3>
         </summary>
     </details>
-    <details>
-        <summary>
-            <h3>
-                <span id="Semi-supervised-COD">Semi-supervised COD</span>
-            </h3>
-        </summary>
-    </details>
-    <details>
-        <summary>
-            <h3>
-                <span id="COD">Camouflaged Object Detection</span>
-            </h3>
-        </summary>
-    </details>
-    <details>
-        <summary>
-            <h3>
-                <span id="COD">Camouflaged Object Detection</span>
-            </h3>
-        </summary>
-    </details>
-
+    ### 3.2. Semi-supervised COD</a></li>
+    ### 3.3. Weakly-supervised COD</a></li>
+    ### 3.4. Unsupervised COD</a></li>
+    ### 3.5. Referring COD</a></li>
+    ### 3.6. Zero-Shot COD</a></li>
+    ### 3.7. Multispectral COD</a></li>
+    ### 3.8. Polarized COD</a></li>
 
 </details>
 
