@@ -84,17 +84,13 @@
                 </li>
                 <li><a href="#Camouflage-Segmentation">Camouflage Segmentation</a>
                     <ul>
-                        <li><a href="#COS">Camouflage Object Segmentation (COS)</a>
+                        <li><a href="#COS"><sub>Camouflage Object Segmentation (COS)</sub></a>
                         <li><a href="#CIS">Camouflaged Instance Segmentation (CIS)</a></li>
                         <li><a href="#OVCOS">Open-Vocabulary COS</a></li>
                     </ul>
                 </li>
                 <li><a href="#Camouflage-Generation">Camouflage Generation</a></li>
-                <li><a href="#Camouflaged-Tracking">Camouflaged Tracking</a>
-                    <ul>
-                        <li><a href="#Camouflaged-Object-Tracking">Camouflaged Object Tracking (COT)</a></li>
-                    </ul>
-                </li>
+                <li><a href="#Camouflage-Tracking">Camouflage Tracking</a></li>
                 <li><a href="#Other-Related">Other Related</a></li>
                 <li><a href="#Datasets">Datasets</a></li>
                 <li><a href="#Reference">Reference</a></li>
