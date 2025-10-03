@@ -136,7 +136,7 @@
 
 ## 5. Camouflage Segmentation
 
-## 6. Camouflage Grneration
+## 6. Camouflage Generation
 
 ## 7. Camouflage Tracking
 
