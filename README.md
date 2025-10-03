@@ -79,7 +79,7 @@
             <ul>
                 <li><a href="#4-Video-Camouflage-Detection">4. Video Camouflage Detection</a>
                     <ul>
-                         <li><a href="#41-VCOD">4.1. Video Camouflaged Object Detection (VCOD)</a></li>
+                         <li><a href="#41-Video-Camouflaged-Object-Detection-(VCOD)">4.1. Video Camouflaged Object Detection (VCOD)</a></li>
                     </ul>
                 </li>
                 <li><a href="#5-Camouflage-Segmentation">5. Camouflage Segmentation</a>
@@ -144,7 +144,15 @@
 
 ## 4. Video Camouflage Detection
 
+### 4.1. Video Camouflaged Object Detection (VCOD)
+
 ## 5. Camouflage Segmentation
+
+### 5.1. Camouflage Object Segmentation (COS)
+
+### 5.2. Camouflaged Instance Segmentation (CIS)
+
+### 5.3. Open-Vocabulary COS
 
 ## 6. Camouflage Generation
 
