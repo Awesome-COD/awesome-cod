@@ -148,8 +148,7 @@
             <span>4. Video Camouflage Detection</span>
         </h2>
     </summary>
-
-
+    
 ### 4.1. Video Camouflaged Object Detection (VCOD)
 
 
@@ -159,6 +158,7 @@
     <summary>
         <h2 id="5-Camouflage-Segmentation">
             <span>5. Camouflage Segmentation</span>
+        </h2>
     </summary>
 
 
