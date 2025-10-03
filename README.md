@@ -71,12 +71,12 @@
                         <li><a href="#MMW-COD">MMW COD</a></li>
                     </ul>
                 </li>
+                <li><a href="#VCOD">Video Camouflaged Object Detection (VCOD)</a></li>
+                <li><a href="#RefCOD">Referring COD</a></li>
             </ul>
         </td>
         <td> <!--右侧内容-->
             <ul>
-                <li><a href="#VCOD">Video Camouflaged Object Detection (VCOD)</a></li>
-                <li><a href="#RefCOD">Referring COD</a></li>
                 <li><a href="#CIS">Camouflaged Instance Segmentation (CIS)</a></li>
                 <li><a href="#COS">Camouflaged Object Segmentation (COS)</a>
                     <ul>
