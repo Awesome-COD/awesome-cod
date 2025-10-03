@@ -110,8 +110,13 @@
 |:white_large_square: `XCOD` | `2023/Mar` | `Arxiv` |  | Explicit Visual Prompting for Universal Foreground Segmentations <br> <sup><sub>*Weihuang Liu, Xi Shen, Chi-Man Pun, Xiaodong Cun*</sub></sup> | [Paper](https://arxiv.org/abs/2305.18476) / [Code](https://github.com/NiFangBaAGe/Explicit-Visual-Prompt) |
 
 
-
-## 2. Survey Papers
+<details>
+    <summary>
+        <h2 id="2-Survey-Papers">
+            <span>2. Survey Papers</span>
+        </h2>
+    </summary>
+</details>
 
 
 <!--Image Camouflage Detection-->
@@ -143,8 +148,9 @@
 
 ### 3.8. Polarized COD
 
-
 </details>
+
+---
 
 <details>
     <summary>
@@ -157,6 +163,8 @@
 
 
 </details>
+
+---
 
 <details>
     <summary>
@@ -172,14 +180,39 @@
 
 ### 5.3. Open-Vocabulary COS
 
-
 </details>
 
-## 6. Camouflage Generation
+---
 
-## 7. Camouflage Tracking
+<details>
+    <summary>
+        <h2 id="6-Camouflage-Generation">
+            <span>6. Camouflage Generation</span>
+        </h2>
+    </summary>
+</details>
 
-## 8. Other Related
+---
+
+<details>
+    <summary>
+        <h2 id="7-Camouflage-Tracking">
+            <span>7. Camouflage Tracking</span>
+        </h2>
+    </summary>
+</details>
+
+---
+
+<details>
+    <summary>
+        <h2 id="8-Other-Related">
+            <span>8. Other Related</span>
+        </h2>
+    </summary>
+</details>
+
+---
 
 ## 9. Datasets
 <sup>Note: Ann. Img. = Number of frames annotated in the dataset; BBbox = Bounding box; Pix. = Pixel-level mask; Ins. = Instance mask; Cate. = Category.</sup>
