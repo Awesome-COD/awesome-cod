@@ -302,30 +302,32 @@
 
 ----------------------------------------------------------------------------------------------------------------------
 
+
 <details>
-    <summary>
-        <h2 id="6-Camouflage-Generation">
-            <span>6. Camouflage Generation</span>
-        </h2>
-    </summary>
+    <summary><h2 id="6-Camouflage-Generation"><span>6. Camouflage Generation</span></h2></summary>
 
 | **Year** | **Pub.** | **Method** | **Title** | **Links** |
 | :------: | :------: | :-------: | :--------: | :-------: |
-
+| 2025 | CVPR | `CO+RE-BG` | Camouflage Anything: Learning to Hide using Controlled Out-painting and Representation Engineering   <br> <sup><sub>*Biplab Das, Viswanath Gopalakrishnan*</sub></sup>  | [Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Das_Camouflage_Anything_Learning_to_Hide_using_Controlled_Out-painting_and_Representation_CVPR_2025_paper.html)\|Code
+| 2024 | CVPR | `LAKE-RED` | LAKE-RED: Camouflaged Images Generation by Latent Background Knowledge Retrieval-Augmented Diffusion   <br> <sup><sub>*Pancheng Zhao, Peng Xu, Pengda Qin, Deng-Ping Fan, Zhicheng Zhang, Guoli Jia, Bowen Zhou, Jufeng Yang*</sub></sup>  | [Paper](https://arxiv.org/abs/2404.00292)\|[Code](https://github.com/PanchengZhao/LAKE-RED) 
+| 2023 | AIR | `CamDiff` | CamDiff: Camouflage Image Augmentation via Diffusion Model   <br> <sup><sub>*Xue-Jing Luo, Shuo Wang, Zongwei Wu, Christos Sakaridis, Yun Cheng, Deng-Ping Fan, Luc Van Gool*</sub></sup> | [Paper](https://arxiv.org/abs/2304.05469)\|[Code](https://github.com/drlxj/CamDiff) 
+| 2022 | CVPR | `GANmouflage` | GANmouflage: 3D Object Nondetection with Texture Fields   <br> <sup><sub>*Rui Guo, Jasmine Collins, Oscar de Lima, Andrew Owens*</sub></sup>  | [Paper](https://arxiv.org/abs/2201.07202)\|[Proj](https://rrrrrguo.github.io/ganmouflage/)
+| 2022 | TMM | `LCG-Net` | Location-Free Camouflage Generation Network  <br> <sup><sub>*Yangyang Li, Wei Zhai, Yang Cao, Zheng-jun Zha*</sub></sup> | [Paper](https://arxiv.org/abs/2203.09845)\|[Code](https://github.com/Tale17/LCG-Net) 
+| 2020 | AAAI | `-` | Deep Camouflage Images        <br><sup><sub>*Qing Zhang, Gelin Yin, Yongwei Nie, Wei-Shi Zheng*</sub></sup>       | [Paper](https://ojs.aaai.org//index.php/AAAI/article/view/6981)\|[Code](https://github.com/hirokic5/Pytorch_CamouflageImages)
 </details>
+
+
+
+
 
 ----------------------------------------------------------------------------------------------------------------------
 
 <details>
-    <summary>
-        <h2 id="7-Camouflage-Tracking">
-            <span>7. Camouflage Tracking</span>
-        </h2>
-    </summary>
+    <summary><h2 id="7-Camouflage-Tracking"><span>7. Camouflage Tracking</span></h2></summary>
 
 | **Year** | **Pub.** | **Method** | **Title** | **Links** |
 | :------: | :------: | :-------: | :--------: | :-------: |
-
+| 2025 | ACMMM DS | `HiPTrack-MLS` | Camouflaged Object Tracking: A Benchmark <br> <sup><sub>*Xiaoyu Guo, Pengzhi Zhong, Hao Zhang, Defeng Huang, Huikai Shao, Qijun Zhao, Shuiwang Li*</sub></sup>  | [Paper](https://arxiv.org/abs/2408.13877)\|[Code](https://github.com/openat25/HIPTrack-MLS)
 </details>
 
 ----------------------------------------------------------------------------------------------------------------------
