@@ -353,16 +353,17 @@
 
 ----------------------------------------------------------------------------------------------------------------------
 
+
 <details>
-    <summary>
-        <h2 id="8-Other-Related">
-            <span>8. Other Related</span>
-        </h2>
-    </summary>
+    <summary><h2 id="8-Other-Related"><span>8. Other Related</span></h2></summary>
 
 | **Year** | **Pub.** | **Method** | **Title** | **Links** |
 | :------: | :------: | :-------: | :--------: | :-------: |
-
+| 2025 | TCSVT | `DAD` | Towards Complex Backgrounds: A Unified Difference-Aware Decoder for Binary Segmentation    <br> <sup><sub>*Jiepan Li; Wei He; Fangxiao Lu; Hongyan Zhang*</sub></sup>  | [Paper](https://ieeexplore.ieee.org/document/11175179)\|[Code](https://github.com/Henryjiepanli/DAD)   
+| 2025 | AAAI | `FOCUS` | FOCUS: Towards Universal Foreground Segmentation   <br> <sup><sub>*Zuyao You, Lingyu Kong, Lingchen Meng, Zuxuan Wu*</sub></sup>  | [Paper](https://arxiv.org/abs/2501.05238)\|[Code](https://geshang777.github.io/focus.github.io/)  
+| 2024 | ICML | `Spider` | Spider: A Unified Framework for Context-dependent Concept Understanding    <br> <sup><sub>*Xiaoqi Zhao, Youwei Pang, Wei Ji, Baicheng Sheng, Jiaming Zuo, Lihe Zhang, Huchuan Lu*</sub></sup>  | [Paper](https://arxiv.org/abs/2405.01002)\|[Code](https://github.com/Xiaoqi-Zhao-DLUT/Spider-UniCDSeg)  
+| 2024 | IJCV | `GateNetv2` | Towards Diverse Binary Segmentation via A Simple yet General Gated Network   <br> <sup><sub>*Xiaoqi Zhao, Youwei Pang, Lihe Zhang, Huchuan Lu, Lei Zhang*</sub></sup>  | [Paper](https://arxiv.org/abs/2303.10396)\|[Code](https://github.com/Xiaoqi-Zhao-DLUT/GateNet-RGB-Saliency)\|[Res.](https://github.com/Xiaoqi-Zhao-DLUT/Awesome-Unified-Context-dependent-Concept-Segmentation) 
+| 2022 | CVPR | `DTA` | DTA: Physical Camouflage Attacks using Differentiable Transformation Network     <br> <sup><sub>*Naufal Suryanto, Yongsu Kim, Hyoeun Kang, et al.*</sub></sup> | [Paper](https://arxiv.org/abs/2203.09831)\|Code
 </details>
 
 ----------------------------------------------------------------------------------------------------------------------
