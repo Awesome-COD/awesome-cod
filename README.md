@@ -170,7 +170,12 @@
 
 | **Year** | **Pub.** | **Method** | **Title** | **Links** |
 | :------: | :------: | :-------: | :--------: | :-------: |
+| 2025 | CVPR | `UCOD-DPL` | UCOD-DPL: Unsupervised Camouflaged Object Detection via Dynamic Pseudo-label Learning   <br> <sup><sub>*Weiqi Yan, Lvhai Chen, Huaijia Kou, Shengchuan Zhang, Yan Zhang, Liujuan Cao*</sub></sup>  | [Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Yan_UCOD-DPL_Unsupervised_Camouflaged_Object_Detection_via_Dynamic_Pseudo-label_Learning_CVPR_2025_paper.html)\|[Code](https://github.com/Heartfirey/UCOD-DPL) 
+| 2025 | CVPR | `EASE` | Shift the Lens: Environment-Aware Unsupervised Camouflaged Object Detection  <br> <sup><sub>*Ji Du, Fangwei Hao, Mingyang Yu, Desheng Kong, Jiesheng Wu, Bin Wang, Jing Xu, Ping Li*</sub></sup>  | [Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Du_Shift_the_Lens_Environment-Aware_Unsupervised_Camouflaged_Object_Detection_CVPR_2025_paper.html)\|[Code](https://github.com/xiaohainku/EASE) 
+| 2025 | AAAI |  `SdalsNet` | SdalsNet: Self-Distilled Attention Localization and Shift Network for Unsupervised Camouflaged Object Detection  <br> <sup><sub>*Peiyao Shou, Yixiu Liu, Wei Wang, Yaoqi Sun, Zhigao Zheng, Shangdong Zhu, Chenggang Yan*</sub></sup>  | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/32742)\|Code
+| 2023 | ICCVW | `UCOS-DA` | Unsupervised Camouflaged Object Segmentation as Domain Adaptation   <br> <sup><sub>*Yi Zhang; Chengyi Wu*</sub></sup>  | [Paper](https://openaccess.thecvf.com/content/ICCV2023W/OODCV/html/Zhang_Unsupervised_Camouflaged_Object_Segmentation_as_Domain_Adaptation_ICCVW_2023_paper.html)\|[Code](https://github.com/YeeZ93/UCOS-DA)
 </details>
+
 
 
 <details>
@@ -178,7 +183,13 @@
 
 | **Year** | **Pub.** | **Method** | **Title** | **Links** |
 | :------: | :------: | :-------: | :--------: | :-------: |
+| --  | arXiv | `MLKG` | Large Model Based Referring Camouflaged Object Detection   <br> <sup><sub>*Shupeng Cheng, Ge-Peng Ji, Pengda Qin, Deng-Ping Fan, Bowen Zhou, Peng Xu*</sub></sup>  | [Paper](https://arxiv.org/abs/2311.17122)\|Code   
+| 2025  | TIP | `UAT` | Uncertainty-Aware Transformer for Referring Camouflaged Object Detection  <br> <sup><sub>*Ranwan Wu, Tian-Zhu Xiang, Guo-Sen Xie, Rongrong Gao, Xiangbo Shu, Fang Zhao, Ling Shao*</sub></sup>  | [Paper](https://ieeexplore.ieee.org/abstract/document/11080234)\|[Code](https://github.com/CVL-hub/UAT)
+| 2025 | WACV | `CIRCOD` | CIRCOD: Co-Saliency Inspired Referring Camouflaged Object Discovery  <br> <sup><sub>*Avi Gupta; Koteswar Rao Jerripothula; Tammam Tillo*</sub></sup>  | [Paper](https://www.computer.org/csdl/proceedings-article/wacv/2025/108300i320/25KnoFtUNIA)\|[Code](https://github.com/avigupta2798/CIRCOD/)    
+| 2025  | TPAMI | `R2CNet` | Referring Camouflaged Object Detection <br> <sup><sub>*Xuying Zhang, Bowen Yin, Zheng Lin, Qibin Hou, Deng-Ping Fan, Ming-Ming Cheng*</sub></sup>  | [Paper](https://arxiv.org/abs/2306.07532)\|[Code](https://github.com/zhangxuying1004/RefCOD)   
+| 2024 | ICME | `RPMA` | Reference Prompted Model Adaptation for Referring Camouflaged Object Detection   <br> <sup><sub>*Xuewei Liu; Shaofei Huang; Ruipu Wu; Hengyuan Zhao; Duo Xu; Xiaoming Wei, Jizhong Han, Si Liu*</sub></sup>  | [Paper](https://ieeexplore.ieee.org/abstract/document/10687557)\|Code
 </details>
+
 
 
 <details>
@@ -186,7 +197,12 @@
 
 | **Year** | **Pub.** | **Method** | **Title** | **Links** |
 | :------: | :------: | :-------: | :--------: | :-------: |
+| 2025 | TPAMI | `CaMF` | Towards Real Zero-Shot Camouflaged Object Segmentation without Camouflaged Annotations      <br> <sup><sub>*Cheng Lei, Jie Fan, Xinran Li, Tian-Zhu Xiang, Ao Li, Ce Zhu, Le Zhang*</sub></sup>  | [Paper](https://arxiv.org/abs/2410.16953)\|[Code](https://github.com/R-LEI360725/ZSCOS-CaMF)
+| 2025 | ACMMM | `--` |  From Language to Instance: Generative Visual Prompting for Zero-shot Camouflaged Object Detection   <br> <sup><sub>*Zihou Zhang, Hao Li, Zhengwei Yang, Zechao Hu, Liang Li, Zheng Wang*</sub></sup>  | Paper\|Code  
+| 2024 | ACMMM | `MMCPF` | Chain of Visual Perception: Harnessing Multimodal Large Language Models for Zero-shot Camouflaged Object Detection    <br> <sup><sub>*Lv Tang, Peng-Tao Jiang, Zhihao Shen, Hao Zhang, Jinwei Chen, Bo Li*</sub></sup>  | [Paper](https://arxiv.org/abs/2311.11273)\|[Code](https://github.com/luckybird1994/MMCPF) 
+| 2023 | TIP | `ZSCOD` | Zero-Shot Camouflaged Object Detection     <br> <sup><sub>*Haoran Li; Chun-Mei Feng; Yong Xu; Tao Zhou; Lina Yao; Xiaojun Chang*</sub></sup> | [Paper](https://ieeexplore.ieee.org/abstract/document/10234216)\|Code  
 </details>
+
 
 
 <details>
@@ -194,7 +210,9 @@
 
 | **Year** | **Pub.** | **Method** | **Title** | **Links** |
 | :------: | :------: | :-------: | :--------: | :-------: |
+| 2025 | ACMMM DS | `MCOD` | MCOD: The First Challenging Benchmark for Multispectral Camouflaged Object Detection <br> <sup><sub>*Yang Li, Tingfa Xu, ShuYan Bai, Peifu Liu, Jianan Li*</sub></sup>  | [Paper](https://arxiv.org/abs/2509.15753)\|[Code](https://github.com/yl2900260-bit/MCOD)
 </details>
+
 
 
 <details>
@@ -202,6 +220,9 @@
 
 | **Year** | **Pub.** | **Method** | **Title** | **Links** |
 | :------: | :------: | :-------: | :--------: | :-------: |
+| 2025 | EAAI | `HIPFNet` | Polarization-based Camouflaged Object Detection with high-resolution adaptive fusion Network  <br> <sup><sub>*Xin Wang, Junfeng Xu, Jiajia Ding*</sub></sup>   | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197625002453)\|[Code](https://github.com/CVhfut/HIPFNet)
+| 2024 | EAAI | `IPNet` | IPNet: Polarization-based Camouflaged Object Detection via dual-flow network <br> <sup><sub>*Xin Wang, Jiajia Ding, Zhao Zhang, Junfeng Xu, Jun Gao*</sub></sup>   | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197623014872)\|[Code](https://github.com/CVhfut/PCOD_1200) 
+| 2023 | PRL | `PolarNet` | Polarization-based Camouflaged Object Detection <br> <sup><sub>*Xin Wang, Zhao Zhang, Jun Gao*</sub></sup>   | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0167865523002532)\|[Code](https://github.com/CVhfut/Polar-COD)
 </details>
 
 
