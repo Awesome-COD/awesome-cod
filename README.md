@@ -125,8 +125,10 @@
 | :------: | :------: | :-------: | :--------: | :-------: |
     
 </details>
-    
-### 3.2. Semi-supervised COD
+
+<details>
+    <summary><h3 id="32-COD"><span>3.2. Semi-supervised COD</span></h3></summary>    
+
 
 | **Year** | **Pub.** | **Method** | **Title** | **Links** |
 | :------: | :------: | :-------: | :--------: | :-------: |
@@ -136,37 +138,56 @@
 | 2024 | ACMMM | `-` | Semi-supervised Camouflaged Object Detection from Noisy Data  <br> <sup><sub>*Yuanbin Fu, Jie Ying, Houlei Lv, Xiaojie Guo*</sub></sup>  | [Paper](https://dl.acm.org/doi/abs/10.1145/3664647.3680645)\|Code 
 | 2024 | ECCV | `CamoTeacher` | CamoTeacher: Dual-Rotation Consistency Learning for Semi-Supervised Camouflaged Object Detection  <br> <sup><sub>*Xunfa Lai, Zhiyu Yang, Jie Hu, Shengchuan Zhang, Liujuan Cao, Guannan Jiang, Zhiyu Wang, Songan Zhang, Rongrong Ji*</sub></sup>  | [Paper](https://arxiv.org/abs/2408.08050)\|Code
 | 2024 | ECCV | `WSSCOD` | Learning Camouflaged Object Detection from Noisy Pseudo Label   <br> <sup><sub>*Jin Zhang, Ruiheng Zhang, Yanjiao Shi, Zhe Cao, Nian Liu, Fahad Shahbaz Khan*</sub></sup>  | [Paper](https://arxiv.org/abs/2407.13157)\|[Code](https://github.com/zhangjinCV/Noisy-COD) 
+</details>
 
-        
-### 3.3. Weakly-supervised COD
 
-| **Year** | **Pub.** | **Method** | **Title** | **Links** |
-| :------: | :------: | :-------: | :--------: | :-------: |
-    
-### 3.4. Unsupervised COD
+<details>
+    <summary><h3 id="33-COD"><span>3.3. Weakly-supervised COD</span></h3></summary>            
 
 | **Year** | **Pub.** | **Method** | **Title** | **Links** |
 | :------: | :------: | :-------: | :--------: | :-------: |
+</details>
 
-### 3.5. Referring COD
 
-| **Year** | **Pub.** | **Method** | **Title** | **Links** |
-| :------: | :------: | :-------: | :--------: | :-------: |
-
-### 3.6. Zero-Shot COD
+<details>
+    <summary><h3 id="34-COD"><span>3.4. Unsupervised COD</span></h3></summary>  
 
 | **Year** | **Pub.** | **Method** | **Title** | **Links** |
 | :------: | :------: | :-------: | :--------: | :-------: |
+</details>
 
-### 3.7. Multispectral COD
 
-| **Year** | **Pub.** | **Method** | **Title** | **Links** |
-| :------: | :------: | :-------: | :--------: | :-------: |
-
-### 3.8. Polarized COD
+<details>
+    <summary><h3 id="35-COD"><span>3.5. Referring COD</span></h3></summary>  
 
 | **Year** | **Pub.** | **Method** | **Title** | **Links** |
 | :------: | :------: | :-------: | :--------: | :-------: |
+</details>
+
+
+<details>
+    <summary><h3 id="36-COD"><span>3.6. Zero-Shot COD</span></h3></summary>  
+
+| **Year** | **Pub.** | **Method** | **Title** | **Links** |
+| :------: | :------: | :-------: | :--------: | :-------: |
+</details>
+
+
+<details>
+    <summary><h3 id="37-COD"><span>3.7. Multispectral COD</span></h3></summary>  
+
+| **Year** | **Pub.** | **Method** | **Title** | **Links** |
+| :------: | :------: | :-------: | :--------: | :-------: |
+</details>
+
+
+<details>
+    <summary><h3 id="38-COD"><span>3.8. Polarized COD</span></h3></summary>  
+
+| **Year** | **Pub.** | **Method** | **Title** | **Links** |
+| :------: | :------: | :-------: | :--------: | :-------: |
+</details>
+
 
 </details>
 
