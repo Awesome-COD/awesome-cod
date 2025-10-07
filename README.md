@@ -119,15 +119,23 @@
 <details>
     <summary><h2 id="3-Image-Camouflage-Detection"><span>3. Image Camouflage Detection</span></h2></summary>
 
+
+
+
 <details>
-    <summary><h3 id="31-COD"><span>3.1. Camouflaged Object Detection</span></h3></summary>
+    <summary><h3 id="31-COD"><span>3.1. Camouflaged Object Detection</span></h3></summary>  
+
+    <details>
+        <summary><h4>2026</h4></summary>
 
 | **Year** | **Pub.** | **Method** | **Title** | **Links** |
 | :------: | :------: | :-------: | :--------: | :-------: |
-| **2026** | | | | |
 | 2026 | PR | `TG-COD` | Text-guided camouflaged object detection <br> <sup><sub>*Zefeng Chen, Yunqi Xue, Zhijiang Li, Philip Torr, Jindong Gu*</sub></sup> | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320325007186)\|Code |
+
+    </details>
     
 </details>
+
 
 
 
