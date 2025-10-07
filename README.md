@@ -141,12 +141,28 @@
 </details>
 
 
+
 <details>
-    <summary><h3 id="33-COD"><span>3.3. Weakly-supervised COD</span></h3></summary>            
+    <summary><h3 id="33-COD"><span>3.3. Weakly-supervised COD</span></h3></summary>    
+
 
 | **Year** | **Pub.** | **Method** | **Title** | **Links** |
 | :------: | :------: | :-------: | :--------: | :-------: |
+| 2025 | TPAMI | `SEE` | Segment Concealed Objects with Incomplete Supervision   <br> <sup><sub>*Chunming He, Kai Li, Yachao Zhang, Ziyun Yang, Youwei Pang, Longxiang Tang, Chengyu Fang, Yulun Zhang, Linghe Kong, Xiu Li, Sina Farsiu*</sub></sup>  | [Paper](https://arxiv.org/abs/2506.08955)\|[Code](https://github.com/ChunmingHe/SEE)  
+| 2025 | TIP | `MSST` | UpGen: Unleashing Potential of Foundation Models for Training-Free Camouflage Detection via Generative Models  <br> <sup><sub>*Ji Du; Jiesheng Wu; Desheng Kong; Weiyun Liang; Fangwei Hao; Jing Xu; Bin Wang; Guiling Wang; Ping Li*</sub></sup>  | [Paper](https://ieeexplore.ieee.org/abstract/document/11131534)\|Code  
+| 2025 | ECAI | `FCT-SAM` | Scribble-based Weakly Supervised Camouflaged Object Detection via SAM-guided Feature Correlation Transformer  <br> <sup><sub>*Zi-Jie Wu, Rongrong Gao and Tian-Zhu Xiang*</sub></sup>  | Paper\|[Code](https://github.com/farewellIamLoser/FCT-SAM-WSCOD) 
+| 2025 | NN | `LRDNet` | Long-range diffusion for weakly camouflaged object segmentation <br>   <sup><sub>*Rui Wang, Caijuan Shi, Weixiang Gao, Changyu Duan, Ao Cai, Fei Yu, Yunchao Wei*</sub></sup>  | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608025007968)\|[Code](https://github.com/Ray3417/LRDNet)  
+| 2025 | KBS | `PPL` | Weakly supervised camouflaged object detection as Progressive Perception Learning   <br> <sup><sub>*Tianxin Han, Xingwei Wang, Qing Dong, Min Huang, Jie Jia, Fu Zhang*</sub></sup>  | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S095070512501038X)\|[Code](https://github.com/NGI-vision/PPL) 
+| 2025 | TCSVT | `SAM-COD+` | SAM-COD+: SAM-Guided Unified Framework for Weakly-Supervised Camouflaged Object Detection   <br> <sup><sub>*Huafeng Chen; Pengxu Wei; Guangqian Guo; Shan Gao*</sub></sup>  | [Paper](https://ieeexplore.ieee.org/document/10789225)\|Code  
+| 2025 | CVIU | `SCNet` | Adaptive context mining for camouflaged object detection with scribble supervision   <br> <sup><sub>*Dongdong Zhang, Chunping Wang, Huiying Wang, Qiang Fu, Zhaorui Li*</sub></sup>  | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1077314225001535)\|[Code](https://github.com/zcc0616/SCNet)  
+| 2024 | MM | `MiNet` | MiNet: Weakly-Supervised Camouflaged Object Detection through Mutual Interaction between Region and Edge Cues   <br> <sup><sub>*Yuzhen Niu, Lifen Yang, Rui Xu, Yuezhou Li, Yuzhong Chen*</sub></sup>  | [Paper](https://dl.acm.org/doi/10.1145/3664647.3680891)\|Code 
+| 2024 | ECCV | `WSSCOD` | Learning Camouflaged Object Detection from Noisy Pseudo Label  <br> <sup><sub>*Jin Zhang, Ruiheng Zhang, Yanjiao Shi, Zhe Cao, Nian Liu, Fahad Shahbaz Khan*</sub></sup>  | [Paper](https://arxiv.org/abs/2407.13157)\|Code 
+| 2024 | ECCV | `SAM-COD` | SAM-COD: SAM-guided Unified Framework for Weakly-Supervised Camouflaged Object Detection     <br> <sup><sub>*Huafeng Chen, Pengxu Wei, Guangqian Guo, Shan Gao*</sub></sup>  | [Paper](https://www.arxiv.org/abs/2408.10760)\|[Code](https://github.com/2231122/SAM-COD)
+| 2024 | ECCV | `-` | Just a Hint: Point-Supervised Camouflaged Object Detection   <br> <sup><sub>*Huafeng Chen, Dian Shao, Guangqian Guo, Shan Gao*</sub></sup>  | [Paper](https://arxiv.org/abs/2408.10777v1)\|[Code](https://github.com/2231122/PCOD) 
+| 2023 | NeurIPS | `WS-SAM` | Weakly-Supervised Concealed Object Segmentation with SAM-based Pseudo Labeling and Multi-scale Feature Grouping   <br> <sup><sub>*Chunming He, Kai Li, Yachao Zhang, Guoxia Xu, Longxiang Tang, Yulun Zhang, Zhenhua Guo, Xiu Li*</sub></sup>  | [Paper](https://arxiv.org/abs/2305.11003)\|[Code](https://github.com/ChunmingHe/WS-SAM)
+| 2023 | AAAI | `CRNet` | Weakly-Supervised Camouflaged Object Detection with Scribble Annotations <br> <sup><sub>*Ruozhen He, Qihua Dong, Jiaying Lin, Rynson W.H. Lau*</sub></sup>  | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25156)\|[Code](https://github.com/dddraxxx/Weakly-Supervised-Camouflaged-Object-Detection-with-Scribble-Annotations)
 </details>
+
 
 
 <details>
