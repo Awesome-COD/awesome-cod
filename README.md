@@ -266,15 +266,37 @@
 | **Year** | **Pub.** | **Method** | **Title** | **Links** |
 | :------: | :------: | :-------: | :--------: | :-------: |
 
-### 5.2. Camouflaged Instance Segmentation
+
+<details>
+    <summary><h3 id="52-COD"><span>5.2. Camouflaged Instance Segmentation</span></h3></summary>    
+
 
 | **Year** | **Pub.** | **Method** | **Title** | **Links** |
 | :------: | :------: | :-------: | :--------: | :-------: |
+| 2024 | MM | `TPNet` | Text-prompt Camouflaged Instance Segmentation with Graduated Camouflage Learning  <br> <sup><sub>*Zhentao He, Changqun Xia, Shengye Qiao, Jia Li*</sub></sup>  | [Paper](https://dl.acm.org/doi/10.1145/3664647.3681132)\|[Code](https://github.com/zertow/TPNet) 
+| 2024 | MM | `AQSFormer` | Adaptive Query Selection for Camouflaged Instance Segmentation   <br> <sup><sub>*Bo Dong, Pichao Wang, Hao Luo, Fan Wang*</sub></sup>  | [Paper](https://dl.acm.org/doi/10.1145/3664647.3680749)\|Code 
+| 2024 | ApplInt | `MSPNet` | Multi-scale pooling learning for camouflaged instance segmentation   <br> <sup><sub>*Chen Li, Ge Jiao, Guowen Yue, Rong He & Jiayu Huang*</sub></sup>  | [Paper](https://link.springer.com/article/10.1007/s10489-024-05369-2)\|[Code](https://github.com/another-u/MSPNet-main) 
+| 2023 | MM | `UQFormer` | A Unified Query-based Paradigm for Camouflaged Instance Segmentation  <br> <sup><sub>*Do Dong, Jialun Pei, Rongrong Gao, Tian-Zhu Xiang, Shuo Wang, Huan Xiong*</sub></sup>  | [Paper](https://arxiv.org/abs/2308.07392)\|[Code](https://github.com/dongbo811/UQFormer)
+| 2023 | CVPR | `DCNet` | Camouflaged Instance Segmentation via Explicit De-camouflaging  <br> <sup><sub>*Naisong Luo, Yuwen Pan, Rui Sun, Tianzhu Zhang, Zhiwei Xiong, Feng Wu*</sub></sup>  | [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Luo_Camouflaged_Instance_Segmentation_via_Explicit_De-Camouflaging_CVPR_2023_paper.pdf)\|[Code](https://github.com/USTCL/DCNet)
+| 2023 | arXiv | `-` | Leveraging Open-Vocabulary Diffusion to Camouflaged Instance Segmentation  <br> <sup><sub>*Tuan-Anh Vu, Duc Thanh Nguyen, Qing Guo, Binh-Son Hua, Nhat Minh Chung, Ivor W. Tsang, Sai-Kit Yeung*</sub></sup>  | [Paper](https://arxiv.org/abs/2312.17505)\|Code 
+| 2022 | ECCV | `OSFormer` | OSFormer: One-Stage Camouflaged Instance Segmentation with Transformers    <br> <sup><sub>*Jialun Pei, Tianyang Cheng, Deng-Ping Fan, et al.*</sub></sup> | [Paper](https://arxiv.org/abs/2207.02255)\|[Code](https://github.com/PJLallen/OSFormer)
+| 2022 | TIP | `CFL` | Camouflaged Instance Segmentation In-The-Wild: Dataset, Method, and Benchmark Suite <br> <sup><sub>*Trung-Nghia Le, Yubo Cao, Tan-Cong Nguyen, et al.*</sub></sup> | [Paper](https://arxiv.org/abs/2103.17123)\|[Proj](https://sites.google.com/view/ltnghia/research/camo_plus_plus)  
+| 2021 | AAAI | `-` | CamouFinder: Finding Camouflaged Instances in Images <br><sup><sub>*Trung-Nghia Le, Vuong Nguyen, Cong Le, et al.*</sub></sup> | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/18015)\|[Video](https://www.youtube.com/watch?v=RI4nt5MDmwE&ab_channel=TrungNgh%C4%A9aL%C3%AA)
+</details>
 
-### 5.3. Open-Vocabulary COS
+
+
+<details>
+    <summary><h3 id="53-COD"><span>5.3. Open-Vocabulary COS</span></h3></summary>    
+
 
 | **Year** | **Pub.** | **Method** | **Title** | **Links** |
 | :------: | :------: | :-------: | :--------: | :-------: |
+| 2024  | ECCV | `OVCoser` | Open-Vocabulary Camouflaged Object Segmentation <br> <sup><sub>*Youwei Pang, Xiaoqi Zhao, Jiaming Zuo, Lihe Zhang, Huchuan Lu*</sub></sup>   | [Paper](https://arxiv.org/abs/2311.11241)\|[Code](https://github.com/lartpang/OVCamo)
+| 2023  | arXiv | `-` | Leveraging Open-Vocabulary Diffusion to Camouflaged Instance Segmentation  <br> <sup><sub>*Tuan-Anh Vu, Duc Thanh Nguyen, Qing Guo, Binh-Son Hua, Nhat Minh Chung, Ivor W. Tsang, Sai-Kit Yeung*</sub></sup>  | [Paper](https://arxiv.org/abs/2312.17505)\|Code 
+</details>
+
+
 
 </details>
 
