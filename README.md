@@ -78,9 +78,8 @@
                 </li>
                 <li><a href="#5-Camouflage-Segmentation">5. Camouflage Segmentation</a>
                     <ul>
-                        <li><a href="#51-Camouflage-Object-Segmentation">5.1. Camouflage Object Segmentation (COS)</a>
-                        <li><a href="#52-Camouflaged-Instance-Segmentation">5.2. Camouflaged Instance Segmentation (CIS)</a></li>
-                        <li><a href="#53-Open-Vocabulary-COS">5.3. Open-Vocabulary COS</a></li>
+                        <li><a href="#51-Camouflaged-Instance-Segmentation">5.1. Camouflaged Instance Segmentation (CIS)</a></li>
+                        <li><a href="#52-Open-Vocabulary-COS">5.2. Open-Vocabulary COS</a></li>
                     </ul>
                 </li>
                 <li><a href="#6-Camouflage-Generation">6. Camouflage Generation</a></li>
@@ -537,14 +536,9 @@
     </summary>
 
 
-### 5.1. Camouflage Object Segmentation
-
-| **Year** | **Pub.** | **Method** | **Title** | **Links** |
-| :------: | :------: | :-------: | :--------: | :-------: |
-
 
 <details>
-    <summary><h3 id="52-COD"><span>5.2. Camouflaged Instance Segmentation</span></h3></summary>    
+    <summary><h3 id="51-Camouflaged-Instance-Segmentation"><span>5.1. Camouflaged Instance Segmentation</span></h3></summary>    
 
 
 | **Year** | **Pub.** | **Method** | **Title** | **Links** |
@@ -563,7 +557,7 @@
 
 
 <details>
-    <summary><h3 id="53-COD"><span>5.3. Open-Vocabulary COS</span></h3></summary>    
+    <summary><h3 id="53-COD"><span>5.2. Open-Vocabulary COS</span></h3></summary>    
 
 
 | **Year** | **Pub.** | **Method** | **Title** | **Links** |
