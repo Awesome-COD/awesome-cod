@@ -161,16 +161,11 @@
 <details>
     <summary><h3 id="31-COD"><span>3.1. Camouflaged Object Detection</span></h3></summary>
 
-### 2026
-
-| **Year** | **Pub.** | **Method** | **Title** | **Links** |
-| :------: | :------: | :-------: | :--------: | :-------: |
-| 2026 | PR | `TG-COD` | Text-guided camouflaged object detection <br> <sup><sub>*Zefeng Chen, Yunqi Xue, Zhijiang Li, Philip Torr, Jindong Gu*</sub></sup> | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320325007186)\|Code |
-
 ### 2025
 
 | **Year** | **Pub.** | **Method** | **Title** | **Links** |
 | :------: | :------: | :-------: | :--------: | :-------: |
+| 2026 | PR | `TG-COD` | Text-guided camouflaged object detection <br> <sup><sub>*Zefeng Chen, Yunqi Xue, Zhijiang Li, Philip Torr, Jindong Gu*</sub></sup> | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320325007186)\|Code |
 | 2025 | ACMMM | `--` | From Language to Instance: Generative Visual Prompting for Zero-shot Camouflaged Object Detection <br> <sup><sub>*Zihou Zhang, Hao Li, Zhengwei Yang, Zechao Hu, Liang Li, Zheng Wang*</sub></sup> | Paper\|Code |
 | 2025 | ACMMM | `ST-SAM` | ST-SAM: SAM-Driven Self-Training Framework for Semi-Supervised Camouflaged Object Detection <br> <sup><sub>*Xihang Hu, Fuming Sun, Jiazhe Liu, Feilong Xu, Xiaoli Zhang*</sub></sup> | [Paper](https://arxiv.org/abs/2507.23307)\|[Code](https://github.com/hu-xh/ST-SAM) |
 | 2025 | ACMMM | `SAM-TTT` | SAM-TTT: Segment Anything Model via Reverse Parameter Configuration and Test-Time Training for Camouflaged Object Detection <br> <sup><sub>*Zhenni Yu, LiZhao LiZhao, Guobao Xiao, Xiaoqin Zhang*</sub></sup> | [Paper](https://www.arxiv.org/abs/2509.11884)\|[Code](https://github.com/guobaoxiao/SAM-TTT) |
