@@ -99,10 +99,10 @@
     <span>:fire: 1. Latest Work (Last 6 months)</span>
 </h2>
 
-| **Task** | **Release** |**Pub.** | **Title** | **Links** |
-| :------: | :---------: | :-----: | :-------: | :-------: |
-|:white_large_square: `CX` | `2025/Dec` | `NIPS` | MMCSBench: A Fine-Grained Benchmark for Large Vision-Language Models in Camouflage Scenes <br> <sup><sub>*Jin Zhang, Ruiheng Zhang, Zhe Cao, Kaizheng Chen*</sub></sup> | Paper \| Code |
-|:orange_square: `COS` | `2025/Dec` | `NIPS` | CamSAM2: Segment Anything Accurately in Camouflaged Videos <br> <sup><sub>*Yuli Zhou, Guolei Sun, Yawei Li, Yuqian Fu, Luca Benini, Ender Konukoglu*</sub></sup> | [Paper](https://arxiv.org/abs/2503.19730) \| [Code](https://github.com/zhoustan/CamSAM2) |
+| **Task** | **Release** | **Pub.** | **Title** | **Links** |
+| :------: | :---------: | :------: | :-------: | :-------: |
+|:white_large_square: `CX` | `2025`<br>`Dec` | `NeurlPS` | MMCSBench: A Fine-Grained Benchmark for Large Vision-Language Models in Camouflage Scenes <br> <sup><sub>*Jin Zhang, Ruiheng Zhang, Zhe Cao, Kaizheng Chen*</sub></sup> | Paper \| Code |
+|:orange_square: `COS` | `2025/Dec` | `NeurlPS` | CamSAM2: Segment Anything Accurately in Camouflaged Videos <br> <sup><sub>*Yuli Zhou, Guolei Sun, Yawei Li, Yuqian Fu, Luca Benini, Ender Konukoglu*</sub></sup> | [Paper](https://arxiv.org/abs/2503.19730) \| [Code](https://github.com/zhoustan/CamSAM2) |
 |:orange_square: `COS` | `2025/Oct` | `ICCV` | Multi-modal Segment Anything Model for Camouflaged Scene Segmentation <br> <sup><sub>*Guangyu Ren, Hengyan Liu, Michalis Lazarou, Tania Stathaki*</sub></sup> | Paper \| Code |
 |:blue_square: `COD` | `2025/Oct` | `ICCV` | Beyond Single Images: Retrieval Self-Augmented Unsupervised Camouflaged Object Detection <br> <sup><sub>*Ji Du, Xin WANG, Fangwei Hao, Mingyang Yu, Chunyuan Chen, Jiesheng Wu, Bin Wang, Jing Xu, Ping Li*</sub></sup> | Paper \| Code |
 |:blue_square: `COD` | `2025/Oct` | `ICCV` | ESCNet:Edge-Semantic Collaborative Network for Camouflaged Object Detection <br> <sup><sub>*Sheng Ye, Xin Chen, Yan Zhang, Xianming Lin, Liujuan Cao*</sub></sup> | Paper \| Code |
