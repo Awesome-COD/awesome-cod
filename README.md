@@ -11,8 +11,9 @@
 # <p align=center>`Awesome List for Camouflaged Object Detection (COD)`
 
 <details>
-<summary>:loudspeaker:<strong>Last updated: 2025.09.30</strong></summary>
+<summary>:loudspeaker:<strong>Last updated: 2025.10.09</strong></summary>
 
+- [10/2025] Update with NeurlPS and latest papers. 
 - [09/2025] Update with ACMMM2025 and latest papers. 
 - [06/2025] Update with ICCV2025 papers.    
 - [06/2025] Update with CVPR2025, AAAI2025 papers.    
@@ -95,40 +96,40 @@
 ----------------------------------------------------------------------------------------------------------------------
 
 <h2 id="1-Latest">
-    <span>:fire: 1. Latest Work (Last 6 months)</span>
+    <span>:fire: 1. Latest Work </span>
 </h2>
 
-| **Task** & **Release** | **Pub.** | **Title** |    **Links**   |
-| :--------------------: | :------: | :-------: | :------------: |
-|:white_large_square: `CX` `2025/12` | `NeurlPS` | MMCSBench: A Fine-Grained Benchmark for Large Vision-Language Models in Camouflage Scenes <br> <sup><sub>*Jin Zhang, Ruiheng Zhang, Zhe Cao, Kaizheng Chen*</sub></sup> | Paper \| Code |
-|:orange_square: `COS`  `2025/Dec` | `NeurlPS` | CamSAM2: Segment Anything Accurately in Camouflaged Videos <br> <sup><sub>*Yuli Zhou, Guolei Sun, Yawei Li, Yuqian Fu, Luca Benini, Ender Konukoglu*</sub></sup> | [Paper](https://arxiv.org/abs/2503.19730) \| [Code](https://github.com/zhoustan/CamSAM2) |
-|:orange_square: `COS`  `2025/Oct` | `ICCV` | Multi-modal Segment Anything Model for Camouflaged Scene Segmentation <br> <sup><sub>*Guangyu Ren, Hengyan Liu, Michalis Lazarou, Tania Stathaki*</sub></sup> | Paper \| Code |
-|:blue_square: `COD`  `2025/Oct` | `ICCV` | Beyond Single Images: Retrieval Self-Augmented Unsupervised Camouflaged Object Detection <br> <sup><sub>*Ji Du, Xin WANG, Fangwei Hao, Mingyang Yu, Chunyuan Chen, Jiesheng Wu, Bin Wang, Jing Xu, Ping Li*</sub></sup> | Paper \| Code |
-|:blue_square: `COD`  `2025/Oct` | `ICCV` | ESCNet:Edge-Semantic Collaborative Network for Camouflaged Object Detection <br> <sup><sub>*Sheng Ye, Xin Chen, Yan Zhang, Xianming Lin, Liujuan Cao*</sub></sup> | Paper \| Code |
-|:blue_square: `COD`  `2025/Oct` | `ICCV` | Enhancing Prompt Generation with Adaptive Refinement for Camouflaged Object Detection <br> <sup><sub>*Xuehan Chen, Guangyu Ren, Tianhong Dai, Tania Stathaki, Hengyan Liu*</sub></sup> | Paper \| Code |
-|:red_square: `VCOD`  `2025/Oct` | `ICCV` | Scoring, Remember, and Reference: Catching Camouflaged Objects in Videos <br> <sup><sub>*Yuang Feng, Shuyong Gao, Fuzhen Yan, Yicheng Song, Lingyi Hong, Junjie Hu, Wenqiang Zhang*</sub></sup> | [Paper](https://arxiv.org/abs/2503.17050) \| Code |
-|:blue_square: `COD`  `2025/Oct` | `ICCV` | Improving SAM for Camouflaged Object Detection via Dual Stream Adapters <br> <sup><sub>*Jiaming Liu, Linghe Kong, Guihai Chen*</sub></sup> | [Paper](https://arxiv.org/abs/2503.06042) \| Code |
-|:blue_square: `COD`  `2025/Oct` | `ICCV` | Rethinking Detecting Salient and Camouflaged Objects in Unconstrained Scenes <br> <sup><sub>*Zhangjun Zhou, Yiping Li, Chunlin Zhong, Jianuo Huang, Jialun Pei, Hua Li, He Tang*</sub></sup> | [Paper](https://arxiv.org/abs/2412.10943) \| [Code](https://github.com/ssecv/USCNet) |
-|:orange_square: `COS`  `2025/Oct` | `ICCV` | Seeing the Unseen: A Semantic Alignment and Context-Aware Prompt Framework for Open-Vocabulary Camouflaged Object Segmentation <br> <sup><sub>*Peng Ren, Bai Tian*</sub></sup> | Paper \| Code |
-|:blue_square: `COD` `2025/Oct` | `ACMMM` | From Language to Instance: Generative Visual Prompting for Zero-shot Camouflaged Object Detection <br> <sup><sub>*Zihou Zhang, Hao Li, Zhengwei Yang, Zechao Hu, Liang Li, Zheng Wang*</sub></sup> | Paper \| Code |
-|:blue_square: `COD` `2025/Oct` | `ACMMM` | ST-SAM: SAM-Driven Self-Training Framework for Semi-Supervised Camouflaged Object Detection <br> <sup><sub>*Xihang Hu, Fuming Sun, Jiazhe Liu, Feilong Xu, Xiaoli Zhang*</sub></sup> | [Paper](https://arxiv.org/abs/2507.23307) \| [Code](https://github.com/hu-xh/ST-SAM) |
-|:blue_square: `COD` `2025/Oct` | `ACMMM` | SAM-TTT: Segment Anything Model via Reverse Parameter Configuration and Test-Time Training for Camouflaged Object Detection <br> <sup><sub>*Zhenni Yu, LiZhao LiZhao, Guobao Xiao, Xiaoqin Zhang*</sub></sup> | [Paper](https://www.arxiv.org/abs/2509.11884) \| [Code](https://github.com/guobaoxiao/SAM-TTT) |
-|:orange_square: `COS`  `2025/Oct` | `ACMMM` | Focus on the Object: Gradient-based Feature Modulation for Camouflaged Object Segmentation <br> <sup><sub>*Naisong Luo, Yuan Wang, Yuwen Pan, Rui Sun*</sub></sup> | Paper \| Code |
-|:blue_square: `COD`  `2025/Oct` | `ACMMM` | CGCOD: Class-Guided Camouflaged Object Detection <br> <sup><sub>*Chenxi Zhang, Qing Zhang, Jiayun Wu, Youwei Pang*</sub></sup> | [Paper](https://arxiv.org/abs/2412.18977) \| [Code](https://github.com/bbdjj/CGCOD) |
-|:orange_square: `COS`  `2025/Oct` | `ACMMM` | Stepwise Decomposition and Dual-stream Focus: A Novel Approach for Training-free Camouflaged Object Segmentation <br> <sup><sub>*Chao Yin, Hao Li, Kequan Yang, Jide Li, Pinpin Zhu, Xiaoqiang Li*</sub></sup> | [Paper](https://arxiv.org/abs/2506.06818) \| [Code](https://github.com/ycyinchao/RDVP-MSD) |
-|:blue_square: `COD`  `2025/Oct` | `ACMMM` | Synthetic-to-Real Camouflaged Object Detection <br> <sup><sub>*Zhihao Luo, Luojun Lin, Zheng Lin*</sub></sup> | [Paper](https://arxiv.org/abs/2507.18911) \| [Code](https://github.com/Muscape/S2R-COD) |
-|:white_large_square: `CX`  `2025/Oct` | `ACMMM DS` | MCOD: The First Challenging Benchmark for Multispectral Camouflaged Object Detection <br> <sup><sub>*Yang Li, Tingfa Xu, ShuYan Bai, Peifu Liu, Jianan Li*</sub></sup> | Paper \| Code |
-|:purple_square: `COT`  `2025/Oct` | `ACMMM DS` | Camouflaged Object Tracking: A Benchmark <br> <sup><sub>*Xiaoyu Guo, Pengzhi Zhong, Hao Zhang, Defeng Huang, Huikai Shao, Qijun Zhao, Shuiwang Li*</sub></sup> | Paper \| Code |
-|:blue_square: `COD`  `2025/Jun` | `CVPR` | UCOD-DPL: Unsupervised Camouflaged Object Detection via Dynamic Pseudo-label Learning <br> <sup><sub>*Weiqi Yan, Lvhai Chen, Huaijia Kou, Shengchuan Zhang, Yan Zhang, Liujuan Cao*</sub></sup> | [Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Yan_UCOD-DPL_Unsupervised_Camouflaged_Object_Detection_via_Dynamic_Pseudo-label_Learning_CVPR_2025_paper.html) \| [Code](https://github.com/Heartfirey/UCOD-DPL) |
-|:blue_square: `COD`  `2025/Jun` | `CVPR` | Shift the Lens: Environment-Aware Unsupervised Camouflaged Object Detection <br> <sup><sub>*Ji Du, Fangwei Hao, Mingyang Yu, Desheng Kong, Jiesheng Wu, Bin Wang, Jing Xu, Ping Li*</sub></sup> | [Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Du_Shift_the_Lens_Environment-Aware_Unsupervised_Camouflaged_Object_Detection_CVPR_2025_paper.html) \| [Code](https://github.com/xiaohainku/EASE) |
-|:green_square: `CG`  `2025/Jun` | `CVPR` | Camouflage Anything: Learning to Hide using Controlled Out-painting and Representation Engineering <br> <sup><sub>*Biplab Das, Viswanath Gopalakrishnan*</sub></sup> | [Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Das_Camouflage_Anything_Learning_to_Hide_using_Controlled_Out-painting_and_Representation_CVPR_2025_paper.html) \| Code |
-|:orange_square: `COS`  `2025/Jun` | `TPAMI` | Segment Concealed Objects with Incomplete Supervision <br> <sup><sub>*Chunming He, Kai Li, Yachao Zhang, Ziyun Yang, Youwei Pang, Longxiang Tang, Chengyu Fang, Yulun Zhang, Linghe Kong, Xiu Li, Sina Farsiu*</sub></sup> | [Paper](https://arxiv.org/abs/2506.08955) \| [Code](https://github.com/ChunmingHe/SEE) |
 
-<!--|:blue_square: `COD` | `2025/Mar` | `TPAMI` | Referring Camouflaged Object Detection <br> <sup><sub>*Xuying Zhang, Bowen Yin, Zheng Lin, Qibin Hou, Deng-Ping Fan, Ming-Ming Cheng*</sub></sup> | [Paper](https://arxiv.org/abs/2306.07532) \| [Code](https://github.com/zhangxuying1004/RefCOD) |
-|:white_large_square: `CX` | `2025/Feb` | `AAAI` | MM-CamObj: A Comprehensive Multimodal Dataset for Camouflaged Object Scenarios <br> <sup><sub>*Jiacheng Ruan, Wenzhen Yuan, Zehao Lin, Ning Liao, Zhiyu Li, Feiyu Xiong, Ting Liu, Yuzhuo Fu*</sub></sup> | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/32723) \| [Code](https://github.com/JCruan519/MM-CamObj) |
-|:blue_square: `COD` | `2025/Feb` | `AAAI` | SdalsNet: Self-Distilled Attention Localization and Shift Network for Unsupervised Camouflaged Object Detection <br> <sup><sub>*Peiyao Shou, Yixiu Liu, Wei Wang, Yaoqi Sun, Zhigao Zheng, Shangdong Zhu, Chenggang Yan*</sub></sup> | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/32742) \| Code |
-|:blue_square: `COD` | `2025/Feb` | `TPAMI` | Conditional Diffusion Models for Camouflaged and Salient Object Detection <br> <sup><sub>*Ke Sun; Zhongxi Chen; Xianming Lin; Xiaoshuai Sun; Hong Liu; Rongrong Ji*</sub></sup> | [Paper](https://ieeexplore.ieee.org/abstract/document/10834569) \| [Code](https://github.com/Rapisurazurite/CamoDiffusion) |
-|:orange_square: `COS` | `2025/Jan` | `TPAMI` | Towards Real Zero-Shot Camouflaged Object Segmentation without Camouflaged Annotations <br> <sup><sub>*Cheng Lei, Jie Fan, Xinran Li, Tian-Zhu Xiang, Ao Li, Ce Zhu, Le Zhang*</sub></sup> | [Paper](https://arxiv.org/abs/2410.16953) \| [Code](https://github.com/R-LEI360725/ZSCOS-CaMF) |-->
+| **Task** | **Release** | **Pub.** | **Title** |    **Links**   |
+| :--------: | :------------: | :------: | :-------: | :------------: |
+|:white_large_square:<br> `CX` |`2025/Sep` | `NeurlPS` | MMCSBench: A Fine-Grained Benchmark for Large Vision-Language Models in Camouflage Scenes <br> <sup><sub>*Jin Zhang, Ruiheng Zhang, Zhe Cao, Kaizheng Chen*</sub></sup> | Paper Code |
+|:orange_square: `COS` | `2025/Sep` | `NeurlPS` | CamSAM2: Segment Anything Accurately in Camouflaged Videos <br> <sup><sub>*Yuli Zhou, Guolei Sun, Yawei Li, Yuqian Fu, Luca Benini, Ender Konukoglu*</sub></sup> | [Paper](https://arxiv.org/abs/2503.19730)  [Code](https://github.com/zhoustan/CamSAM2) |
+|:orange_square: `COS` | `2025/Sep` | `TPAMI` | Towards Real Zero-Shot Camouflaged Object Segmentation without Camouflaged Annotations <br> <sup><sub>*Cheng Lei, Jie Fan, Xinran Li, Tian-Zhu Xiang, Ao Li, Ce Zhu, Le Zhang*</sub></sup> | [Paper](https://arxiv.org/abs/2410.16953)  [Code](https://github.com/R-LEI360725/ZSCOS-CaMF) |
+|:blue_square: `COD`| `2025/Jul` | `ACMMM` | From Language to Instance: Generative Visual Prompting for Zero-shot Camouflaged Object Detection <br> <sup><sub>*Zihou Zhang, Hao Li, Zhengwei Yang, Zechao Hu, Liang Li, Zheng Wang*</sub></sup> | Paper Code |
+|:blue_square: `COD`| `2025/Jul` | `ACMMM` | ST-SAM: SAM-Driven Self-Training Framework for Semi-Supervised Camouflaged Object Detection <br> <sup><sub>*Xihang Hu, Fuming Sun, Jiazhe Liu, Feilong Xu, Xiaoli Zhang*</sub></sup> | [Paper](https://arxiv.org/abs/2507.23307) [Code](https://github.com/hu-xh/ST-SAM) |
+|:blue_square: `COD` |`2025/Jul` | `ACMMM` | SAM-TTT: Segment Anything Model via Reverse Parameter Configuration and Test-Time Training for Camouflaged Object Detection <br> <sup><sub>*Zhenni Yu, LiZhao LiZhao, Guobao Xiao, Xiaoqin Zhang*</sub></sup> | [Paper](https://www.arxiv.org/abs/2509.11884) [Code](https://github.com/guobaoxiao/SAM-TTT) |
+|:orange_square: `COS`|  `2025/Jul` | `ACMMM` | Focus on the Object: Gradient-based Feature Modulation for Camouflaged Object Segmentation <br> <sup><sub>*Naisong Luo, Yuan Wang, Yuwen Pan, Rui Sun*</sub></sup> | Paper Code |
+|:blue_square: `COD` | `2025/Jul` | `ACMMM` | CGCOD: Class-Guided Camouflaged Object Detection <br> <sup><sub>*Chenxi Zhang, Qing Zhang, Jiayun Wu, Youwei Pang*</sub></sup> | [Paper](https://arxiv.org/abs/2412.18977) [Code](https://github.com/bbdjj/CGCOD) |
+|:orange_square: `COS` | `2025/Jul` | `ACMMM` | Stepwise Decomposition and Dual-stream Focus: A Novel Approach for Training-free Camouflaged Object Segmentation <br> <sup><sub>*Chao Yin, Hao Li, Kequan Yang, Jide Li, Pinpin Zhu, Xiaoqiang Li*</sub></sup> | [Paper](https://arxiv.org/abs/2506.06818) [Code](https://github.com/ycyinchao/RDVP-MSD) |
+|:blue_square: `COD`|  `2025/Jul` | `ACMMM` | Synthetic-to-Real Camouflaged Object Detection <br> <sup><sub>*Zhihao Luo, Luojun Lin, Zheng Lin*</sub></sup> | [Paper](https://arxiv.org/abs/2507.18911) [Code](https://github.com/Muscape/S2R-COD) |
+|:white_large_square:<br> `CX` | `2025/Jul` | `ACMMM DS` | MCOD: The First Challenging Benchmark for Multispectral Camouflaged Object Detection <br> <sup><sub>*Yang Li, Tingfa Xu, ShuYan Bai, Peifu Liu, Jianan Li*</sub></sup> | Paper Code |
+|:purple_square: `COT` | `2025/Jul` | `ACMMM DS` | Camouflaged Object Tracking: A Benchmark <br> <sup><sub>*Xiaoyu Guo, Pengzhi Zhong, Hao Zhang, Defeng Huang, Huikai Shao, Qijun Zhao, Shuiwang Li*</sub></sup> | Paper Code |
+|:orange_square: `COS` | `2025/Jun` | `ICCV` | Multi-modal Segment Anything Model for Camouflaged Scene Segmentation <br> <sup><sub>*Guangyu Ren, Hengyan Liu, Michalis Lazarou, Tania Stathaki*</sub></sup> | Paper Code |
+|:blue_square: `COD`|  `2025/Jun` | `ICCV` | Beyond Single Images: Retrieval Self-Augmented Unsupervised Camouflaged Object Detection <br> <sup><sub>*Ji Du, Xin WANG, Fangwei Hao, Mingyang Yu, Chunyuan Chen, Jiesheng Wu, Bin Wang, Jing Xu, Ping Li*</sub></sup> | Paper  Code |
+|:blue_square: `COD` | `2025/Jun` | `ICCV` | ESCNet:Edge-Semantic Collaborative Network for Camouflaged Object Detection <br> <sup><sub>*Sheng Ye, Xin Chen, Yan Zhang, Xianming Lin, Liujuan Cao*</sub></sup> | Paper Code |
+|:blue_square: `COD` | `2025/Jun` | `ICCV` | Enhancing Prompt Generation with Adaptive Refinement for Camouflaged Object Detection <br> <sup><sub>*Xuehan Chen, Guangyu Ren, Tianhong Dai, Tania Stathaki, Hengyan Liu*</sub></sup> | Paper Code |
+|:red_square: `VCOD` | `2025/Jun` | `ICCV` | Scoring, Remember, and Reference: Catching Camouflaged Objects in Videos <br> <sup><sub>*Yuang Feng, Shuyong Gao, Fuzhen Yan, Yicheng Song, Lingyi Hong, Junjie Hu, Wenqiang Zhang*</sub></sup> | [Paper](https://arxiv.org/abs/2503.17050) Code |
+|:blue_square: `COD` | `2025/Jun` | `ICCV` | Improving SAM for Camouflaged Object Detection via Dual Stream Adapters <br> <sup><sub>*Jiaming Liu, Linghe Kong, Guihai Chen*</sub></sup> | [Paper](https://arxiv.org/abs/2503.06042) Code |
+|:blue_square: `COD` | `2025/Jun` | `ICCV` | Rethinking Detecting Salient and Camouflaged Objects in Unconstrained Scenes <br> <sup><sub>*Zhangjun Zhou, Yiping Li, Chunlin Zhong, Jianuo Huang, Jialun Pei, Hua Li, He Tang*</sub></sup> | [Paper](https://arxiv.org/abs/2412.10943) [Code](https://github.com/ssecv/USCNet) |
+|:orange_square: `COS` | `2025/Jun` | `ICCV` | Seeing the Unseen: A Semantic Alignment and Context-Aware Prompt Framework for Open-Vocabulary Camouflaged Object Segmentation <br> <sup><sub>*Peng Ren, Bai Tian*</sub></sup> | Paper Code |
+|:orange_square: `COS`|  `2025/Jun` | `TPAMI` | Segment Concealed Objects with Incomplete Supervision <br> <sup><sub>*Chunming He, Kai Li, Yachao Zhang, Ziyun Yang, Youwei Pang, Longxiang Tang, Chengyu Fang, Yulun Zhang, Linghe Kong, Xiu Li, Sina Farsiu*</sub></sup> | [Paper](https://arxiv.org/abs/2506.08955) [Code](https://github.com/ChunmingHe/SEE) |
+|:blue_square: `COD` | `2025/Feb` | `CVPR` | UCOD-DPL: Unsupervised Camouflaged Object Detection via Dynamic Pseudo-label Learning <br> <sup><sub>*Weiqi Yan, Lvhai Chen, Huaijia Kou, Shengchuan Zhang, Yan Zhang, Liujuan Cao*</sub></sup> | [Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Yan_UCOD-DPL_Unsupervised_Camouflaged_Object_Detection_via_Dynamic_Pseudo-label_Learning_CVPR_2025_paper.html) [Code](https://github.com/Heartfirey/UCOD-DPL) |
+|:blue_square: `COD`|  `2025/Feb` | `CVPR` | Shift the Lens: Environment-Aware Unsupervised Camouflaged Object Detection <br> <sup><sub>*Ji Du, Fangwei Hao, Mingyang Yu, Desheng Kong, Jiesheng Wu, Bin Wang, Jing Xu, Ping Li*</sub></sup> | [Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Du_Shift_the_Lens_Environment-Aware_Unsupervised_Camouflaged_Object_Detection_CVPR_2025_paper.html) [Code](https://github.com/xiaohainku/EASE) |
+|:green_square:<br> `CG`|  `2025/Feb` | `CVPR` | Camouflage Anything: Learning to Hide using Controlled Out-painting and Representation Engineering <br> <sup><sub>*Biplab Das, Viswanath Gopalakrishnan*</sub></sup> | [Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Das_Camouflage_Anything_Learning_to_Hide_using_Controlled_Out-painting_and_Representation_CVPR_2025_paper.html) Code |
+|:blue_square: `COD` | `2025/Jan` | `TPAMI` | Conditional Diffusion Models for Camouflaged and Salient Object Detection <br> <sup><sub>*Ke Sun; Zhongxi Chen; Xianming Lin; Xiaoshuai Sun; Hong Liu; Rongrong Ji*</sub></sup> | [Paper](https://ieeexplore.ieee.org/abstract/document/10834569)  [Code](https://github.com/Rapisurazurite/CamoDiffusion) |
+|:blue_square: `COD` | `2025/Jan` | `TPAMI` | Referring Camouflaged Object Detection <br> <sup><sub>*Xuying Zhang, Bowen Yin, Zheng Lin, Qibin Hou, Deng-Ping Fan, Ming-Ming Cheng*</sub></sup> | [Paper](https://arxiv.org/abs/2306.07532)  [Code](https://github.com/zhangxuying1004/RefCOD) |
+|:white_large_square: <br>`CX` | `2024/Dec` | `AAAI` | MM-CamObj: A Comprehensive Multimodal Dataset for Camouflaged Object Scenarios <br> <sup><sub>*Jiacheng Ruan, Wenzhen Yuan, Zehao Lin, Ning Liao, Zhiyu Li, Feiyu Xiong, Ting Liu, Yuzhuo Fu*</sub></sup> | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/32723)  [Code](https://github.com/JCruan519/MM-CamObj) |
+|:blue_square: `COD` | `2024/Dec` | `AAAI` | SdalsNet: Self-Distilled Attention Localization and Shift Network for Unsupervised Camouflaged Object Detection <br> <sup><sub>*Peiyao Shou, Yixiu Liu, Wei Wang, Yaoqi Sun, Zhigao Zheng, Shangdong Zhu, Chenggang Yan*</sub></sup> | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/32742)  Code |
 
 ----------------------------------------------------------------------------------------------------------------------
 
@@ -145,7 +146,7 @@
 | 2024 | AIR | A Survey of Camouflaged Object Detection and Beyond    <br> <sup><sub>*Fengyang Xiao, Sujie Hu, Yuqi Shen, Chengyu Fang, Jinfa Huang, Chunming He, Longxiang Tang, Ziyun Yang, Xiu Li*</sub></sup>  | [Paper](https://arxiv.org/abs/2408.14562v1)\|[Res](https://github.com/ChunmingHe/awesome-concealed-object-segmentation) 
 | 2024 | Neucom | A systematic review of image-level camouflaged object detection with deep learning  <br> <sup><sub>*Yanhua Liang, Guihe Qin, Minghui Sun, Xinchao Wang, Jie Yan, Zhonghan Zhang*</sub></sup>  | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231223011736)\|[Res.](https://github.com/Liangyh18/COD_survey)
 | 2024 | MulSys | A survey on deep learning-based camouflaged object detection  <br> <sup><sub>*Junmin Zhong, Anzhi Wang, Chunhong Ren & Jintao Wu*</sub></sup>  | [Paper](https://link.springer.com/article/10.1007/s00530-024-01478-7)\|
-| 2023 | VI | Advances in Deep Concealed Scene Understanding   <sub>![Static Badge](https://img.shields.io/badge/CDS2K-grey)</sub>  <br> <sup><sub>*Deng-Ping Fan, Ge-Peng Ji, Peng Xu, Ming-Ming Cheng, Christos Sakaridis, Luc Van Gool*</sub></sup> | [Paper](https://link.springer.com/article/10.1007/s44267-023-00019-6#article-info)\|[Proj](https://github.com/DengPingFan/CSU)  
+| 2023 | VI | Advances in Deep Concealed Scene Understanding     <br> <sup><sub>*Deng-Ping Fan, Ge-Peng Ji, Peng Xu, Ming-Ming Cheng, Christos Sakaridis, Luc Van Gool*</sub></sup> | [Paper](https://link.springer.com/article/10.1007/s44267-023-00019-6#article-info)\|[Proj](https://github.com/DengPingFan/CSU)  
 | 2021 |  TCSVT  | Rethinking Camouflaged Object Detection: Models and Datasets   <br><sup><sub>*Hongbo Bi, Cong Zhang, Kang Wang, Jinghui Tong, Feng Zheng*</sub></sup>   | [Paper](https://ieeexplore.ieee.org/document/9598866)\|
 </details>
 
@@ -165,7 +166,7 @@
 
 | **Year** | **Pub.** | **Method** | **Title** | **Links** |
 | :------: | :------: | :-------: | :--------: | :-------: |
-| 2026 | PR | `TG-COD` | Text-guided camouflaged object detection <br> <sup><sub>*Zefeng Chen, Yunqi Xue, Zhijiang Li, Philip Torr, Jindong Gu*</sub></sup> | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320325007186)\|Code |
+| 2025 | PR | `TG-COD` | Text-guided camouflaged object detection <br> <sup><sub>*Zefeng Chen, Yunqi Xue, Zhijiang Li, Philip Torr, Jindong Gu*</sub></sup> | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320325007186)\|Code |
 | 2025 | ACMMM | `--` | From Language to Instance: Generative Visual Prompting for Zero-shot Camouflaged Object Detection <br> <sup><sub>*Zihou Zhang, Hao Li, Zhengwei Yang, Zechao Hu, Liang Li, Zheng Wang*</sub></sup> | Paper\|Code |
 | 2025 | ACMMM | `ST-SAM` | ST-SAM: SAM-Driven Self-Training Framework for Semi-Supervised Camouflaged Object Detection <br> <sup><sub>*Xihang Hu, Fuming Sun, Jiazhe Liu, Feilong Xu, Xiaoli Zhang*</sub></sup> | [Paper](https://arxiv.org/abs/2507.23307)\|[Code](https://github.com/hu-xh/ST-SAM) |
 | 2025 | ACMMM | `SAM-TTT` | SAM-TTT: Segment Anything Model via Reverse Parameter Configuration and Test-Time Training for Camouflaged Object Detection <br> <sup><sub>*Zhenni Yu, LiZhao LiZhao, Guobao Xiao, Xiaoqin Zhang*</sub></sup> | [Paper](https://www.arxiv.org/abs/2509.11884)\|[Code](https://github.com/guobaoxiao/SAM-TTT) |
@@ -376,7 +377,7 @@
 
 
 <details>
-    <summary><h3 id="32-COD"><span>3.2. Semi-supervised COD</span></h3></summary>    
+    <summary><h3 id="32-Semi-supervised-COD"><span>3.2. Semi-supervised COD</span></h3></summary>    
 
 
 | **Year** | **Pub.** | **Method** | **Title** | **Links** |
@@ -392,7 +393,7 @@
 
 
 <details>
-    <summary><h3 id="33-COD"><span>3.3. Weakly-supervised COD</span></h3></summary>    
+    <summary><h3 id="33-Weakly-supervised-COD"><span>3.3. Weakly-supervised COD</span></h3></summary>    
 
 
 | **Year** | **Pub.** | **Method** | **Title** | **Links** |
@@ -415,7 +416,7 @@
 
 
 <details>
-    <summary><h3 id="34-COD"><span>3.4. Unsupervised COD</span></h3></summary>  
+    <summary><h3 id="34-Unsupervised-COD"><span>3.4. Unsupervised COD</span></h3></summary>  
 
 | **Year** | **Pub.** | **Method** | **Title** | **Links** |
 | :------: | :------: | :-------: | :--------: | :-------: |
@@ -428,7 +429,7 @@
 
 
 <details>
-    <summary><h3 id="35-COD"><span>3.5. Referring COD</span></h3></summary>  
+    <summary><h3 id="35-Referring-COD"><span>3.5. Referring COD</span></h3></summary>  
 
 | **Year** | **Pub.** | **Method** | **Title** | **Links** |
 | :------: | :------: | :-------: | :--------: | :-------: |
@@ -442,7 +443,7 @@
 
 
 <details>
-    <summary><h3 id="36-COD"><span>3.6. Zero-Shot COD</span></h3></summary>  
+    <summary><h3 id="36-Zero-Shot-COD"><span>3.6. Zero-Shot COD</span></h3></summary>  
 
 | **Year** | **Pub.** | **Method** | **Title** | **Links** |
 | :------: | :------: | :-------: | :--------: | :-------: |
@@ -455,7 +456,7 @@
 
 
 <details>
-    <summary><h3 id="37-COD"><span>3.7. Multispectral COD</span></h3></summary>  
+    <summary><h3 id="37-Multispectral-COD"><span>3.7. Multispectral COD</span></h3></summary>  
 
 | **Year** | **Pub.** | **Method** | **Title** | **Links** |
 | :------: | :------: | :-------: | :--------: | :-------: |
@@ -465,7 +466,7 @@
 
 
 <details>
-    <summary><h3 id="38-COD"><span>3.8. Polarized COD</span></h3></summary>  
+    <summary><h3 id="38-Polarized-COD"><span>3.8. Polarized COD</span></h3></summary>  
 
 | **Year** | **Pub.** | **Method** | **Title** | **Links** |
 | :------: | :------: | :-------: | :--------: | :-------: |
@@ -488,7 +489,7 @@
     
 
 <details>
-    <summary><h3 id="41-COD"><span>4.1. Video Camouflaged Object Detection</span></h3></summary>    
+    <summary><h3 id="41-Video-Camouflaged-Object-Detection"><span>4.1. Video Camouflaged Object Detection</span></h3></summary>    
 
 
 | **Year** | **Pub.** | **Method** | **Title** | **Links** |
@@ -552,7 +553,7 @@
 
 
 <details>
-    <summary><h3 id="53-COD"><span>5.2. Open-Vocabulary COS</span></h3></summary>    
+    <summary><h3 id="52-Open-Vocabulary-COS"><span>5.2. Open-Vocabulary COS</span></h3></summary>    
 
 
 | **Year** | **Pub.** | **Method** | **Title** | **Links** |
@@ -617,58 +618,59 @@
 
 #### - Image COD
 
-| **Name** | **Year** | **Pub.** | **Links** | **Type** | **Img.(Camo.)** | **BBbox** | **Pix.** | **Ins.** | **Comments**
-| :------: | :------: | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: |
-[USC12K](https://github.com/ssecv/USCNet) | 2025 | ICCV | [Paper](https://arxiv.org/abs/2412.10943) | Img | 12000 |  | &check; |  | <sup><sub>Unconstrained salient & camouflaged object detection</sub></sup> 
-[R2C7K](https://github.com/zhangxuying1004/RefCOD) | 2025 | TPAMI | [Paper](https://github.com/zhangxuying1004/RefCOD) | Img | 5015/1600(Ref) |  | &check; |  | <sup><sub>Referring COD</sub></sup> | 
-[PlantCamo](https://github.com/yjybuaa/PlantCamo) | 2025 | AIR | [Paper](https://arxiv.org/pdf/2410.17598) | Img | 1250 | &check; | &check; | &check; | <sup><sub>Plant COD</sub></sup>  |  
-[CoCOD8K](https://github.com/zc199823/BBNet--CoCOD) | 2024 | TNNLS | [Paper](https://arxiv.org/abs/2310.04253) | Img | 8528 |  | &check; | | <sup><sub>Co-COD</sub></sup>  | 
-[ACOD-12K](https://github.com/Kki2Eve/RISNet) | 2024 | CVPR | [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Depth-Aware_Concealed_Crop_Detection_in_Dense_Agricultural_Scenes_CVPR_2024_paper.pdf) | Img | 6092 | &check; | &check; | | <sup><sub>RGB-D COD (Crop)</sub></sup> 
-[ACOD2K](https://github.com/syxvision/FDNet) | 2023 | ICME | [Paper](https://arxiv.org/abs/2307.03943) | Img | 1500 |  | &check; | | <sup><sub>Artificial camouflaged object</sub></sup>  
-[CAM-LDR](https://github.com/JingZhang617/COD-Rank-Localize-and-Segment) | 2023 | TCSVT | [Paper](https://arxiv.org/abs/2205.11333) | Img | 4040 | | | | <sup><sub>Camo ranking (fixation & ranking)</sub></sup>  
-[CAMO++](https://sites.google.com/view/ltnghia/research/camo_plus_plus?authuser=0) | 2021 | TIP | [Paper](https://arxiv.org/abs/2103.17123) | Img | 2700 | &check; | &check; | &check; |  <sup><sub>Instance seg.</sub></sup>  
-[NC4K](https://github.com/JingZhang617/COD-Rank-Localize-and-Segment) | 2021 | CVPR | [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Lv_Simultaneously_Localize_Segment_and_Rank_the_Camouflaged_Objects_CVPR_2021_paper.pdf) | Img | 4121 | &check; | &check; | &check; |
-[COD10K](http://dpfan.net/camouflage/) | 2020 | CVPR | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Fan_Camouflaged_Object_Detection_CVPR_2020_paper.pdf) | Img | 5066 | &check; | &check; | &check; |
-[CAMO](https://sites.google.com/view/ltnghia/research/camo) | 2019 | CVIU | [Paper](http://www.dgcv.nii.ac.jp/Publications/Papers/2019/cviu2019.pdf) | Img | 1250 |   | &check; |   |
-[CPD1K](https://github.com/xfflyer/Camouflaged-people-detection) | 2018 | SPL | [Paper](https://ieeexplore.ieee.org/document/8336933)  | Img | 1000 |   | &check; |   | 
-[CHAMELEON](https://www.polsl.pl/rau6/chameleon-database-animal-camouflage-analysis/) | 2017 | — | [Webpage](https://www.polsl.pl/rau6/chameleon-database-animal-camouflage-analysis/) | Img | 76 |   | &check; |   | 
+| **Name** | **Year** | **Pub.** | **Img.(Camo.)** | **Statistics <br />Total \| Train \| Test** | **Resolution** | **Links** |
+| :------: | :------: | :-------: | :-------: | :-------: | :-------: | :-------: |
+| [USC12K](https://github.com/ssecv/USCNet) | 2025 | ICCV | 12000 | - | - | [Paper](https://arxiv.org/abs/2412.10943) |
+| [R2C7K](https://github.com/zhangxuying1004/RefCOD) | 2025 | TPAMI | 5015/1600(Ref) | 6615 \| - \| - | Camo: 300x199~2976x3968<br />Ref: 240x320~9500x9500 | [Paper](https://github.com/zhangxuying1004/RefCOD) |
+| [PlantCamo](https://github.com/yjybuaa/PlantCamo) | 2025 | AIR | 1250 | - | - | [Paper](https://arxiv.org/pdf/2410.17598) |
+| [CoCOD8K](https://github.com/zc199823/BBNet--CoCOD) | 2024 | TNNLS | 8528 | 8528 \| 5933 \|2595 | 154x156~5184x3456 | [Paper](https://arxiv.org/abs/2310.04253) |
+| [ACOD-12K](https://github.com/Kki2Eve/RISNet) | 2024 | CVPR | 6092 | - | - | [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Depth-Aware_Concealed_Crop_Detection_in_Dense_Agricultural_Scenes_CVPR_2024_paper.pdf) |
+| [ACOD2K](https://github.com/syxvision/FDNet) | 2023 | ICME | 1500 | - | - | [Paper](https://arxiv.org/abs/2307.03943) |
+| [CAM-LDR](https://github.com/JingZhang617/COD-Rank-Localize-and-Segment) | 2023 | TCSVT | 4040 | 6066 \| 4040 \|2026 | 155x155~7360x4912 | [Paper](https://arxiv.org/abs/2205.11333) |
+| [CAMO++](https://sites.google.com/view/ltnghia/research/camo_plus_plus?authuser=0) | 2021 | TIP | 2700 | 5500 \| 3500 \| 2000 | unreleased | [Paper](https://arxiv.org/abs/2103.17123) |
+| [NC4K](https://github.com/JingZhang617/COD-Rank-Localize-and-Segment) | 2021 | CVPR | 4121 | 4121 \| 0 \| 4121 | 354x268~1280x960 | [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Lv_Simultaneously_Localize_Segment_and_Rank_the_Camouflaged_Objects_CVPR_2021_paper.pdf) |
+| [COD10K](http://dpfan.net/camouflage/) | 2020 | CVPR | 5066 | 10000 \| 6000 \| 4000 | 300x199~2976x3968 | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Fan_Camouflaged_Object_Detection_CVPR_2020_paper.pdf) |
+| [CAMO](https://sites.google.com/view/ltnghia/research/camo) | 2019 | CVIU | 1250 | 2500 \| 2000 \| 500 | 154x156~7360x4912 | [Paper](http://www.dgcv.nii.ac.jp/Publications/Papers/2019/cviu2019.pdf) |
+| [CPD1K](https://github.com/xfflyer/Camouflaged-people-detection) | 2018 | SPL | 1000 | 1000 \| 0 \| 1000 | 854x480 | [Paper](https://ieeexplore.ieee.org/document/8336933) |
+| [CHAMELEON](https://www.polsl.pl/rau6/chameleon-database-animal-camouflage-analysis/) | 2017 | — | 76 | 76 \| 0 \| 76 | 450x300~2304x3456 | [Webpage](https://www.polsl.pl/rau6/chameleon-database-animal-camouflage-analysis/) |
 
 
 #### - Weakly-Supervised Image COD
 
-| **Name** | **Year** | **Pub.** | **Links** | **Type** | **Img.(Camo.)** | 
-| :------: | :------: | :-------: | :-------: | :-------: | :-------: |
-[P-COD](https://github.com/2231122/PCOD) | 2024 | ECCV | [Paper](https://arxiv.org/abs/2408.10777) | Point | 4040 | 
-[S-COD](https://github.com/dddraxxx/Weakly-Supervised-Camouflaged-Object-Detection-with-Scribble-Annotations) | 2023 | AAAI | [Paper](https://arxiv.org/abs/2207.14083) | Scribble | 4040 | 
+| **Name** | **Year** | **Pub.** | **Img.(Camo.)** | **Links** |
+| :------: | :------: | :-------: | :-------: | :-------: |
+| [P-COD](https://github.com/2231122/PCOD) | 2024 | ECCV | 4040 | [Paper](https://arxiv.org/abs/2408.10777) |
+| [S-COD](https://github.com/dddraxxx/Weakly-Supervised-Camouflaged-Object-Detection-with-Scribble-Annotations) | 2023 | AAAI | 4040 | [Paper](https://arxiv.org/abs/2207.14083) |
 
 
 #### - Visual-Language Dataset
 
-| **Name** | **Year** | **Pub.** | **Links** | **Img.(Camo.)** | **BBbox** | **Pix.** | **Ins.** | **Comments**
-| :------: | :------: | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: |
-[MM-CamObj](https://github.com/JCruan519/MM-CamObj) | 2025 | AAAI | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/32723) | 11363 |   | &check; |  | <sup><sub>CamObj-Align: image-text pairs; CamObj-Instruct: images and conversations with diverse instructions</sub></sup> |
-[COD-TAX](https://github.com/lyu-yx/ACUMEN) | 2024 | ECCV | [Paper](https://arxiv.org/abs/2408.12086) | -- |  | &check; |  | <sup><sub>Obj masks with textual descriptions and attribute contributions</sub></sup> | 
-[OVCamo](https://github.com/lartpang/OVCamo) | 2024 | ECCV | [Paper](https://arxiv.org/abs/2311.11241) | 11483 |  | &check; |  |  <sup><sub>Open-vocabulary seg. (obj. classes & masks)</sub></sup>|
+| **Name** | **Year** | **Pub.** | **Img.(Camo.)** | **Links** |
+| :------: | :------: | :-------: | :-------: | :-------: |
+| [MM-CamObj](https://github.com/JCruan519/MM-CamObj) | 2025 | AAAI | 11363 | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/32723) |
+| [COD-TAX](https://github.com/lyu-yx/ACUMEN) | 2024 | ECCV | -- | [Paper](https://arxiv.org/abs/2408.12086) |
+| [OVCamo](https://github.com/lartpang/OVCamo) | 2024 | ECCV | 11483 | [Paper](https://arxiv.org/abs/2311.11241) |
 
 
 #### - Video COD
 
-| **Dataset** | **Year** | **Pub.** | **Links** | **Type** | **Clips/Ann.Img.** | **BBbox** | **Pix.** | **Ins.** | **Cate.** |**Comments** 
-| :------: | :------: | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: |
-[CamoVid60K](https://camovid.hkustvgd.com/) | 2025 | arXiv | [Paper](https://camovid.hkustvgd.com/) | Video |  218/62,774 | &check; | &check; | | &check; | 
-MVCOD  | 2025 | arXiv | [Paper](https://arxiv.org/abs/2502.13859) | Video | 162/9,486 | &check; | &check; | &check; | &check; | | 
-[MoCA-Mask](https://xueliancheng.github.io/SLT-Net-project/) | 2022 | CVPR | [Paper](https://arxiv.org/abs/2203.07363) | Video | 87/4,691 | &check; | &check; |   | &check; |   | 
-[MoCA](https://www.robots.ox.ac.uk/~vgg/data/MoCA/) | 2020 | ACCV | [Paper](https://openaccess.thecvf.com/content/ACCV2020/html/Lamdouar_Betrayed_by_Motion_Camouflaged_Object_Discovery_via_Motion_Segmentation_ACCV_2020_paper.html) | Video | 141/7,617 | &check; |  |  |  |   | 
-[CAMO UOW](https://sites.google.com/view/wanqingli/data-sets/uow-camo?authuser=0) | 2018 | TIP | [Paper](https://ieeexplore.ieee.org/document/8344427) | Video | 10/- |  | &check; |  |  | <sup><sub>Cate.: human</sub></sup>  
-[CAD](https://www.user.tu-berlin.de/pbideau/motionSegmentation/index.html) | 2016 | ECCV | [Paper](https://link.springer.com/chapter/10.1007/978-3-319-46484-8_26) | Video | 9/191 |   | &check; |   |   | <sup><sub>Camouflaged Animal Dataset (CAD)</sub></sup>  
+| **Dataset** | **Year** | **Pub.** | **Clips/Ann.Img.** | **Links** |
+| :------: | :------: | :-------: | :-------: | :-------: |
+| [CamoVid60K](https://camovid.hkustvgd.com/) | 2025 | arXiv | 218/62,774 | [Paper](https://camovid.hkustvgd.com/) |
+| MVCOD | 2025 | arXiv | 162/9,486 | [Paper](https://arxiv.org/abs/2502.13859) |
+| [MoCA-Mask](https://xueliancheng.github.io/SLT-Net-project/) | 2022 | CVPR | 87/4,691 | [Paper](https://arxiv.org/abs/2203.07363) |
+| [MoCA](https://www.robots.ox.ac.uk/~vgg/data/MoCA/) | 2020 | ACCV | 141/7,617 | [Paper](https://openaccess.thecvf.com/content/ACCV2020/html/Lamdouar_Betrayed_by_Motion_Camouflaged_Object_Discovery_via_Motion_Segmentation_ACCV_2020_paper.html) |
+| [CAMO UOW](https://sites.google.com/view/wanqingli/data-sets/uow-camo?authuser=0) | 2018 | TIP | 10/- | [Paper](https://ieeexplore.ieee.org/document/8344427) |
+| [CAD](https://www.user.tu-berlin.de/pbideau/motionSegmentation/index.html) | 2016 | ECCV | 9/191 | [Paper](https://link.springer.com/chapter/10.1007/978-3-319-46484-8_26) |
+
 
 
 #### - Other Related Dataset 
 
-| **Name** | **Year** | **Pub.** | **Links** | **Type** | **Img.(Camo.)** | **Ann.** | **Comments**
-| :------: | :------: | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: |
-[IOCfish5K](https://github.com/GuoleiSun/Indiscernible-Object-Counting) | 2023 | CVPR | [Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Sun_Indiscernible_Object_Counting_in_Underwater_Scenes_CVPR_2023_paper.html) | Img | 5637 | Point/Counting | <sup><sub>Indiscernible Object Counting</sub></sup>  
-[CDS2K](https://github.com/DengPingFan/CSU) | 2023 | VI | [Paper](https://arxiv.org/abs/2304.11234) | Img | 2492 | BBbox+Pix. | <sup><sub>Defect seg. dataset</sub></sup>  
+| **Name** | **Year** | **Pub.** | **Img.(Camo.)** | **Ann.** | **Links** |
+| :------: | :------: | :-------: | :-------: | :-------: | :-------: |
+| [IOCfish5K](https://github.com/GuoleiSun/Indiscernible-Object-Counting) | 2023 | CVPR | 5637 | Point/Counting | [Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Sun_Indiscernible_Object_Counting_in_Underwater_Scenes_CVPR_2023_paper.html) |
+| [CDS2K](https://github.com/DengPingFan/CSU) | 2023 | VI | 2492 | BBbox+Pix. | [Paper](https://arxiv.org/abs/2304.11234) |
 
 
 ## Reference
