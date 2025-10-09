@@ -654,7 +654,7 @@
 
 #### - Video COD
 
-| **Dataset** | **Year** | **Pub.** | **Statistics <br />Clips \| Img** | **Links** |
+| **Name** | **Year** | **Pub.** | **Statistics <br />Clips \| Img** | **Links** |
 | :------: | :------: | :-------: | :-------: | :-------: |
 | [CamoVid60K](https://camovid.hkustvgd.com/) | 2025 | arXiv | 218 \| 62,774 | [Paper](https://camovid.hkustvgd.com/) |
 | MVCOD | 2025 | arXiv | 162 \| 9,486 | [Paper](https://arxiv.org/abs/2502.13859) |
