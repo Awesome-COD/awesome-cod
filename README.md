@@ -654,7 +654,7 @@
 
 #### - Video COD
 
-| **Dataset** | **Year** | **Pub.** | **Statistics <br />Clips \| Ann.Img** | **Links** |
+| **Dataset** | **Year** | **Pub.** | **Statistics <br />Clips \| Img** | **Links** |
 | :------: | :------: | :-------: | :-------: | :-------: |
 | [CamoVid60K](https://camovid.hkustvgd.com/) | 2025 | arXiv | 218 \| 62,774 | [Paper](https://camovid.hkustvgd.com/) |
 | MVCOD | 2025 | arXiv | 162 \| 9,486 | [Paper](https://arxiv.org/abs/2502.13859) |
@@ -667,7 +667,7 @@
 
 #### - Other Related Dataset 
 
-| **Name** | **Year** | **Pub.** | **Statistics <br>Total**| **Ann.** | **Links** |
+| **Name** | **Year** | **Pub.** | **Statistics <br>Total**| **Ann** | **Links** |
 | :------: | :------: | :-------: | :-------: | :-------: | :-------: |
 | [IOCfish5K](https://github.com/GuoleiSun/Indiscernible-Object-Counting) | 2023 | CVPR | 5637 | Point \| Counting | [Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Sun_Indiscernible_Object_Counting_in_Underwater_Scenes_CVPR_2023_paper.html) |
 | [CDS2K](https://github.com/DengPingFan/CSU) | 2023 | VI | 2492 | BBbox+Pix. | [Paper](https://arxiv.org/abs/2304.11234) |
