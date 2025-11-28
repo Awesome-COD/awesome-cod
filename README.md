@@ -11,7 +11,7 @@
 # <p align=center>`Awesome List for Camouflaged Object Detection (COD)`
 
 <details>
-<summary>:loudspeaker:<strong>Last updated: 2025.10.09</strong></summary>
+<summary>:loudspeaker:<strong>Last updated: 2025.11.28</strong></summary>
 
 - [10/2025] Update with NeurlPS2025 papers. 
 - [09/2025] Update with ACMMM2025, TPAMI papers. 
@@ -103,6 +103,7 @@
 | **Task** | **Release** | **Pub.** | **Title** |    **Links**   |
 | :--------: | :------------: | :------: | :-------: | :------------: |
 |:blue_square: `COD`| `2025/Nov` | `ArXiv` | RefOnce: Distilling References into a Prototype Memory for Referring Camouflaged Object Detection <br> <sup><sub>*Yu-Huan Wu, Zi-Xuan Zhu, Yan Wang, Liangli Zhen, Deng-Ping Fan*</sub></sup> | [Paper](https://arxiv.org/pdf/2511.20989) [Code](https://github.com/yuhuan-wu/RefOnce) |
+|:green_square:<br> `CG`| `2025/Nov` | `ArXiv` | Text-guided Controllable Diffusion for Realistic Camouflage Images Generation <br> <sup><sub>*Yuhang Qian, Haiyan Chen, Wentong Li, Ningzhong Liu, Jie Qin*</sub></sup> | [Paper](https://arxiv.org/pdf/2511.20218) Code |
 |:white_large_square:<br> `CX` |`2025/Sep` | `NeurlPS` | MMCSBench: A Fine-Grained Benchmark for Large Vision-Language Models in Camouflage Scenes <br> <sup><sub>*Jin Zhang, Ruiheng Zhang, Zhe Cao, Kaizheng Chen*</sub></sup> | Paper Code |
 |:orange_square: `COS` | `2025/Sep` | `NeurlPS` | CamSAM2: Segment Anything Accurately in Camouflaged Videos <br> <sup><sub>*Yuli Zhou, Guolei Sun, Yawei Li, Yuqian Fu, Luca Benini, Ender Konukoglu*</sub></sup> | [Paper](https://arxiv.org/abs/2503.19730)  [Code](https://github.com/zhoustan/CamSAM2) |
 |:orange_square: `COS` | `2025/Sep` | `TPAMI` | Towards Real Zero-Shot Camouflaged Object Segmentation without Camouflaged Annotations <br> <sup><sub>*Cheng Lei, Jie Fan, Xinran Li, Tian-Zhu Xiang, Ao Li, Ce Zhu, Le Zhang*</sub></sup> | [Paper](https://arxiv.org/abs/2410.16953)  [Code](https://github.com/R-LEI360725/ZSCOS-CaMF) |
