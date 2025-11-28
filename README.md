@@ -102,6 +102,7 @@
 
 | **Task** | **Release** | **Pub.** | **Title** |    **Links**   |
 | :--------: | :------------: | :------: | :-------: | :------------: |
+|:blue_square: `COD`| `2025/Nov` | `ArXiv` | RefOnce: Distilling References into a Prototype Memory for Referring Camouflaged Object Detection <br> <sup><sub>*Yu-Huan Wu, Zi-Xuan Zhu, Yan Wang, Liangli Zhen, Deng-Ping Fan*</sub></sup> | [Paper](https://arxiv.org/pdf/2511.20989) [Code](https://github.com/yuhuan-wu/RefOnce) |
 |:white_large_square:<br> `CX` |`2025/Sep` | `NeurlPS` | MMCSBench: A Fine-Grained Benchmark for Large Vision-Language Models in Camouflage Scenes <br> <sup><sub>*Jin Zhang, Ruiheng Zhang, Zhe Cao, Kaizheng Chen*</sub></sup> | Paper Code |
 |:orange_square: `COS` | `2025/Sep` | `NeurlPS` | CamSAM2: Segment Anything Accurately in Camouflaged Videos <br> <sup><sub>*Yuli Zhou, Guolei Sun, Yawei Li, Yuqian Fu, Luca Benini, Ender Konukoglu*</sub></sup> | [Paper](https://arxiv.org/abs/2503.19730)  [Code](https://github.com/zhoustan/CamSAM2) |
 |:orange_square: `COS` | `2025/Sep` | `TPAMI` | Towards Real Zero-Shot Camouflaged Object Segmentation without Camouflaged Annotations <br> <sup><sub>*Cheng Lei, Jie Fan, Xinran Li, Tian-Zhu Xiang, Ao Li, Ce Zhu, Le Zhang*</sub></sup> | [Paper](https://arxiv.org/abs/2410.16953)  [Code](https://github.com/R-LEI360725/ZSCOS-CaMF) |
