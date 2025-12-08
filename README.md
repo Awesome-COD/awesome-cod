@@ -31,8 +31,8 @@
         <td style="width: 20%;">Camouflaged Object Segmentation</td>
     </tr>
     <tr>
-        <td style="width: 20%;">:green_square:<code>CG</code></td>
-        <td style="width: 20%;">Camouflage Generation</td>
+        <td style="width: 20%;">:green_square:<code>CIG</code></td>
+        <td style="width: 20%;">Camouflage Image Generation</td>
         <td style="width: 20%;">:red_square:<code>VCOD</code></td>
         <td style="width: 20%;">Video Camouflaged Object Detection</td>
     </tr>
@@ -103,7 +103,7 @@
 | **Task** | **Release** | **Pub.** | **Title** |    **Links**   |
 | :--------: | :------------: | :------: | :-------: | :------------: |
 |:blue_square: `COD`| `2025/Nov` | `ArXiv` | RefOnce: Distilling References into a Prototype Memory for Referring Camouflaged Object Detection <br> <sup><sub>*Yu-Huan Wu, Zi-Xuan Zhu, Yan Wang, Liangli Zhen, Deng-Ping Fan*</sub></sup> | [Paper](https://arxiv.org/pdf/2511.20989) [Code](https://github.com/yuhuan-wu/RefOnce) |
-|:green_square:<br> `CG`| `2025/Nov` | `AAAI` | Text-guided Controllable Diffusion for Realistic Camouflage Images Generation <br> <sup><sub>*Yuhang Qian, Haiyan Chen, Wentong Li, Ningzhong Liu, Jie Qin*</sub></sup> | [Paper](https://arxiv.org/pdf/2511.20218) [Code](https://github.com/NikoNairre/CT-CIG) |
+|:green_square:<br> `CIG`| `2025/Nov` | `AAAI` | Text-guided Controllable Diffusion for Realistic Camouflage Images Generation <br> <sup><sub>*Yuhang Qian, Haiyan Chen, Wentong Li, Ningzhong Liu, Jie Qin*</sub></sup> | [Paper](https://arxiv.org/pdf/2511.20218) [Code](https://github.com/NikoNairre/CT-CIG) |
 |:blue_square: `COD`| `2025/Nov` | `ArXiv` | SAM3-Adapter: Efficient Adaptation of Segment Anything 3 for Camouflage Object Segmentation, Shadow Detection, and Medical Image Segmentation <br> <sup><sub>*Tianrun Chen, Runlong Cao, Xinda Yu, Lanyun Zhu, Chaotao Ding, Deyi Ji, Cheng Chen, Qi Zhu, Chunyan Xu, Papa Mao, Ying Zang*</sub></sup> | [Paper](https://arxiv.org/pdf/2511.19425v1) [Code](https://github.com/tianrun-chen/SAM-Adapter-PyTorch) |
 |:blue_square: `COD`| `2025/Nov` | `ArXiv` | Referring Camouflaged Object Detection With Multi-Context Overlapped Windows Cross-Attention <br> <sup><sub>*Yu Wen, Shuyong Gao, Shuping Zhang, Miao Huang, Lili Tao, Han Yang, Haozhe Xing, Lihe Zhang, Boxue Hou*</sub></sup> | [Paper](https://arxiv.org/pdf/2511.13249v1) Code |
 |:blue_square: `COD`| `2025/Nov` | `ArXiv` | Nested Unfolding Network for Real-World Concealed Object Segmentation <br> <sup><sub>*Chunming He, Rihan Zhang, Dingming Zhang, Fengyang Xiao, Deng-Ping Fan, Sina Farsiu*</sub></sup> | [Paper](https://arxiv.org/pdf/2511.18164v1) Code |
@@ -138,7 +138,7 @@
 |:orange_square: `COS`|  `2025/Jun` | `TPAMI` | Segment Concealed Objects with Incomplete Supervision <br> <sup><sub>*Chunming He, Kai Li, Yachao Zhang, Ziyun Yang, Youwei Pang, Longxiang Tang, Chengyu Fang, Yulun Zhang, Linghe Kong, Xiu Li, Sina Farsiu*</sub></sup> | [Paper](https://arxiv.org/abs/2506.08955) [Code](https://github.com/ChunmingHe/SEE) |
 |:blue_square: `COD` | `2025/Feb` | `CVPR` | UCOD-DPL: Unsupervised Camouflaged Object Detection via Dynamic Pseudo-label Learning <br> <sup><sub>*Weiqi Yan, Lvhai Chen, Huaijia Kou, Shengchuan Zhang, Yan Zhang, Liujuan Cao*</sub></sup> | [Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Yan_UCOD-DPL_Unsupervised_Camouflaged_Object_Detection_via_Dynamic_Pseudo-label_Learning_CVPR_2025_paper.html) [Code](https://github.com/Heartfirey/UCOD-DPL) |
 |:blue_square: `COD`|  `2025/Feb` | `CVPR` | Shift the Lens: Environment-Aware Unsupervised Camouflaged Object Detection <br> <sup><sub>*Ji Du, Fangwei Hao, Mingyang Yu, Desheng Kong, Jiesheng Wu, Bin Wang, Jing Xu, Ping Li*</sub></sup> | [Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Du_Shift_the_Lens_Environment-Aware_Unsupervised_Camouflaged_Object_Detection_CVPR_2025_paper.html) [Code](https://github.com/xiaohainku/EASE) |
-|:green_square:<br> `CG`|  `2025/Feb` | `CVPR` | Camouflage Anything: Learning to Hide using Controlled Out-painting and Representation Engineering <br> <sup><sub>*Biplab Das, Viswanath Gopalakrishnan*</sub></sup> | [Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Das_Camouflage_Anything_Learning_to_Hide_using_Controlled_Out-painting_and_Representation_CVPR_2025_paper.html) Code |
+|:green_square:<br> `CIG`|  `2025/Feb` | `CVPR` | Camouflage Anything: Learning to Hide using Controlled Out-painting and Representation Engineering <br> <sup><sub>*Biplab Das, Viswanath Gopalakrishnan*</sub></sup> | [Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Das_Camouflage_Anything_Learning_to_Hide_using_Controlled_Out-painting_and_Representation_CVPR_2025_paper.html) Code |
 |:blue_square: `COD` | `2025/Jan` | `TPAMI` | Conditional Diffusion Models for Camouflaged and Salient Object Detection <br> <sup><sub>*Ke Sun; Zhongxi Chen; Xianming Lin; Xiaoshuai Sun; Hong Liu; Rongrong Ji*</sub></sup> | [Paper](https://ieeexplore.ieee.org/abstract/document/10834569)  [Code](https://github.com/Rapisurazurite/CamoDiffusion) |
 |:blue_square: `COD` | `2025/Jan` | `TPAMI` | Referring Camouflaged Object Detection <br> <sup><sub>*Xuying Zhang, Bowen Yin, Zheng Lin, Qibin Hou, Deng-Ping Fan, Ming-Ming Cheng*</sub></sup> | [Paper](https://arxiv.org/abs/2306.07532)  [Code](https://github.com/zhangxuying1004/RefCOD) |
 |:white_large_square: <br>`CX` | `2024/Dec` | `AAAI` | MM-CamObj: A Comprehensive Multimodal Dataset for Camouflaged Object Scenarios <br> <sup><sub>*Jiacheng Ruan, Wenzhen Yuan, Zehao Lin, Ning Liao, Zhiyu Li, Feiyu Xiong, Ting Liu, Yuzhuo Fu*</sub></sup> | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/32723)  [Code](https://github.com/JCruan519/MM-CamObj) |
