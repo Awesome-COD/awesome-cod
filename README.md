@@ -102,7 +102,7 @@
 
 | **Task** | **Release** | **Pub.** | **Title** |    **Links**   |
 | :--------: | :------------: | :------: | :-------: | :------------: |
-|:white_large_square: `CX`| `2025/Dec` | `ArXiv` | Context-measure: Contextualizing Metric for Camouflage <br> <sup><sub>*Chen-Yang Wang, Gepeng Ji, Song Shao, Ming-Ming Cheng, Deng-Ping Fan*</sub></sup> | [Paper](https://arxiv.org/pdf/2512.07076v1) [Code](https://github.com/pursuitxi/Context-measure) |
+|:white_large_square:<br> `CX`| `2025/Dec` | `ArXiv` | Context-measure: Contextualizing Metric for Camouflage <br> <sup><sub>*Chen-Yang Wang, Gepeng Ji, Song Shao, Ming-Ming Cheng, Deng-Ping Fan*</sub></sup> | [Paper](https://arxiv.org/pdf/2512.07076v1) [Code](https://github.com/pursuitxi/Context-measure) |
 |:blue_square: `COD`| `2025/Dec` | `ArXiv` | Assisted Refinement Network Based on Channel Information Interaction for Camouflaged and Salient Object Detection <br> <sup><sub>*Kuan Wang, Yanjun Qin, Mengge Lu, Liejun Wang, Xiaoming Tao*</sub></sup> | [Paper](https://arxiv.org/pdf/2512.11369v1) [Code](https://github.com/akuan1234/ARNet-v2) |
 |:red_square: `VCOD`| `2025/Dec` | `ArXiv` | Track and Caption Any Motion: Query-Free Motion Discovery and Description in Videos <br> <sup><sub>*Bishoy Galoaa, Sarah Ostadabbas*</sub></sup> | [Paper](https://arxiv.org/pdf/2512.10607v1) [Code](https://github.com/ostadabbas/TCAM-Track-and-Caption-Any-Motion) |
 |:blue_square: `COD`| `2025/Dec` | `ArXiv` | From SAM to DINOv2: Towards Distilling Foundation Models to Lightweight Baselines for Generalized Polyp Segmentation <br> <sup><sub>*Shivanshu Agnihotri, Snehashis Majhi, Deepak Ranjan Nayak, Debesh Jha*</sub></sup> | [Paper](https://arxiv.org/pdf/2512.09307v1) [Code](https://github.com/lostinrepo/PolypDiFoM) |
