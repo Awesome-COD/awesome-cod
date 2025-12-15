@@ -11,7 +11,7 @@
 # <p align=center>`Awesome List for Camouflaged Object Detection (COD)`
 
 
-:loudspeaker:<strong>Last updated: 2025.11.28</strong>
+:loudspeaker:<strong>Last updated: 2025.12.15</strong>
 
 - [10/2025] Update with NeurlPS2025 papers. 
 - [09/2025] Update with ACMMM2025, TPAMI papers. 
@@ -102,6 +102,11 @@
 
 | **Task** | **Release** | **Pub.** | **Title** |    **Links**   |
 | :--------: | :------------: | :------: | :-------: | :------------: |
+|:white_large_square: `CX`| `2025/Dec` | `ArXiv` | Context-measure: Contextualizing Metric for Camouflage <br> <sup><sub>*Chen-Yang Wang, Gepeng Ji, Song Shao, Ming-Ming Cheng, Deng-Ping Fan*</sub></sup> | [Paper](https://arxiv.org/pdf/2512.07076v1) [Code](https://github.com/pursuitxi/Context-measure) |
+|:blue_square: `COD`| `2025/Dec` | `ArXiv` | Assisted Refinement Network Based on Channel Information Interaction for Camouflaged and Salient Object Detection <br> <sup><sub>*Kuan Wang, Yanjun Qin, Mengge Lu, Liejun Wang, Xiaoming Tao*</sub></sup> | [Paper](https://arxiv.org/pdf/2512.11369v1) [Code](https://github.com/akuan1234/ARNet-v2) |
+|:red_square: `VCOD`| `2025/Dec` | `ArXiv` | Track and Caption Any Motion: Query-Free Motion Discovery and Description in Videos <br> <sup><sub>*Bishoy Galoaa, Sarah Ostadabbas*</sub></sup> | [Paper](https://arxiv.org/pdf/2512.10607v1) [Code](https://github.com/ostadabbas/TCAM-Track-and-Caption-Any-Motion) |
+|:blue_square: `COD`| `2025/Dec` | `ArXiv` | From SAM to DINOv2: Towards Distilling Foundation Models to Lightweight Baselines for Generalized Polyp Segmentation <br> <sup><sub>*Shivanshu Agnihotri, Snehashis Majhi, Deepak Ranjan Nayak, Debesh Jha*</sub></sup> | [Paper](https://arxiv.org/pdf/2512.09307v1) [Code](https://github.com/lostinrepo/PolypDiFoM) |
+|:blue_square: `COD`| `2025/Nov` | `ArXiv` | ChromouVQA: Benchmarking Vision-Language Models under Chromatic Camouflaged Images <br> <sup><sub>*Yunfei Zhang, Yizhuo He, Yuanxun Shao, Zhengtao Yao, Haoyan Xu, Junhao Dong, Zhen Yao, Zhikang Dong*</sub></sup> | [Paper](https://arxiv.org/pdf/2512.05137v1) [Code](https://github.com/Chromou-VQA-Benchmark/Chromou-VQA) |
 |:blue_square: `COD`| `2025/Nov` | `ArXiv` | RefOnce: Distilling References into a Prototype Memory for Referring Camouflaged Object Detection <br> <sup><sub>*Yu-Huan Wu, Zi-Xuan Zhu, Yan Wang, Liangli Zhen, Deng-Ping Fan*</sub></sup> | [Paper](https://arxiv.org/pdf/2511.20989) [Code](https://github.com/yuhuan-wu/RefOnce) |
 |:green_square:<br> `CIG`| `2025/Nov` | `AAAI` | Text-guided Controllable Diffusion for Realistic Camouflage Images Generation <br> <sup><sub>*Yuhang Qian, Haiyan Chen, Wentong Li, Ningzhong Liu, Jie Qin*</sub></sup> | [Paper](https://arxiv.org/pdf/2511.20218) [Code](https://github.com/NikoNairre/CT-CIG) |
 |:blue_square: `COD`| `2025/Nov` | `ArXiv` | SAM3-Adapter: Efficient Adaptation of Segment Anything 3 for Camouflage Object Segmentation, Shadow Detection, and Medical Image Segmentation <br> <sup><sub>*Tianrun Chen, Runlong Cao, Xinda Yu, Lanyun Zhu, Chaotao Ding, Deyi Ji, Cheng Chen, Qi Zhu, Chunyan Xu, Papa Mao, Ying Zang*</sub></sup> | [Paper](https://arxiv.org/pdf/2511.19425v1) [Code](https://github.com/tianrun-chen/SAM-Adapter-PyTorch) |
