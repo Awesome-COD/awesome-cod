@@ -11,7 +11,7 @@
 # <p align=center>`Awesome List for Camouflaged Object Detection (COD)`
 
 
-:loudspeaker:<strong>Last updated: 2025.12.15</strong>
+:loudspeaker:<strong>Last updated: 2025.12.30</strong>
 
 - [10/2025] Update with NeurlPS2025 papers. 
 - [09/2025] Update with ACMMM2025, TPAMI papers. 
@@ -103,6 +103,8 @@
 | **Task** | **Release** | **Pub.** | **Title** |    **Links**   |
 | :--------: | :------------: | :------: | :-------: | :------------: |
 |:white_large_square:<br> `CX`| `2025/Dec` | `ArXiv` | Context-measure: Contextualizing Metric for Camouflage <br> <sup><sub>*Chen-Yang Wang, Gepeng Ji, Song Shao, Ming-Ming Cheng, Deng-Ping Fan*</sub></sup> | [Paper](https://arxiv.org/pdf/2512.07076) [Code](https://github.com/pursuitxi/Context-measure) |
+|:green_square:<br> `CIG`| `2025/Dec` | `ArXiv` | RealCamo: Boosting Real Camouflage Synthesis with Layout Controls and Textual-Visual Guidance <br> <sup><sub>*Chunyuan Chen, Yunuo Cai, Shujuan Li, Weiyun Liang, Bin Wang, Jing Xu*</sub></sup> | [Paper](https://arxiv.org/pdf/2512.22974v1) Code |
+|:blue_square: `COD`| `2025/Dec` | `ArXiv` | ${D}^{3}${ETOR}: ${D}$ebate-Enhanced Pseudo Labeling and Frequency-Aware Progressive ${D}$ebiasing for Weakly-Supervised Camouflaged Object ${D}$etection with Scribble Annotations <br> <sup><sub>*Jiawei Ge, Jiuxin Cao, Xinyi Li, Xuelin Zhu, Chang Liu, Bo Liu, Chen Feng, Ioannis Patras*</sub></sup> | [Paper](https://arxiv.org/pdf/2512.20260v1) Code |
 |:blue_square: `COD`| `2025/Dec` | `ArXiv` | Assisted Refinement Network Based on Channel Information Interaction for Camouflaged and Salient Object Detection <br> <sup><sub>*Kuan Wang, Yanjun Qin, Mengge Lu, Liejun Wang, Xiaoming Tao*</sub></sup> | [Paper](https://arxiv.org/pdf/2512.11369) [Code](https://github.com/akuan1234/ARNet-v2) |
 |:red_square: `VCOD`| `2025/Dec` | `ArXiv` | Track and Caption Any Motion: Query-Free Motion Discovery and Description in Videos <br> <sup><sub>*Bishoy Galoaa, Sarah Ostadabbas*</sub></sup> | [Paper](https://arxiv.org/pdf/2512.10607v1) [Code](https://github.com/ostadabbas/TCAM-Track-and-Caption-Any-Motion) |
 |:blue_square: `COD`| `2025/Dec` | `ArXiv` | From SAM to DINOv2: Towards Distilling Foundation Models to Lightweight Baselines for Generalized Polyp Segmentation <br> <sup><sub>*Shivanshu Agnihotri, Snehashis Majhi, Deepak Ranjan Nayak, Debesh Jha*</sub></sup> | [Paper](https://arxiv.org/pdf/2512.09307v1) [Code](https://github.com/lostinrepo/PolypDiFoM) |
