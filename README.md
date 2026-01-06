@@ -102,6 +102,7 @@
 
 | **Task** | **Release** | **Pub.** | **Title** |    **Links**   |
 | :--------: | :------------: | :------: | :-------: | :------------: |
+|:green_square:<br> `CIG`| `2026/Jan` | `ArXiv` | GenCAMO: Scene-Graph Contextual Decoupling for Environment-aware and Mask-free Camouflage Image-Dense Annotation Generation <br> <sup><sub>*Chenglizhao Chen, Shaojiang Yuan, Xiaoxue Lu, Mengke Song, Jia Song, Zhenyu Wu, Wenfeng Song, Shuai Li*</sub></sup> | [Paper](https://arxiv.org/pdf/2601.01181v1) Code |
 |:white_large_square:<br> `CX`| `2025/Dec` | `ArXiv` | Context-measure: Contextualizing Metric for Camouflage <br> <sup><sub>*Chen-Yang Wang, Gepeng Ji, Song Shao, Ming-Ming Cheng, Deng-Ping Fan*</sub></sup> | [Paper](https://arxiv.org/pdf/2512.07076) [Code](https://github.com/pursuitxi/Context-measure) |
 |:green_square:<br> `CIG`| `2025/Dec` | `ArXiv` | RealCamo: Boosting Real Camouflage Synthesis with Layout Controls and Textual-Visual Guidance <br> <sup><sub>*Chunyuan Chen, Yunuo Cai, Shujuan Li, Weiyun Liang, Bin Wang, Jing Xu*</sub></sup> | [Paper](https://arxiv.org/pdf/2512.22974v1) Code |
 |:blue_square: `COD`| `2025/Dec` | `ArXiv` | ${D}^{3}${ETOR}: ${D}$ebate-Enhanced Pseudo Labeling and Frequency-Aware Progressive ${D}$ebiasing for Weakly-Supervised Camouflaged Object ${D}$etection with Scribble Annotations <br> <sup><sub>*Jiawei Ge, Jiuxin Cao, Xinyi Li, Xuelin Zhu, Chang Liu, Bo Liu, Chen Feng, Ioannis Patras*</sub></sup> | [Paper](https://arxiv.org/pdf/2512.20260v1) Code |
