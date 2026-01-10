@@ -11,7 +11,7 @@
 # <p align=center>`Awesome List for Camouflaged Object Detection (COD)`
 
 
-:loudspeaker:<strong>Last updated: 2026.01.06</strong>
+:loudspeaker:<strong>Last updated: 2026.01.10</strong>
 
 - [10/2025] Update with NeurlPS2025 papers. 
 - [09/2025] Update with ACMMM2025, TPAMI papers. 
@@ -102,6 +102,9 @@
 
 | **Task** | **Release** | **Pub.** | **Title** |    **Links**   |
 | :--------: | :------------: | :------: | :-------: | :------------: |
+|:blue_square: `COD`| `2026/Jan` | `ArXiv` | HyperCOD: The First Challenging Benchmark and Baseline for Hyperspectral Camouflaged Object Detection <br> <sup><sub>*Shuyan Bai, Tingfa Xu, Peifu Liu, Yuhao Qiu, Huiyan Bai, Huan Chen, Yanyan Peng, Jianan Li*</sub></sup> | [Paper](https://arxiv.org/pdf/2601.03736v1) [Code](https://github.com/Baishuyanyan/HyperCOD) |
+|:blue_square: `COD`| `2026/Jan` | `ArXiv` | Adaptive Attention Distillation for Robust Few-Shot Segmentation under Environmental Perturbations <br> <sup><sub>*Qianyu Guo, Jingrong Wu, Jieji Ren, Weifeng Ge, Wenqiang Zhang*</sub></sup> | [Paper](https://arxiv.org/pdf/2601.03596v1) [Code](https://github.com/guoqianyu-alberta/Adaptive-Attention-Distillation-for-FSS) |
+|:blue_square: `COD`| `2026/Jan` | `ArXiv` | DGA-Net: Enhancing SAM with Depth Prompting and Graph-Anchor Guidance for Camouflaged Object Detection <br> <sup><sub>*Yuetong Li, Qing Zhang, Yilin Zhao, Gongyang Li, Zeming Liu*</sub></sup> | [Paper](https://arxiv.org/pdf/2601.02831v1) Code |
 |:green_square:<br> `CIG`| `2026/Jan` | `ArXiv` | GenCAMO: Scene-Graph Contextual Decoupling for Environment-aware and Mask-free Camouflage Image-Dense Annotation Generation <br> <sup><sub>*Chenglizhao Chen, Shaojiang Yuan, Xiaoxue Lu, Mengke Song, Jia Song, Zhenyu Wu, Wenfeng Song, Shuai Li*</sub></sup> | [Paper](https://arxiv.org/pdf/2601.01181v1) Code |
 |:white_large_square:<br> `CX`| `2025/Dec` | `ArXiv` | Context-measure: Contextualizing Metric for Camouflage <br> <sup><sub>*Chen-Yang Wang, Gepeng Ji, Song Shao, Ming-Ming Cheng, Deng-Ping Fan*</sub></sup> | [Paper](https://arxiv.org/pdf/2512.07076) [Code](https://github.com/pursuitxi/Context-measure) |
 |:green_square:<br> `CIG`| `2025/Dec` | `ArXiv` | RealCamo: Boosting Real Camouflage Synthesis with Layout Controls and Textual-Visual Guidance <br> <sup><sub>*Chunyuan Chen, Yunuo Cai, Shujuan Li, Weiyun Liang, Bin Wang, Jing Xu*</sub></sup> | [Paper](https://arxiv.org/pdf/2512.22974v1) Code |
