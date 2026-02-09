@@ -103,6 +103,10 @@
 
 | **Task** | **Release** | **Pub.** | **Title** |    **Links**   |
 | :--------: | :------------: | :------: | :-------: | :------------: |
+|:white_large_square:<br> `CX`| `2026/Feb` | `ICLR` | 
+|:white_large_square:<br> `COD`| `2026/Feb` | `ICLR` | 
+|:blue_square: `COD`| `2026/Feb` | `ArXiv` | High-Resolution Underwater Camouflaged Object Detection: GBU-UCOD Dataset and Topology-Aware and Frequency-Decoupled Networks <br> <sup><sub>*Wenji Wu, Shuo Ye, Yiyu Liu, Jiguang He, Zhuo Wang, Zitong Yu*</sub></sup> | [Paper](https://arxiv.org/pdf/2602.03591v1) [Code](https://github.com/Wuwenji18/GBU-UCOD) |
+|:blue_square: `COD`| `2026/Feb` | `ArXiv` | Refining Context-Entangled Content Segmentation via Curriculum Selection and Anti-Curriculum Promotion <br> <sup><sub>*Chunming He, Rihan Zhang, Fengyang Xiao, Dingming Zhang, Zhiwen Cao, Sina Farsiu*</sub></sup> | [Paper](https://arxiv.org/pdf/2602.01183v1) Code |
 |:blue_square: `COD`| `2026/Jan` | `ArXiv` | HyperCOD: The First Challenging Benchmark and Baseline for Hyperspectral Camouflaged Object Detection <br> <sup><sub>*Shuyan Bai, Tingfa Xu, Peifu Liu, Yuhao Qiu, Huiyan Bai, Huan Chen, Yanyan Peng, Jianan Li*</sub></sup> | [Paper](https://arxiv.org/pdf/2601.03736v1) [Code](https://github.com/Baishuyanyan/HyperCOD) |
 |:blue_square: `COD`| `2026/Jan` | `ArXiv` | Adaptive Attention Distillation for Robust Few-Shot Segmentation under Environmental Perturbations <br> <sup><sub>*Qianyu Guo, Jingrong Wu, Jieji Ren, Weifeng Ge, Wenqiang Zhang*</sub></sup> | [Paper](https://arxiv.org/pdf/2601.03596v1) [Code](https://github.com/guoqianyu-alberta/Adaptive-Attention-Distillation-for-FSS) |
 |:blue_square: `COD`| `2026/Jan` | `ArXiv` | DGA-Net: Enhancing SAM with Depth Prompting and Graph-Anchor Guidance for Camouflaged Object Detection <br> <sup><sub>*Yuetong Li, Qing Zhang, Yilin Zhao, Gongyang Li, Zeming Liu*</sub></sup> | [Paper](https://arxiv.org/pdf/2601.02831v1) Code |
