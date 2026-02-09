@@ -13,7 +13,6 @@
 
 :loudspeaker:<strong>Last updated: 2026.02.09</strong>
 
-- [02/2026] Update with ICLR2026 papers. 
 - [10/2025] Update with NeurlPS2025 papers. 
 - [09/2025] Update with ACMMM2025, TPAMI papers. 
 - [06/2025] Update with ICCV2025 papers.    
@@ -103,8 +102,6 @@
 
 | **Task** | **Release** | **Pub.** | **Title** |    **Links**   |
 | :--------: | :------------: | :------: | :-------: | :------------: |
-|:blue_square:<br> `COD`| `2026/Feb` | `ICLR` | ForestPersons: A Large-Scale Dataset for Under-Canopy Missing Person Detection <br> <sup><sub>*Deokyun Kim, Jeongjun Lee, Jungwon Choi, Jonggeon Park, Giyoung Lee, Yookyung Kim, Myungseok Ki, Juho Lee, Jihun Cha*</sub></sup> | [Paper](https://openreview.net/pdf?id=ZC2N9q8USm) Code |
-|:blue_square:<br> `COD`| `2026/Feb` | `ICLR` | WavePolyp: Video Polyp Segmentation via Hierarchical Wavelet-Based Feature Aggregation and Inter-Frame Divergence Perception <br> <sup><sub>*Yuhua Zhang, Guilian Chen, Yuanqin He, Huisi Wu, Jing Qin*</sub></sup> | [Paper](https://openreview.net/pdf?id=Sm3Y0TMnDv) Code |
 |:blue_square: `COD`| `2026/Feb` | `ArXiv` | High-Resolution Underwater Camouflaged Object Detection: GBU-UCOD Dataset and Topology-Aware and Frequency-Decoupled Networks <br> <sup><sub>*Wenji Wu, Shuo Ye, Yiyu Liu, Jiguang He, Zhuo Wang, Zitong Yu*</sub></sup> | [Paper](https://arxiv.org/pdf/2602.03591v1) [Code](https://github.com/Wuwenji18/GBU-UCOD) |
 |:blue_square: `COD`| `2026/Feb` | `ArXiv` | Refining Context-Entangled Content Segmentation via Curriculum Selection and Anti-Curriculum Promotion <br> <sup><sub>*Chunming He, Rihan Zhang, Fengyang Xiao, Dingming Zhang, Zhiwen Cao, Sina Farsiu*</sub></sup> | [Paper](https://arxiv.org/pdf/2602.01183v1) Code |
 |:blue_square: `COD`| `2026/Jan` | `ArXiv` | HyperCOD: The First Challenging Benchmark and Baseline for Hyperspectral Camouflaged Object Detection <br> <sup><sub>*Shuyan Bai, Tingfa Xu, Peifu Liu, Yuhao Qiu, Huiyan Bai, Huan Chen, Yanyan Peng, Jianan Li*</sub></sup> | [Paper](https://arxiv.org/pdf/2601.03736v1) [Code](https://github.com/Baishuyanyan/HyperCOD) |
