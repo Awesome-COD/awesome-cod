@@ -102,7 +102,7 @@
 
 | **Task** | **Release** | **Pub.** | **Title** |    **Links**   |
 | :--------: | :------------: | :------: | :-------: | :------------: |
-|:blue_square: `COD`| `2026/Feb` | `2026/Feb` | `ArXiv` | Discover, Segment, and Select: A Progressive Mechanism for Zero-shot Camouflaged Object Segmentation <br> <sup><sub>*Yilong Yang, Jianxin Tian, Shengchuan Zhang, Liujuan Cao*</sub></sup> | [Paper](https://arxiv.org/pdf/2602.19944v1) Code |
+|:blue_square: `COD`| `2026/Feb` | `ArXiv` | Discover, Segment, and Select: A Progressive Mechanism for Zero-shot Camouflaged Object Segmentation <br> <sup><sub>*Yilong Yang, Jianxin Tian, Shengchuan Zhang, Liujuan Cao*</sub></sup> | [Paper](https://arxiv.org/pdf/2602.19944v1) Code |
 |:blue_square: `COD`| `2026/Feb` | `ArXiv` | High-Resolution Underwater Camouflaged Object Detection: GBU-UCOD Dataset and Topology-Aware and Frequency-Decoupled Networks <br> <sup><sub>*Wenji Wu, Shuo Ye, Yiyu Liu, Jiguang He, Zhuo Wang, Zitong Yu*</sub></sup> | [Paper](https://arxiv.org/pdf/2602.03591v1) [Code](https://github.com/Wuwenji18/GBU-UCOD) |
 |:blue_square: `COD`| `2026/Feb` | `ArXiv` | Refining Context-Entangled Content Segmentation via Curriculum Selection and Anti-Curriculum Promotion <br> <sup><sub>*Chunming He, Rihan Zhang, Fengyang Xiao, Dingming Zhang, Zhiwen Cao, Sina Farsiu*</sub></sup> | [Paper](https://arxiv.org/pdf/2602.01183v1) Code |
 |:blue_square: `COD`| `2026/Jan` | `ArXiv` | HyperCOD: The First Challenging Benchmark and Baseline for Hyperspectral Camouflaged Object Detection <br> <sup><sub>*Shuyan Bai, Tingfa Xu, Peifu Liu, Yuhao Qiu, Huiyan Bai, Huan Chen, Yanyan Peng, Jianan Li*</sub></sup> | [Paper](https://arxiv.org/pdf/2601.03736v1) [Code](https://github.com/Baishuyanyan/HyperCOD) |
