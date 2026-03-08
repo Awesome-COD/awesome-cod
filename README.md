@@ -13,7 +13,7 @@
 
 :loudspeaker:<strong>Last updated: 2026.03.08</strong>
 
-- [03/2026] Update with AAAI2026 papers. 
+- [11/2025] Update with AAAI2026 papers. 
 - [10/2025] Update with NeurlPS2025 papers. 
 - [09/2025] Update with ACMMM2025, TPAMI papers. 
 - [06/2025] Update with ICCV2025 papers.    
