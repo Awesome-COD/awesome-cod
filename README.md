@@ -11,7 +11,7 @@
 # <p align=center>`Awesome List for Camouflaged Object Detection (COD)`
 
 
-:loudspeaker:<strong>Last updated: 2026.03.08</strong>
+:loudspeaker:<strong>Last updated: 2026.03.09</strong>
 
 - [11/2025] Update with AAAI2026 papers. 
 - [10/2025] Update with NeurlPS2025 papers. 
@@ -103,6 +103,7 @@
 
 | **Task** | **Release** | **Pub.** | **Title** |    **Links**   |
 | :--------: | :------------: | :------: | :-------: | :------------: |
+|:blue_square: `COD`| `2026/Mar` | `ArXiv` | YCDa: YCbCr Decoupled Attention for Real-time Realistic Camouflaged Object Detection <br> <sup><sub>*PeiHuang Zheng, Yunlong Zhao, Zheng Cui, Yang Li*</sub></sup> | [Paper](https://arxiv.org/pdf/2603.01602v1) [Code](https://github.com/hhao659/YCDa) |
 |:blue_square: `COD`| `2026/Feb` | `ArXiv` | Discover, Segment, and Select: A Progressive Mechanism for Zero-shot Camouflaged Object Segmentation <br> <sup><sub>*Yilong Yang, Jianxin Tian, Shengchuan Zhang, Liujuan Cao*</sub></sup> | [Paper](https://arxiv.org/pdf/2602.19944v1) Code |
 |:blue_square: `COD`| `2026/Feb` | `ArXiv` | High-Resolution Underwater Camouflaged Object Detection: GBU-UCOD Dataset and Topology-Aware and Frequency-Decoupled Networks <br> <sup><sub>*Wenji Wu, Shuo Ye, Yiyu Liu, Jiguang He, Zhuo Wang, Zitong Yu*</sub></sup> | [Paper](https://arxiv.org/pdf/2602.03591v1) [Code](https://github.com/Wuwenji18/GBU-UCOD) |
 |:blue_square: `COD`| `2026/Feb` | `ArXiv` | Refining Context-Entangled Content Segmentation via Curriculum Selection and Anti-Curriculum Promotion <br> <sup><sub>*Chunming He, Rihan Zhang, Fengyang Xiao, Dingming Zhang, Zhiwen Cao, Sina Farsiu*</sub></sup> | [Paper](https://arxiv.org/pdf/2602.01183v1) Code |
