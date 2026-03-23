@@ -11,7 +11,7 @@
 # <p align=center>`Awesome List for Camouflaged Object Detection (COD)`
 
 
-:loudspeaker:<strong>Last updated: 2026.03.09</strong>
+:loudspeaker:<strong>Last updated: 2026.03.23</strong>
 
 - [11/2025] Update with AAAI2026 papers. 
 - [10/2025] Update with NeurlPS2025 papers. 
@@ -103,6 +103,8 @@
 
 | **Task** | **Release** | **Pub.** | **Title** |    **Links**   |
 | :--------: | :------------: | :------: | :-------: | :------------: |
+|:blue_square: `COD`| `2026/Mar` | `ArXiv` | EReCu: Pseudo-label Evolution Fusion and Refinement with Multi-Cue Learning for Unsupervised Camouflage Detection <br> <sup><sub>*Shuo Jiang, Gaojia Zhang, Min Tan, Yufei Yin, Gang Pan*</sub></sup> | [Paper](https://arxiv.org/pdf/2603.11521v1) [Code](https://github.com/JSLiam94/EReCu) |
+|:blue_square: `COD`| `2026/Mar` | `ArXiv` | Bi-CamoDiffusion: A Boundary-informed Diffusion Approach for Camouflaged Object Detection <br> <sup><sub>*Patricia L. Suarez, Leo Thomas Ramos, Angel D. Sappa*</sub></sup> | [Paper](https://arxiv.org/pdf/2603.13357v1) Code |
 |:blue_square: `COD`| `2026/Mar` | `ArXiv` | YCDa: YCbCr Decoupled Attention for Real-time Realistic Camouflaged Object Detection <br> <sup><sub>*PeiHuang Zheng, Yunlong Zhao, Zheng Cui, Yang Li*</sub></sup> | [Paper](https://arxiv.org/pdf/2603.01602v1) [Code](https://github.com/hhao659/YCDa) |
 |:blue_square: `COD`| `2026/Feb` | `ArXiv` | Discover, Segment, and Select: A Progressive Mechanism for Zero-shot Camouflaged Object Segmentation <br> <sup><sub>*Yilong Yang, Jianxin Tian, Shengchuan Zhang, Liujuan Cao*</sub></sup> | [Paper](https://arxiv.org/pdf/2602.19944v1) Code |
 |:blue_square: `COD`| `2026/Feb` | `ArXiv` | High-Resolution Underwater Camouflaged Object Detection: GBU-UCOD Dataset and Topology-Aware and Frequency-Decoupled Networks <br> <sup><sub>*Wenji Wu, Shuo Ye, Yiyu Liu, Jiguang He, Zhuo Wang, Zitong Yu*</sub></sup> | [Paper](https://arxiv.org/pdf/2602.03591v1) [Code](https://github.com/Wuwenji18/GBU-UCOD) |
