@@ -11,7 +11,7 @@
 # <p align=center>`Awesome List for Camouflaged Object Detection (COD)`
 
 
-:loudspeaker:<strong>Last updated: 2026.03.23</strong>
+:loudspeaker:<strong>Last updated: 2026.04.06</strong>
 
 - [11/2025] Update with AAAI2026 papers. 
 - [10/2025] Update with NeurlPS2025 papers. 
@@ -103,6 +103,13 @@
 
 | **Task** | **Release** | **Pub.** | **Title** |    **Links**   |
 | :--------: | :------------: | :------: | :-------: | :------------: |
+|:blue_square: `COD`| `2026/Apr` | `ArXiv` | Modality-Specific Hierarchical Enhancement for RGB-D Camouflaged Object Detection <br> <sup><sub>*Yuzhen Niu, Yangqing Wang, Ri Cheng, Fusheng Li, Rongshen Wang, Zhichen Yang*</sub></sup> | [Paper](https://arxiv.org/pdf/2604.02935v1) [Code](https://github.com/afdsgh/MHENet) |
+|:white_large_square:<br> `CX` | `2026/Apr` | `ArXiv` | Camouflage-aware Image-Text Retrieval via Expert Collaboration <br> <sup><sub>*Yao Jiang, Zhongkuan Mao, Xuan Wu, Keren Fu, Qijun Zhao*</sub></sup> | [Paper](https://arxiv.org/pdf/2604.01251v1) [Code](https://github.com/jiangyao-scu/CA-ITR) |
+|:blue_square: `COD`| `2026/Mar` | `ArXiv` | Conditional Polarization Guidance for Camouflaged Object Detection <br> <sup><sub>*QIfan Zhang, Hao Wang, Xiangrong Qin, Ruijie Li*</sub></sup> | [Paper](https://arxiv.org/pdf/2603.30008v2) Code |
+|:blue_square: `COD`| `2026/Mar` | `ArXiv` | IP-SAM: Prompt-Space Conditioning for Prompt-Absent Camouflaged Object Detection <br> <sup><sub>*Huiyao Zhang, Jin Bai, Rui Guo, JianWen Tan, HongFei Wang, Ye Li*</sub></sup> | [Paper](https://arxiv.org/pdf/2603.27250v1) Code |
+|:blue_square: `COD`| `2026/Mar` | `ArXiv` | SDDF: Specificity-Driven Dynamic Focusing for Open-Vocabulary Camouflaged Object Detection <br> <sup><sub>*Jiaming Liang, Yifeng Zhan, Chunlin Liu, Weihua Zheng, Bingye Peng, Qiwei Liang, Boyang Cai, Xiaochun Mai, Qiang Nie*</sub></sup> | [Paper](https://arxiv.org/pdf/2603.26109v1) [Code](https://arxiv.org/pdf/2603.26109v1) |
+|:blue_square: `COD`| `2026/Mar` | `ArXiv` | Language-Guided Structure-Aware Network for Camouflaged Object Detection <br> <sup><sub>*Min Zhang*</sub></sup> | [Paper](https://arxiv.org/pdf/2603.24355v1) [Code](https://github.com/tc-fro/LGSAN) |
+|:blue_square: `COD`| `2026/Mar` | `ArXiv` | FCL-COD: Weakly Supervised Camouflaged Object Detection with Frequency-aware and Contrastive Learning <br> <sup><sub>*Jingchen Ni, Quan Zhang, Dan Jiang, Keyu Lv, Ke Zhang, Chun Yuan*</sub></sup> | [Paper](https://arxiv.org/pdf/2603.22969v1) Code |
 |:blue_square: `COD`| `2026/Mar` | `ArXiv` | EReCu: Pseudo-label Evolution Fusion and Refinement with Multi-Cue Learning for Unsupervised Camouflage Detection <br> <sup><sub>*Shuo Jiang, Gaojia Zhang, Min Tan, Yufei Yin, Gang Pan*</sub></sup> | [Paper](https://arxiv.org/pdf/2603.11521v1) [Code](https://github.com/JSLiam94/EReCu) |
 |:blue_square: `COD`| `2026/Mar` | `ArXiv` | Bi-CamoDiffusion: A Boundary-informed Diffusion Approach for Camouflaged Object Detection <br> <sup><sub>*Patricia L. Suarez, Leo Thomas Ramos, Angel D. Sappa*</sub></sup> | [Paper](https://arxiv.org/pdf/2603.13357v1) Code |
 |:blue_square: `COD`| `2026/Mar` | `ArXiv` | YCDa: YCbCr Decoupled Attention for Real-time Realistic Camouflaged Object Detection <br> <sup><sub>*PeiHuang Zheng, Yunlong Zhao, Zheng Cui, Yang Li*</sub></sup> | [Paper](https://arxiv.org/pdf/2603.01602v1) [Code](https://github.com/hhao659/YCDa) |
