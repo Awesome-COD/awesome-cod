@@ -11,7 +11,7 @@
 # <p align=center>`Awesome List for Camouflaged Object Detection (COD)`
 
 
-:loudspeaker:<strong>Last updated: 2026.04.06</strong>
+:loudspeaker:<strong>Last updated: 2026.04.15</strong>
 
 - [11/2025] Update with AAAI2026 papers. 
 - [10/2025] Update with NeurlPS2025 papers. 
@@ -103,6 +103,10 @@
 
 | **Task** | **Release** | **Pub.** | **Title** |    **Links**   |
 | :--------: | :------------: | :------: | :-------: | :------------: |
+|:blue_square: `COD`| `2026/Apr` | `ArXiv` | Modality-Agnostic Prompt Learning for Multi-Modal Camouflaged Object Detection <br> <sup><sub>*Hao Wang, Jiqing Zhang, Xin Yang, Baocai Yin, Lu Jiang, Zetian Mi, Huibing Wang*</sub></sup> | [Paper](https://arxiv.org/pdf/2604.12380v1) Code |
+|:blue_square: `COD`| `2026/Apr` | `ArXiv` | EviRCOD: Evidence-Guided Probabilistic Decoding for Referring Camouflaged Object Detection <br> <sup><sub>*Ye Wang, Kai Huang, Sumin Shen, Chenyang Ma*</sub></sup> | [Paper](https://arxiv.org/pdf/2604.10894v1) [Code](https://github.com/blueecoffee/EviRCOD) |
+|:red_square: `VCOD`| `2026/Apr` | `ArXiv` | YUV20K: A Complexity-Driven Benchmark and Trajectory-Aware Alignment Model for Video Camouflaged Object Detection <br> <sup><sub>*Yiyu Liu, Shuo Ye, Chao Hao, Zitong Yu*</sub></sup> | [Paper](https://arxiv.org/pdf/2604.09985v1) [Code](https://github.com/K1NSA/YUV20K) |
+|:red_square: `VCOD`| `2026/Apr` | `ArXiv` | CAMotion: A High-Quality Benchmark for Camouflaged Moving Object Detection in the Wild <br> <sup><sub>*Siyuan Yao, Hao Sun, Ruiqi Yu, Xiwei Jiang, Wenqi Ren, Xiaochun Cao*</sub></sup> | [Paper](https://arxiv.org/pdf/2604.08287v2) [Code](https://www.camotion.focuslab.net.cn/) |
 |:blue_square: `COD`| `2026/Apr` | `ArXiv` | Modality-Specific Hierarchical Enhancement for RGB-D Camouflaged Object Detection <br> <sup><sub>*Yuzhen Niu, Yangqing Wang, Ri Cheng, Fusheng Li, Rongshen Wang, Zhichen Yang*</sub></sup> | [Paper](https://arxiv.org/pdf/2604.02935v1) [Code](https://github.com/afdsgh/MHENet) |
 |:white_large_square:<br> `CX` | `2026/Apr` | `ArXiv` | Camouflage-aware Image-Text Retrieval via Expert Collaboration <br> <sup><sub>*Yao Jiang, Zhongkuan Mao, Xuan Wu, Keren Fu, Qijun Zhao*</sub></sup> | [Paper](https://arxiv.org/pdf/2604.01251v1) [Code](https://github.com/jiangyao-scu/CA-ITR) |
 |:blue_square: `COD`| `2026/Mar` | `ArXiv` | Conditional Polarization Guidance for Camouflaged Object Detection <br> <sup><sub>*QIfan Zhang, Hao Wang, Xiangrong Qin, Ruijie Li*</sub></sup> | [Paper](https://arxiv.org/pdf/2603.30008v2) Code |
