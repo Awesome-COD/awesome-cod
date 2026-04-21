@@ -11,7 +11,7 @@
 # <p align=center>`Awesome List for Camouflaged Object Detection (COD)`
 
 
-:loudspeaker:<strong>Last updated: 2026.04.15</strong>
+:loudspeaker:<strong>Last updated: 2026.04.20</strong>
 
 - [11/2025] Update with AAAI2026 papers. 
 - [10/2025] Update with NeurlPS2025 papers. 
@@ -103,6 +103,11 @@
 
 | **Task** | **Release** | **Pub.** | **Title** |    **Links**   |
 | :--------: | :------------: | :------: | :-------: | :------------: |
+|:blue_square: `COD`| `2026/Apr` | `ArXiv` | Exploring Boundary-Aware Spatial-Frequency Fusion for Camouflaged Object Detection <br> <sup><sub>*Song Yu, Yang Hu, Haokang Ding, Zhifang Liao, Yucheng Song*</sub></sup> | [Paper](https://arxiv.org/pdf/2604.17879v1) Code |
+|:blue_square: `COD`| `2026/Apr` | `ArXiv` | When W4A4 Breaks Camouflaged Object Detection: Token-Group Dual-Constraint Activation Quantization <br> <sup><sub>*Tianqi Li, Wenyu Fang, Xin He, Xue Geng, Xu Cheng, Yun Liu*</sub></sup> | [Paper](https://arxiv.org/pdf/2604.16855v1) Code |
+|:blue_square: `COD`| `2026/Apr` | `ArXiv` | CATP: Confidence-Aware Token Pruning for Camouflaged Object Detection <br> <sup><sub>*Yuhan Gao, Shuhao Kang, Xin He, Bing Li, Xu Cheng, Yun Liu*</sub></sup> | [Paper](https://arxiv.org/pdf/2604.16854v1) Code |
+|:blue_square: `COD`| `2026/Apr` | `CVPR-W` | SWNet: A Cross-Spectral Network for Camouflaged Weed Detection <br> <sup><sub>*Henry O. Velesaca, Luigi Miranda, Angel D. Sappa*</sub></sup> | [Paper](https://arxiv.org/pdf/2604.16147v1) [Code](https://github.com/hvelesaca/SWNet/) |
+|:white_large_square: `CX`| `2026/Apr` | `CVPR-W` | Camo-M3FD: A New Benchmark Dataset for Cross-Spectral Camouflaged Pedestrian Detection <br> <sup><sub>*Henry O. Velesaca, Andrea Mero, Guillermo A. Castillo, Angel D. Sappa*</sub></sup> | [Paper](https://arxiv.org/pdf/2604.16582v1) [Code](https://cod-espol.github.io/Camo-M3FD/) |
 |:blue_square: `COD`| `2026/Apr` | `ArXiv` | Modality-Agnostic Prompt Learning for Multi-Modal Camouflaged Object Detection <br> <sup><sub>*Hao Wang, Jiqing Zhang, Xin Yang, Baocai Yin, Lu Jiang, Zetian Mi, Huibing Wang*</sub></sup> | [Paper](https://arxiv.org/pdf/2604.12380v1) Code |
 |:blue_square: `COD`| `2026/Apr` | `ArXiv` | EviRCOD: Evidence-Guided Probabilistic Decoding for Referring Camouflaged Object Detection <br> <sup><sub>*Ye Wang, Kai Huang, Sumin Shen, Chenyang Ma*</sub></sup> | [Paper](https://arxiv.org/pdf/2604.10894v1) [Code](https://github.com/blueecoffee/EviRCOD) |
 |:red_square: `VCOD`| `2026/Apr` | `ArXiv` | YUV20K: A Complexity-Driven Benchmark and Trajectory-Aware Alignment Model for Video Camouflaged Object Detection <br> <sup><sub>*Yiyu Liu, Shuo Ye, Chao Hao, Zitong Yu*</sub></sup> | [Paper](https://arxiv.org/pdf/2604.09985v1) [Code](https://github.com/K1NSA/YUV20K) |
