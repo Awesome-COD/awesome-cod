@@ -11,8 +11,9 @@
 # <p align=center>`Awesome List for Camouflaged Object Detection (COD)`
 
 
-:loudspeaker:<strong>Last updated: 2026.04.20</strong>
+:loudspeaker:<strong>Last updated: 2026.05.11</strong>
 
+- [05/2025] Update with ICML2026 papers. 
 - [11/2025] Update with AAAI2026 papers. 
 - [10/2025] Update with NeurlPS2025 papers. 
 - [09/2025] Update with ACMMM2025, TPAMI papers. 
@@ -103,6 +104,9 @@
 
 | **Task** | **Release** | **Pub.** | **Title** |    **Links**   |
 | :--------: | :------------: | :------: | :-------: | :------------: |
+|:blue_square: `COD`| `2026/May` | `ICML` | CODiff: One-Step Diffusion Model for Camouflaged Object Detection <br> <sup><sub>*Xiaotong Fu, Wenchao Meng, Qihang Zhou, Qian Liu, Qinmin Yang, Shibo He*</sub></sup> | [Paper](https://icml.cc/virtual/2026/poster/62692) Code |
+|:blue_square: `COD`| `2026/May` | `ICML` | PMSPO: Progressive Matching and Semantic-Aware Policy Optimization for Camouflaged Object Detection <br> <sup><sub>*Maosheng Su, Junlei Cao, Zhiyuan Wang, Shuo Wang, Ning Zhang, Jun Luo*</sub></sup> | [Paper](https://icml.cc/virtual/2026/poster/65362) Code |
+|:blue_square: `COD`| `2026/May` | `ICML` | Unsupervised Camouflaged Object Detection with Dual-Eigenvector Spectral Pseudo-Labeling and Contrastive Refinement <br> <sup><sub>*Pingzhu Liu, Chunming He, Zunnan Xu, Chao Hao, Bo Zhao, Xingyu Shao, Jun Zhou, Zitong YU, Xiu Li*</sub></sup> | [Paper](https://icml.cc/virtual/2026/poster/63384) Code |
 |:blue_square: `COD`| `2026/Apr` | `ArXiv` | Exploring Boundary-Aware Spatial-Frequency Fusion for Camouflaged Object Detection <br> <sup><sub>*Song Yu, Yang Hu, Haokang Ding, Zhifang Liao, Yucheng Song*</sub></sup> | [Paper](https://arxiv.org/pdf/2604.17879v1) Code |
 |:blue_square: `COD`| `2026/Apr` | `ArXiv` | When W4A4 Breaks Camouflaged Object Detection: Token-Group Dual-Constraint Activation Quantization <br> <sup><sub>*Tianqi Li, Wenyu Fang, Xin He, Xue Geng, Xu Cheng, Yun Liu*</sub></sup> | [Paper](https://arxiv.org/pdf/2604.16855v1) Code |
 |:blue_square: `COD`| `2026/Apr` | `ArXiv` | CATP: Confidence-Aware Token Pruning for Camouflaged Object Detection <br> <sup><sub>*Yuhan Gao, Shuhao Kang, Xin He, Bing Li, Xu Cheng, Yun Liu*</sub></sup> | [Paper](https://arxiv.org/pdf/2604.16854v1) Code |
