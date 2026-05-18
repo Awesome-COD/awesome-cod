@@ -11,7 +11,7 @@
 # <p align=center>`Awesome List for Camouflaged Object Detection (COD)`
 
 
-:loudspeaker:<strong>Last updated: 2026.05.11</strong>
+:loudspeaker:<strong>Last updated: 2026.05.18</strong>
 
 - [05/2026] Update with ICML2026 papers. 
 - [11/2025] Update with AAAI2026 papers. 
@@ -104,6 +104,7 @@
 
 | **Task** | **Release** | **Pub.** | **Title** |    **Links**   |
 | :--------: | :------------: | :------: | :-------: | :------------: |
+|:blue_square: `COD`| `2026/May` | `ArXiv` | RIDE: Retinex-Informed Decoupling for Exposing Concealed Objects <br> <sup><sub>*Chunming He, Rihan Zhang, Dingming Zhang, Chengyu Fang, Longxiang Tang, Jingjia Feng, Fengyang Xiao, Sina Farsiu*</sub></sup> | [Paper](https://arxiv.org/pdf/2605.15450v1) Code |
 |:blue_square: `COD`| `2026/May` | `ICML` | CODiff: One-Step Diffusion Model for Camouflaged Object Detection <br> <sup><sub>*Xiaotong Fu, Wenchao Meng, Qihang Zhou, Qian Liu, Qinmin Yang, Shibo He*</sub></sup> | [Paper](https://icml.cc/virtual/2026/poster/62692) Code |
 |:blue_square: `COD`| `2026/May` | `ICML` | PMSPO: Progressive Matching and Semantic-Aware Policy Optimization for Camouflaged Object Detection <br> <sup><sub>*Maosheng Su, Junlei Cao, Zhiyuan Wang, Shuo Wang, Ning Zhang, Jun Luo*</sub></sup> | [Paper](https://icml.cc/virtual/2026/poster/65362) Code |
 |:blue_square: `COD`| `2026/May` | `ICML` | Unsupervised Camouflaged Object Detection with Dual-Eigenvector Spectral Pseudo-Labeling and Contrastive Refinement <br> <sup><sub>*Pingzhu Liu, Chunming He, Zunnan Xu, Chao Hao, Bo Zhao, Xingyu Shao, Jun Zhou, Zitong YU, Xiu Li*</sub></sup> | [Paper](https://icml.cc/virtual/2026/poster/63384) Code |
