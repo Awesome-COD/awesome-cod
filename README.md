@@ -11,9 +11,10 @@
 # <p align=center>`Awesome List for Camouflaged Object Detection (COD)`
 
 
-:loudspeaker:<strong>Last updated: 2026.05.18</strong>
+:loudspeaker:<strong>Last updated: 2026.05.19</strong>
 
-- [05/2026] Update with ICML2026 papers. 
+- [05/2026] Update with CVPR2026 papers.
+- [05/2026] Update with ICML2026 papers.
 - [11/2025] Update with AAAI2026 papers. 
 - [10/2025] Update with NeurlPS2025 papers. 
 - [09/2025] Update with ACMMM2025, TPAMI papers. 
@@ -104,6 +105,12 @@
 
 | **Task** | **Release** | **Pub.** | **Title** |    **Links**   |
 | :--------: | :------------: | :------: | :-------: | :------------: |
+|:blue_square: `COD`| `2026/May` | `CVPR` | Seeing Both Sides: Towards Bidirectional Semantic Alignment for Open-Vocabulary Camouflaged Object Segmentation <br> <sup><sub>*Guohui Zhang, Fuming Sun, Yu Zhao, Yuqiu Kong, Jing Sun, Ganggang Huang*</sub></sup> | [Paper](https://cvpr.thecvf.com/virtual/2026/poster/40121) Code |
+|:blue_square: `COD`| `2026/May` | `CVPR` | SDDF: Specificity-Driven Dynamic Focusing for Open-Vocabulary Camouflaged Object Detection <br> <sup><sub>*Jiaming Liang, Yifeng Zhan, Chunlin Liu, Weihua Zheng, Bingye Peng, Qiwei Liang, Boyang Cai, Xiaochun Mai, Qiang Nie*</sub></sup> | [Paper](https://arxiv.org/pdf/2603.26109v1) [Code](https://github.com/Zh1fen/SDDF) |
+|:blue_square: `COD`| `2026/May` | `CVPR` | Beyond Appearance: Camouflaged Object Detection via Geometric Structure <br> <sup><sub>*Jinyu Han, changguang wu, Fuming Sun, Jinhui Tang*</sub></sup> | [Paper](https://cvpr.thecvf.com/virtual/2026/poster/36862) Code |
+|:blue_square: `COD`| `2026/May` | `CVPR` | Training-Free Open-Vocabulary Camouflaged Object Segmentation via Fine-Grained Object Binding and Adaptive Hybrid Prompt <br> <sup><sub>*Peng Ren, Cheng Jiang, Chuande Yang, Fuming Sun, Tian Bai*</sub></sup> | [Paper](https://cvpr.thecvf.com/virtual/2026/poster/36192) Code |
+|:blue_square: `COD`| `2026/May` | `CVPR` | Beyond Weak Supervision: MLLMs-Guided Graded Knowledge Distillation for Unsupervised Camouflaged Object Detection <br> <sup><sub>*Huafeng Chen ⋅ Chenguang Zhu ⋅ Yueming Lyu ⋅ Caifeng Shan*</sub></sup> | [Paper](https://cvpr.thecvf.com/virtual/2026/poster/40137) Code |
+|:blue_square: `COD`| `2026/May` | `CVPR` | Discover, Segment, and Select: A Progressive Mechanism for Zero-shot Camouflaged Object Segmentation <br> <sup><sub>*Yilong Yang, Jianxin Tian, Shengchuan Zhang, Liujuan Cao*</sub></sup> | [Paper](https://arxiv.org/pdf/2602.19944v1) [Code](https://github.com/ynulonger/DSS) |
 |:blue_square: `COD`| `2026/May` | `ArXiv` | RIDE: Retinex-Informed Decoupling for Exposing Concealed Objects <br> <sup><sub>*Chunming He, Rihan Zhang, Dingming Zhang, Chengyu Fang, Longxiang Tang, Jingjia Feng, Fengyang Xiao, Sina Farsiu*</sub></sup> | [Paper](https://arxiv.org/pdf/2605.15450v1) Code |
 |:blue_square: `COD`| `2026/May` | `ICML` | CODiff: One-Step Diffusion Model for Camouflaged Object Detection <br> <sup><sub>*Xiaotong Fu, Wenchao Meng, Qihang Zhou, Qian Liu, Qinmin Yang, Shibo He*</sub></sup> | [Paper](https://icml.cc/virtual/2026/poster/62692) Code |
 |:blue_square: `COD`| `2026/May` | `ICML` | PMSPO: Progressive Matching and Semantic-Aware Policy Optimization for Camouflaged Object Detection <br> <sup><sub>*Maosheng Su, Junlei Cao, Zhiyuan Wang, Shuo Wang, Ning Zhang, Jun Luo*</sub></sup> | [Paper](https://icml.cc/virtual/2026/poster/65362) Code |
@@ -121,13 +128,11 @@
 |:white_large_square:<br> `CX` | `2026/Apr` | `ArXiv` | Camouflage-aware Image-Text Retrieval via Expert Collaboration <br> <sup><sub>*Yao Jiang, Zhongkuan Mao, Xuan Wu, Keren Fu, Qijun Zhao*</sub></sup> | [Paper](https://arxiv.org/pdf/2604.01251v1) [Code](https://github.com/jiangyao-scu/CA-ITR) |
 |:blue_square: `COD`| `2026/Mar` | `ArXiv` | Conditional Polarization Guidance for Camouflaged Object Detection <br> <sup><sub>*QIfan Zhang, Hao Wang, Xiangrong Qin, Ruijie Li*</sub></sup> | [Paper](https://arxiv.org/pdf/2603.30008v2) Code |
 |:blue_square: `COD`| `2026/Mar` | `ArXiv` | IP-SAM: Prompt-Space Conditioning for Prompt-Absent Camouflaged Object Detection <br> <sup><sub>*Huiyao Zhang, Jin Bai, Rui Guo, JianWen Tan, HongFei Wang, Ye Li*</sub></sup> | [Paper](https://arxiv.org/pdf/2603.27250v1) Code |
-|:blue_square: `COD`| `2026/Mar` | `ArXiv` | SDDF: Specificity-Driven Dynamic Focusing for Open-Vocabulary Camouflaged Object Detection <br> <sup><sub>*Jiaming Liang, Yifeng Zhan, Chunlin Liu, Weihua Zheng, Bingye Peng, Qiwei Liang, Boyang Cai, Xiaochun Mai, Qiang Nie*</sub></sup> | [Paper](https://arxiv.org/pdf/2603.26109v1) [Code](https://arxiv.org/pdf/2603.26109v1) |
 |:blue_square: `COD`| `2026/Mar` | `ArXiv` | Language-Guided Structure-Aware Network for Camouflaged Object Detection <br> <sup><sub>*Min Zhang*</sub></sup> | [Paper](https://arxiv.org/pdf/2603.24355v1) [Code](https://github.com/tc-fro/LGSAN) |
 |:blue_square: `COD`| `2026/Mar` | `ArXiv` | FCL-COD: Weakly Supervised Camouflaged Object Detection with Frequency-aware and Contrastive Learning <br> <sup><sub>*Jingchen Ni, Quan Zhang, Dan Jiang, Keyu Lv, Ke Zhang, Chun Yuan*</sub></sup> | [Paper](https://arxiv.org/pdf/2603.22969v1) Code |
 |:blue_square: `COD`| `2026/Mar` | `ArXiv` | EReCu: Pseudo-label Evolution Fusion and Refinement with Multi-Cue Learning for Unsupervised Camouflage Detection <br> <sup><sub>*Shuo Jiang, Gaojia Zhang, Min Tan, Yufei Yin, Gang Pan*</sub></sup> | [Paper](https://arxiv.org/pdf/2603.11521v1) [Code](https://github.com/JSLiam94/EReCu) |
 |:blue_square: `COD`| `2026/Mar` | `ArXiv` | Bi-CamoDiffusion: A Boundary-informed Diffusion Approach for Camouflaged Object Detection <br> <sup><sub>*Patricia L. Suarez, Leo Thomas Ramos, Angel D. Sappa*</sub></sup> | [Paper](https://arxiv.org/pdf/2603.13357v1) Code |
 |:blue_square: `COD`| `2026/Mar` | `ArXiv` | YCDa: YCbCr Decoupled Attention for Real-time Realistic Camouflaged Object Detection <br> <sup><sub>*PeiHuang Zheng, Yunlong Zhao, Zheng Cui, Yang Li*</sub></sup> | [Paper](https://arxiv.org/pdf/2603.01602v1) [Code](https://github.com/hhao659/YCDa) |
-|:blue_square: `COD`| `2026/Feb` | `CVPR` | Discover, Segment, and Select: A Progressive Mechanism for Zero-shot Camouflaged Object Segmentation <br> <sup><sub>*Yilong Yang, Jianxin Tian, Shengchuan Zhang, Liujuan Cao*</sub></sup> | [Paper](https://arxiv.org/pdf/2602.19944v1) [Code](https://github.com/ynulonger/DSS) |
 |:blue_square: `COD`| `2026/Feb` | `ArXiv` | High-Resolution Underwater Camouflaged Object Detection: GBU-UCOD Dataset and Topology-Aware and Frequency-Decoupled Networks <br> <sup><sub>*Wenji Wu, Shuo Ye, Yiyu Liu, Jiguang He, Zhuo Wang, Zitong Yu*</sub></sup> | [Paper](https://arxiv.org/pdf/2602.03591v1) [Code](https://github.com/Wuwenji18/GBU-UCOD) |
 |:blue_square: `COD`| `2026/Feb` | `ArXiv` | Refining Context-Entangled Content Segmentation via Curriculum Selection and Anti-Curriculum Promotion <br> <sup><sub>*Chunming He, Rihan Zhang, Fengyang Xiao, Dingming Zhang, Zhiwen Cao, Sina Farsiu*</sub></sup> | [Paper](https://arxiv.org/pdf/2602.01183v1) Code |
 |:blue_square: `COD`| `2026/Jan` | `AAAI` | HyperCOD: The First Challenging Benchmark and Baseline for Hyperspectral Camouflaged Object Detection <br> <sup><sub>*Shuyan Bai, Tingfa Xu, Peifu Liu, Yuhao Qiu, Huiyan Bai, Huan Chen, Yanyan Peng, Jianan Li*</sub></sup> | [Paper](https://arxiv.org/pdf/2601.03736v1) [Code](https://github.com/Baishuyanyan/HyperCOD) |
