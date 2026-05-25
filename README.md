@@ -105,6 +105,7 @@
 
 | **Task** | **Release** | **Pub.** | **Title** |    **Links**   |
 | :--------: | :------------: | :------: | :-------: | :------------: |
+|:blue_square: `COD`| `2026/May` | `CVPR` |  EReCu: Pseudo-label Evolution Fusion and Refinement with Multi-Cue Learning for Unsupervised Camouflage Detection <br> <sup><sub>*Shuo Jiang, Gaojia Zhang, Min Tan, Yufei Yin, Gang Pan*</sub></sup> | [Paper](https://openaccess.thecvf.com//content/CVPR2026/papers/Jiang_EReCu_Pseudo-label_Evolution_Fusion_and_Refinement_with_Multi-Cue_Learning_for_CVPR_2026_paper.pdf) [Code](https://github.com/JSLiam94/EReCu) |
 |:blue_square: `COD`| `2026/May` | `CVPR` | Seeing Both Sides: Towards Bidirectional Semantic Alignment for Open-Vocabulary Camouflaged Object Segmentation <br> <sup><sub>*Guohui Zhang, Fuming Sun, Yu Zhao, Yuqiu Kong, Jing Sun, Ganggang Huang*</sub></sup> | [Paper](https://cvpr.thecvf.com/virtual/2026/poster/40121) Code |
 |:blue_square: `COD`| `2026/May` | `CVPR` | SDDF: Specificity-Driven Dynamic Focusing for Open-Vocabulary Camouflaged Object Detection <br> <sup><sub>*Jiaming Liang, Yifeng Zhan, Chunlin Liu, Weihua Zheng, Bingye Peng, Qiwei Liang, Boyang Cai, Xiaochun Mai, Qiang Nie*</sub></sup> | [Paper](https://arxiv.org/pdf/2603.26109v1) [Code](https://github.com/Zh1fen/SDDF) |
 |:blue_square: `COD`| `2026/May` | `CVPR` | Beyond Appearance: Camouflaged Object Detection via Geometric Structure <br> <sup><sub>*Jinyu Han, changguang wu, Fuming Sun, Jinhui Tang*</sub></sup> | [Paper](https://cvpr.thecvf.com/virtual/2026/poster/36862) Code |
