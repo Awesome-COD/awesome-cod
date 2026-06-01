@@ -11,7 +11,7 @@
 # <p align=center>`Awesome List for Camouflaged Object Detection (COD)`
 
 
-:loudspeaker:<strong>Last updated: 2026.05.19</strong>
+:loudspeaker:<strong>Last updated: 2026.06.01</strong>
 
 - [05/2026] Update with CVPR2026 papers.
 - [05/2026] Update with ICML2026 papers.
@@ -105,6 +105,9 @@
 
 | **Task** | **Release** | **Pub.** | **Title** |    **Links**   |
 | :--------: | :------------: | :------: | :-------: | :------------: |
+|:blue_square: `COD`| `2026/May` | `ArXiv` | Hierarchical Consistency Learning for Test-time Adaptation in Camouflage Perception <br> <sup><sub>*Mingfeng Zha, Tianyu Li, Guoqing Wang, Yunqiang Pei, Chaofan Qiao, Jiening Zhang, Yang Yang, Heng Tao Shen*</sub></sup> | [Paper](https://arxiv.org/pdf/2605.25651v1) [Code](https://winter-flow.github.io/project/HCL/) |
+|:blue_square: `COD`| `2026/May` | `ArXiv` | Weakly Supervised Camouflaged Object Detection Based on the SAM Model and Mask Guidance <br> <sup><sub>*Xia Li, Xinran Liu, Lin Qi, Junyu Dong*</sub></sup> | [Paper](https://arxiv.org/pdf/2605.25385v1) Code |
+|:white_large_square:<br> `CX` | `2026/May` | `ArXiv` | SeamCam: Quantifying Seamless Camouflage via Multi-Cue Visual Detectability <br> <sup><sub>*Amin Karimi Monsefi, Abolfazl Meyarian, Mridul Khurana, Shuheng Wang, Pouyan Navard, Cheng Zhang, Anuj Karpatne, Wei-Lun Chao, Rajiv Ramnath*</sub></sup> | [Paper](https://arxiv.org/pdf/2605.16515v1) Code |
 |:blue_square: `COD`| `2026/May` | `CVPR` |  EReCu: Pseudo-label Evolution Fusion and Refinement with Multi-Cue Learning for Unsupervised Camouflage Detection <br> <sup><sub>*Shuo Jiang, Gaojia Zhang, Min Tan, Yufei Yin, Gang Pan*</sub></sup> | [Paper](https://openaccess.thecvf.com//content/CVPR2026/papers/Jiang_EReCu_Pseudo-label_Evolution_Fusion_and_Refinement_with_Multi-Cue_Learning_for_CVPR_2026_paper.pdf) [Code](https://github.com/JSLiam94/EReCu) |
 |:blue_square: `COD`| `2026/May` | `CVPR` | Seeing Both Sides: Towards Bidirectional Semantic Alignment for Open-Vocabulary Camouflaged Object Segmentation <br> <sup><sub>*Guohui Zhang, Fuming Sun, Yu Zhao, Yuqiu Kong, Jing Sun, Ganggang Huang*</sub></sup> | [Paper](https://openaccess.thecvf.com//content/CVPR2026/papers/Zhang_Seeing_Both_Sides_Towards_Bidirectional_Semantic_Alignment_for_Open-Vocabulary_Camouflaged_CVPR_2026_paper.pdf) [Code](https://github.com/okmaybach/BaCLIP-CVPR2026) |
 |:blue_square: `COD`| `2026/May` | `CVPR` | SDDF: Specificity-Driven Dynamic Focusing for Open-Vocabulary Camouflaged Object Detection <br> <sup><sub>*Jiaming Liang, Yifeng Zhan, Chunlin Liu, Weihua Zheng, Bingye Peng, Qiwei Liang, Boyang Cai, Xiaochun Mai, Qiang Nie*</sub></sup> | [Paper](https://openaccess.thecvf.com//content/CVPR2026/papers/Liang_SDDF_Specificity-Driven_Dynamic_Focusing_for_Open-Vocabulary_Camouflaged_Object_Detection_CVPR_2026_paper.pdf) [Code](https://github.com/Zh1fen/SDDF) |
