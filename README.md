@@ -11,7 +11,7 @@
 # <p align=center>`Awesome List for Camouflaged Object Detection (COD)`
 
 
-:loudspeaker:<strong>Last updated: 2026.06.01</strong>
+:loudspeaker:<strong>Last updated: 2026.06.012</strong>
 
 - [05/2026] Update with CVPR2026 papers.
 - [05/2026] Update with ICML2026 papers.
@@ -105,6 +105,7 @@
 
 | **Task** | **Release** | **Pub.** | **Title** |    **Links**   |
 | :--------: | :------------: | :------: | :-------: | :------------: |
+|:blue_square: `COD`| `2026/May` | `ArXiv` | CFCamo: A Counterfactual Detect-or-Abstain Framework for Camouflaged Object Detection <br> <sup><sub>*Suhang Li, Osamu Yoshie, Yuya Ieiri*</sub></sup> | [Paper](https://arxiv.org/pdf/2606.11231v1) [Code](https://github.com/suhang2000/CFCamo) |
 |:blue_square: `COD`| `2026/May` | `ArXiv` | Hierarchical Consistency Learning for Test-time Adaptation in Camouflage Perception <br> <sup><sub>*Mingfeng Zha, Tianyu Li, Guoqing Wang, Yunqiang Pei, Chaofan Qiao, Jiening Zhang, Yang Yang, Heng Tao Shen*</sub></sup> | [Paper](https://arxiv.org/pdf/2605.25651v1) [Code](https://winter-flow.github.io/project/HCL/) |
 |:blue_square: `COD`| `2026/May` | `ArXiv` | Weakly Supervised Camouflaged Object Detection Based on the SAM Model and Mask Guidance <br> <sup><sub>*Xia Li, Xinran Liu, Lin Qi, Junyu Dong*</sub></sup> | [Paper](https://arxiv.org/pdf/2605.25385v1) Code |
 |:white_large_square:<br> `CX` | `2026/May` | `ArXiv` | SeamCam: Quantifying Seamless Camouflage via Multi-Cue Visual Detectability <br> <sup><sub>*Amin Karimi Monsefi, Abolfazl Meyarian, Mridul Khurana, Shuheng Wang, Pouyan Navard, Cheng Zhang, Anuj Karpatne, Wei-Lun Chao, Rajiv Ramnath*</sub></sup> | [Paper](https://arxiv.org/pdf/2605.16515v1) Code |
