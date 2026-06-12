@@ -13,6 +13,7 @@
 
 :loudspeaker:<strong>Last updated: 2026.06.012</strong>
 
+- [06/2026] Update with TMM, TIP papers.
 - [05/2026] Update with CVPR2026 papers.
 - [05/2026] Update with ICML2026 papers.
 - [11/2025] Update with AAAI2026 papers. 
@@ -105,6 +106,11 @@
 
 | **Task** | **Release** | **Pub.** | **Title** |    **Links**   |
 | :--------: | :------------: | :------: | :-------: | :------------: |
+|:blue_square: `COD`| `2026/Apr` | `TIP` | Learn From Examples: In-Context Learning for Camouflaged Object Detection <br> <sup><sub>*Chunyuan Chen, Weiyun Liang, Ji Du, Jing Xu, Ping Li, Guiling Wang*</sub></sup> | [Paper](https://ieeexplore.ieee.org/document/11478656/) [Code](https://github.com/h0t-zer0/ICL-Camo) |
+|:orange_square: `COS`| `2026/Mar` | `TIP` | Expose Camouflage in the Water: Underwater Camouflaged Instance Segmentation and Dataset <br> <sup><sub>*Chuhong Wang, Hua Li, Chongyi Li, Huazhong Liu, Xiongxin Tang, Sam Kwong*</sub></sup> | [Paper](https://ieeexplore.ieee.org/document/11455610/) [Code](https://github.com/wchchw/UCIS4K) |
+|:blue_square: `COD`| `2026/Apr` | `TIP` | Self-Anchored Progressive Framework With Noise Mitigation for Unsupervised Camouflaged Object Detection <br> <sup><sub>*Shijie Liu, Binwei Xu, Tuo Shen, Guanghui Yue, Qiuping Jiang*</sub></sup> | [Paper](https://ieeexplore.ieee.org/document/11473331/) [Code](https://github.com/ArloJie/SAPNet) |
+|:blue_square: `COD`| `2026/May` | `TIP` | GBNet: Gated Boundary-Aware Network for Camouflaged Object Detection <br> <sup><sub>*Xiandong Wang, Fengqin Yao, Guoqiang Zhong, Qing Cai, Shengke Wang, James Tin-Yau Kwok*</sub></sup> | [Paper](https://ieeexplore.ieee.org/document/11515007/) [Code](https://github.com/wooownn/GBNet) |
+|:blue_square: `COD`| `2026/May` | `TIP` | RA-COD: Retrieval-Augmented Camouflaged Object Detection <br> <sup><sub>*Ji Du, Jiesheng Wu, Desheng Kong, Fangwei Hao, Jing Xu, Ping Li*</sub></sup> | [Paper](https://ieeexplore.ieee.org/document/11520593/) [Code](https://github.com/xiaohainku/RA-COD) |
 |:blue_square: `COD`| `2026/May` | `ArXiv` | CFCamo: A Counterfactual Detect-or-Abstain Framework for Camouflaged Object Detection <br> <sup><sub>*Suhang Li, Osamu Yoshie, Yuya Ieiri*</sub></sup> | [Paper](https://arxiv.org/pdf/2606.11231v1) [Code](https://github.com/suhang2000/CFCamo) |
 |:blue_square: `COD`| `2026/May` | `ArXiv` | Hierarchical Consistency Learning for Test-time Adaptation in Camouflage Perception <br> <sup><sub>*Mingfeng Zha, Tianyu Li, Guoqing Wang, Yunqiang Pei, Chaofan Qiao, Jiening Zhang, Yang Yang, Heng Tao Shen*</sub></sup> | [Paper](https://arxiv.org/pdf/2605.25651v1) [Code](https://winter-flow.github.io/project/HCL/) |
 |:blue_square: `COD`| `2026/May` | `ArXiv` | Weakly Supervised Camouflaged Object Detection Based on the SAM Model and Mask Guidance <br> <sup><sub>*Xia Li, Xinran Liu, Lin Qi, Junyu Dong*</sub></sup> | [Paper](https://arxiv.org/pdf/2605.25385v1) Code |
