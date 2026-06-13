@@ -11,9 +11,9 @@
 # <p align=center>`Awesome List for Camouflaged Object Detection (COD)`
 
 
-:loudspeaker:<strong>Last updated: 2026.06.012</strong>
+:loudspeaker:<strong>Last updated: 2026.06.13</strong>
 
-- [06/2026] Update with TMM, TIP papers.
+- [06/2026] Update with TPAMI, TMM, TIP papers.
 - [05/2026] Update with CVPR2026 papers.
 - [05/2026] Update with ICML2026 papers.
 - [11/2025] Update with AAAI2026 papers. 
@@ -106,6 +106,10 @@
 
 | **Task** | **Release** | **Pub.** | **Title** |    **Links**   |
 | :--------: | :------------: | :------: | :-------: | :------------: |
+|:red_square: `VCOD`| `2026/May` | `TPAMI` | MRCNet: Motion Reasoning Chain for Cross Modal Video Camouflaged Object Detection <br> <sup><sub>*Wenjun Hui, Zhenfeng Zhu, Shuai Zheng, Ming-Ming Cheng, Huchuan Lu, Yao Zhao*</sub></sup> | [Paper](https://ieeexplore.ieee.org/document/11503675/) Code |
+|:blue_square: `COD`| `2025/Nov` | `TPAMI` | VSCode-v2: Dynamic Prompt Learning for General Visual Salient and Camouflaged Object Detection With Two-Stage Optimization <br> <sup><sub>*Ziyang Luo, Nian Liu, Xuguang Yang, Dingwen Zhang, Deng-Ping Fan, Fahad Shahbaz Khan, Junwei Han*</sub></sup> | [Paper](https://ieeexplore.ieee.org/document/11264365/) Code |
+|:blue_square: `COD`| `2025/Dec` | `TPAMI` | Causal HyperPrompter: A Framework for Unbiased Hyperspectral Camouflaged Object Tracking <br> <sup><sub>*Hanzheng Wang, Wei Li, Xiang-Gen Xia, Qian Du*</sub></sup> | [Paper](https://ieeexplore.ieee.org/document/11314773/) Code |
+|:blue_square: `COD`| `2026/Feb` | `TPAMI` | Explicit Visual Prompting for Universal Foreground Segmentations <br> <sup><sub>*Weihuang Liu, Xi Shen, Chi-Man Pun, Xiaodong Cun*</sub></sup> | [Paper](https://ieeexplore.ieee.org/document/11197268/) [Code](https://github.com/NiFangBaAGe/Explicit-Visual-Prompt) |
 |:blue_square: `COD`| `2026/Feb` | `TMM` | Multi-Clue Sliding Window Attention for Camouflaged Object Detection <br> <sup><sub>*Xiaogang Song, Haoyu Yuan, Xiaofeng Lu, Xinhong Hei, Rongrong Liu*</sub></sup> | [Paper](https://ieeexplore.ieee.org/document/11392791/) Code |
 |:blue_square: `COD`| `2025/Oct` | `TMM` | Learning Compact Representations With an Information Bottleneck for Camouflaged Object Detection <br> <sup><sub>*Guanyi Li, Junjie Zhang, Rui Gao, Wubang Yuan, Gloria Jin, Dan Zeng*</sub></sup> | [Paper](https://ieeexplore.ieee.org/document/11207512/) [Code](https://github.com/KwunYat/CODIB) |
 |:blue_square: `COD`| `2026/Feb` | `TMM` | Fast Diffusion-Based Camouflaged Object Detection via Asynchronous Denoising and Linear Attention <br> <sup><sub>*Tianyu Wang, Xinghua Xu, Changchong Sheng, Shaohua Qiu, Li Liu, Denghua Guo, Xianqiang Bao*</sub></sup> | [Paper](https://ieeexplore.ieee.org/document/11417251/) [Code](https://github.com/wty-team/diff-ssm) |
