@@ -230,7 +230,7 @@
 |:blue_square: `COD` | `2025/Jan` | `TPAMI` | Referring Camouflaged Object Detection <br> <sup><sub>*Xuying Zhang, Bowen Yin, Zheng Lin, Qibin Hou, Deng-Ping Fan, Ming-Ming Cheng*</sub></sup> | [Paper](https://arxiv.org/abs/2306.07532)  [Code](https://github.com/zhangxuying1004/RefCOD) |
 |:white_large_square: <br>`CX` | `2024/Dec` | `AAAI` | MM-CamObj: A Comprehensive Multimodal Dataset for Camouflaged Object Scenarios <br> <sup><sub>*Jiacheng Ruan, Wenzhen Yuan, Zehao Lin, Ning Liao, Zhiyu Li, Feiyu Xiong, Ting Liu, Yuzhuo Fu*</sub></sup> | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/32723)  [Code](https://github.com/JCruan519/MM-CamObj) |
 |:blue_square: `COD` | `2024/Dec` | `AAAI` | SdalsNet: Self-Distilled Attention Localization and Shift Network for Unsupervised Camouflaged Object Detection <br> <sup><sub>*Peiyao Shou, Yixiu Liu, Wei Wang, Yaoqi Sun, Zhigao Zheng, Shangdong Zhu, Chenggang Yan*</sub></sup> | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/32742)  Code |
-|:red_square: `COD`| `2024/Dec` | `TMM` | PMNet: Predator-Mimicking Network for Video Camouflaged Object Detection <br> <sup><sub>*Miao Zhang, Beiqi Hu, Shunyu Yao, Yongri Piao, Huchuan Lu*</sub></sup> | [Paper](https://ieeexplore.ieee.org/document/10814708/) [Code](https://github.com/LiuTingWed/CriDiff) |
+|:red_square: `VCOD`| `2024/Dec` | `TMM` | PMNet: Predator-Mimicking Network for Video Camouflaged Object Detection <br> <sup><sub>*Miao Zhang, Beiqi Hu, Shunyu Yao, Yongri Piao, Huchuan Lu*</sub></sup> | [Paper](https://ieeexplore.ieee.org/document/10814708/) [Code](https://github.com/LiuTingWed/CriDiff) |
 
 ----------------------------------------------------------------------------------------------------------------------
 
