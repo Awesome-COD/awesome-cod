@@ -11,7 +11,7 @@
 # <p align=center>`Awesome List for Camouflaged Object Detection (COD)`
 
 
-:loudspeaker:<strong>Last updated: 2026.06.29</strong>
+:loudspeaker:<strong>Last updated: 2026.07.09</strong>
 
 - [06/2026] Update with ICASSP papers.
 - [06/2026] Update with TPAMI, TMM, TIP papers.
@@ -107,6 +107,9 @@
 
 | **Task** | **Release** | **Pub.** | **Title** |    **Links**   |
 | :--------: | :------------: | :------: | :-------: | :------------: |
+|:blue_square: `COD`| `2026/Jul` | `ArXiv` | When Does Resolution Help a Frozen Backbone? Global Attention at Resolution Predicts Scalable Adaptation for Camouflaged and Marine Animal Segmentation <br> <sup><sub>*Tyler Rust, Chandra Kambhamettu*</sub></sup> | [Paper](https://arxiv.org/pdf/2607.02708v1) Code |
+|:white_large_square:<br> `CX` | `2026/Jul` | `ArXiv` | Beyond Pixel Overlap: A Framework for Decomposing Segmentation Evaluation Metrics <br> <sup><sub>*Youwei Pang, Xiaoqi Zhao*</sub></sup> | [Paper](https://arxiv.org/pdf/2607.00886v1) Code |
+|:blue_square: `COD`| `2026/Jun` | `ArXiv` | HVPNet: A Bio-Inspired Network for General Salient and Camouflaged Object Detection <br> <sup><sub>*Jiawei Xu, Qiangqiang Zhou, Zhouping Li, Yanjiao Shi, Yugen Yi, Jiacong Yu*</sub></sup> | [Paper](https://arxiv.org/pdf/2606.31496v1) Code |
 |:blue_square: `COD`| `2026/May` | `ICASSP` | SFGNet: Semantic and Frequency Guided Network for Camouflaged Object Detection <br> <sup><sub>*Dezhen Wang, Haixiang Zhao, Xiang Shen, Sheng Miao*</sub></sup> | [Paper](https://ieeexplore.ieee.org/document/11460527/) [Code](https://github.com/winter794444/SFGNetdzw) |
 |:blue_square: `COD`| `2026/May` | `ICASSP` | Learning to Coarse-to-Fine Refinement for Camouflaged Object Detection <br> <sup><sub>*Boying Wang, Yaqing Bai, Xiangfei Fang, Fuwei Zhang, Huiyan Han*</sub></sup> | [Paper](https://ieeexplore.ieee.org/document/11462717/) Code |
 |:blue_square: `COD`| `2026/May` | `ICASSP` | Small-Scale Camouflaged Object Detection for Agricultural Automation <br> <sup><sub>*Xuanru Dai, Xingpeng Zhang*</sub></sup> | [Paper](https://ieeexplore.ieee.org/document/11465136/) Code |
