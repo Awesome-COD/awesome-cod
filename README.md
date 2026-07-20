@@ -107,6 +107,7 @@
 
 | **Task** | **Release** | **Pub.** | **Title** |    **Links**   |
 | :--------: | :------------: | :------: | :-------: | :------------: |
+|:blue_square: `COD`| `2026/Jul` | `ArXiv` | GFR-SAM: Training-Free Referring Camouflaged Object Segmentation via Cross-Image Prompting <br> <sup><sub>*Yilong Yang, Jianxin Tian, Shengchuan Zhang, Liujuan Cao*</sub></sup> | [Paper](https://arxiv.org/pdf/2607.11732v1) Code |
 |:blue_square: `COD`| `2026/Jul` | `ArXiv` | When Does Resolution Help a Frozen Backbone? Global Attention at Resolution Predicts Scalable Adaptation for Camouflaged and Marine Animal Segmentation <br> <sup><sub>*Tyler Rust, Chandra Kambhamettu*</sub></sup> | [Paper](https://arxiv.org/pdf/2607.02708v1) Code |
 |:white_large_square:<br> `CX` | `2026/Jul` | `ArXiv` | Beyond Pixel Overlap: A Framework for Decomposing Segmentation Evaluation Metrics <br> <sup><sub>*Youwei Pang, Xiaoqi Zhao*</sub></sup> | [Paper](https://arxiv.org/pdf/2607.00886v1) [Code](https://github.com/lartpang/PySODMetrics) |
 |:blue_square: `COD`| `2026/Jun` | `ArXiv` | HVPNet: A Bio-Inspired Network for General Salient and Camouflaged Object Detection <br> <sup><sub>*Jiawei Xu, Qiangqiang Zhou, Zhouping Li, Yanjiao Shi, Yugen Yi, Jiacong Yu*</sub></sup> | [Paper](https://arxiv.org/pdf/2606.31496v1) [Code](https://github.com/jiaweiXu1029/HVPNet) |
