@@ -11,7 +11,7 @@
 # <p align=center>`Awesome List for Camouflaged Object Detection (COD)`
 
 
-:loudspeaker:<strong>Last updated: 2026.07.20</strong>
+:loudspeaker:<strong>Last updated: 2026.07.25</strong>
 
 - [06/2026] Update with ICASSP papers.
 - [06/2026] Update with TPAMI, TMM, TIP papers.
@@ -107,6 +107,7 @@
 
 | **Task** | **Release** | **Pub.** | **Title** |    **Links**   |
 | :--------: | :------------: | :------: | :-------: | :------------: |
+|:green_square:<br> `CIG`| `2026/Jul` | `ArXiv` | To Blend In, First Decouple: Rethinking Camouflage Image Generation via Context-Decoupled Representations <br> <sup><sub>*Wenzhuang Wang, Yifan Zhao, Mingcan Ma, Yunlong Che, Haoran Chen, Ming Liu, Jia Li*</sub></sup> | [Paper](https://arxiv.org/pdf/2607.17768v1) Code |
 |:blue_square: `COD`| `2026/Jul` | `ArXiv` | GFR-SAM: Training-Free Referring Camouflaged Object Segmentation via Cross-Image Prompting <br> <sup><sub>*Yilong Yang, Jianxin Tian, Shengchuan Zhang, Liujuan Cao*</sub></sup> | [Paper](https://arxiv.org/pdf/2607.11732v1) Code |
 |:blue_square: `COD`| `2026/Jul` | `ArXiv` | When Does Resolution Help a Frozen Backbone? Global Attention at Resolution Predicts Scalable Adaptation for Camouflaged and Marine Animal Segmentation <br> <sup><sub>*Tyler Rust, Chandra Kambhamettu*</sub></sup> | [Paper](https://arxiv.org/pdf/2607.02708v1) Code |
 |:white_large_square:<br> `CX` | `2026/Jul` | `ArXiv` | Beyond Pixel Overlap: A Framework for Decomposing Segmentation Evaluation Metrics <br> <sup><sub>*Youwei Pang, Xiaoqi Zhao*</sub></sup> | [Paper](https://arxiv.org/pdf/2607.00886v1) [Code](https://github.com/lartpang/PySODMetrics) |
