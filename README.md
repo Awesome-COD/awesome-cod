@@ -11,7 +11,7 @@
 # <p align=center>`Awesome List for Camouflaged Object Detection (COD)`
 
 
-:loudspeaker:<strong>Last updated: 2026.07.27</strong>
+:loudspeaker:<strong>Last updated: 2026.08.05</strong>
 
 - [06/2026] Update with ICASSP papers.
 - [06/2026] Update with TPAMI, TMM, TIP papers.
@@ -107,6 +107,7 @@
 
 | **Task** | **Release** | **Pub.** | **Title** |    **Links**   |
 | :--------: | :------------: | :------: | :-------: | :------------: |
+|:blue_square: `COD`| `2026/Jul` | `ArXiv` | VCP-DCN: Beyond Visual Concealed Property via Depth Collaborative Network for Camouflaged Object Detection <br> <sup><sub>*Songsong Duan, Xi Yang, Nannan Wang*</sub></sup> | [Paper](https://arxiv.org/pdf/2607.27843v1) Code |
 |:green_square:<br> `CIG`| `2026/Jul` | `ArXiv` | To Blend In, First Decouple: Rethinking Camouflage Image Generation via Context-Decoupled Representations <br> <sup><sub>*Wenzhuang Wang, Yifan Zhao, Mingcan Ma, Yunlong Che, Haoran Chen, Ming Liu, Jia Li*</sub></sup> | [Paper](https://arxiv.org/pdf/2607.17768v1) Code |
 |:blue_square: `COD`| `2026/Jul` | `ArXiv` | GFR-SAM: Training-Free Referring Camouflaged Object Segmentation via Cross-Image Prompting <br> <sup><sub>*Yilong Yang, Jianxin Tian, Shengchuan Zhang, Liujuan Cao*</sub></sup> | [Paper](https://arxiv.org/pdf/2607.11732v1) Code |
 |:blue_square: `COD`| `2026/Jul` | `ArXiv` | When Does Resolution Help a Frozen Backbone? Global Attention at Resolution Predicts Scalable Adaptation for Camouflaged and Marine Animal Segmentation <br> <sup><sub>*Tyler Rust, Chandra Kambhamettu*</sub></sup> | [Paper](https://arxiv.org/pdf/2607.02708v1) Code |
