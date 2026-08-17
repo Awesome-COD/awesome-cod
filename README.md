@@ -107,7 +107,7 @@
 
 | **Task** | **Release** | **Pub.** | **Title** |    **Links**   |
 | :--------: | :------------: | :------: | :-------: | :------------: |
-|:blue_square: `COD`| `2026/Aug` | `ArXiv` | Is There Really a Camouflaged Object? Towards Realistic Camouflaged Object Detection <br> <sup><sub>*Huafeng Chen, Yueming Lyu, Chenyang Si, Wende Tan, Liucheng Guo, Caifeng Shan*</sub></sup> | [Paper](https://arxiv.org/pdf/2608.11135v1) Code |
+|:blue_square: `COD`| `2026/Aug` | `ArXiv` | Is There Really a Camouflaged Object? Towards Realistic Camouflaged Object Detection <br> <sup><sub>*Huafeng Chen, Yueming Lyu, Chenyang Si, Wende Tan, Liucheng Guo, Caifeng Shan*</sub></sup> | [Paper](https://arxiv.org/pdf/2608.11135v1) [Code](https://github.com/2231122/OPCOD) |
 |:blue_square: `COD`| `2026/Aug` | `ArXiv` | LAD-COD: Language-Aligned Dense Perception for Camouflaged Object Detection <br> <sup><sub>*Shangye Song, Tianzhi Zhu, Syed Ariff Syed Hesham, Xin He, Yun Liu*</sub></sup> | [Paper](https://arxiv.org/pdf/2608.07941v1) Code |
 |:blue_square: `COD`| `2026/Jul` | `ArXiv` | VCP-DCN: Beyond Visual Concealed Property via Depth Collaborative Network for Camouflaged Object Detection <br> <sup><sub>*Songsong Duan, Xi Yang, Nannan Wang*</sub></sup> | [Paper](https://arxiv.org/pdf/2607.27843v1) Code |
 |:green_square:<br> `CIG`| `2026/Jul` | `ArXiv` | To Blend In, First Decouple: Rethinking Camouflage Image Generation via Context-Decoupled Representations <br> <sup><sub>*Wenzhuang Wang, Yifan Zhao, Mingcan Ma, Yunlong Che, Haoran Chen, Ming Liu, Jia Li*</sub></sup> | [Paper](https://arxiv.org/pdf/2607.17768v1) Code |
