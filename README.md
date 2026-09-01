@@ -13,6 +13,7 @@
 
 :loudspeaker:<strong>Last updated: 2026.09.01</strong>
 
+- [09/2026] Update with ECCV papers.
 - [06/2026] Update with ICASSP papers.
 - [06/2026] Update with TPAMI, TMM, TIP papers.
 - [05/2026] Update with CVPR2026 papers.
@@ -107,10 +108,13 @@
 
 | **Task** | **Release** | **Pub.** | **Title** |    **Links**   |
 | :--------: | :------------: | :------: | :-------: | :------------: |
+|:blue_square: `COD`| `2026/Sep` | `ECCV` | When W4A4 Breaks Camouflaged Object Detection: Token-Group Dual-Constraint Activation Quantization <br> <sup><sub>*Tianqi Li, Wenyu Fang, Xin He, Xue Geng, Xu Cheng, Yun Liu*</sub></sup> | [Paper](https://arxiv.org/pdf/2604.16855v1) Code |
+|:blue_square: `COD`| `2026/Sep` | `ECCV` | VCP-DCN: Beyond Visual Concealed Property via Depth Collaborative Network for Camouflaged Object Detection <br> <sup><sub>*Songsong Duan, Xi Yang, Nannan Wang*</sub></sup> | [Paper](https://arxiv.org/pdf/2607.27843v1) Code |
+|:blue_square: `COD`| `2026/Sep` | `ECCV` | Iterative Refinement of Semantic and Spatial Representations for Open-Vocabulary Camouflaged Object Segmentation <br> <sup><sub>*Fangyan Wang, Ge Jiao, Guowen Yue*</sub></sup> | [Paper](https://eccv.ecva.net/virtual/2026/poster/5124) [Code](https://github.com/alzhineng/ISSR) |
+|:blue_square: `COD`| `2026/Sep` | `ECCV` | PASR: Pattern-Aware Scene-Conditioned Reasoning for Camouflaged Object Detection <br> <sup><sub>*Xinyu Wang, Jintang Xue, C.-C. Jay Kuo*</sub></sup> | [Paper](https://eccv.ecva.net/virtual/2026/poster/5521) Code |
 |:blue_square: `COD`| `2026/Aug` | `ArXiv` | Seeing the Unseen: Camouflaged Object Detection Beyond the Visible Spectrum <br> <sup><sub>*Avi Gupta, Trasha Gupta*</sub></sup> | [Paper](https://arxiv.org/pdf/2608.30355v1) [Code](https://github.com/avigupta2798/MSFormer) |
 |:blue_square: `COD`| `2026/Aug` | `ArXiv` | Is There Really a Camouflaged Object? Towards Realistic Camouflaged Object Detection <br> <sup><sub>*Huafeng Chen, Yueming Lyu, Chenyang Si, Wende Tan, Liucheng Guo, Caifeng Shan*</sub></sup> | [Paper](https://arxiv.org/pdf/2608.11135v1) [Code](https://github.com/2231122/OPCOD) |
 |:blue_square: `COD`| `2026/Aug` | `ArXiv` | LAD-COD: Language-Aligned Dense Perception for Camouflaged Object Detection <br> <sup><sub>*Shangye Song, Tianzhi Zhu, Syed Ariff Syed Hesham, Xin He, Yun Liu*</sub></sup> | [Paper](https://arxiv.org/pdf/2608.07941v1) Code |
-|:blue_square: `COD`| `2026/Jul` | `ArXiv` | VCP-DCN: Beyond Visual Concealed Property via Depth Collaborative Network for Camouflaged Object Detection <br> <sup><sub>*Songsong Duan, Xi Yang, Nannan Wang*</sub></sup> | [Paper](https://arxiv.org/pdf/2607.27843v1) Code |
 |:green_square:<br> `CIG`| `2026/Jul` | `ArXiv` | To Blend In, First Decouple: Rethinking Camouflage Image Generation via Context-Decoupled Representations <br> <sup><sub>*Wenzhuang Wang, Yifan Zhao, Mingcan Ma, Yunlong Che, Haoran Chen, Ming Liu, Jia Li*</sub></sup> | [Paper](https://arxiv.org/pdf/2607.17768v1) Code |
 |:blue_square: `COD`| `2026/Jul` | `ArXiv` | GFR-SAM: Training-Free Referring Camouflaged Object Segmentation via Cross-Image Prompting <br> <sup><sub>*Yilong Yang, Jianxin Tian, Shengchuan Zhang, Liujuan Cao*</sub></sup> | [Paper](https://arxiv.org/pdf/2607.11732v1) Code |
 |:blue_square: `COD`| `2026/Jul` | `ArXiv` | When Does Resolution Help a Frozen Backbone? Global Attention at Resolution Predicts Scalable Adaptation for Camouflaged and Marine Animal Segmentation <br> <sup><sub>*Tyler Rust, Chandra Kambhamettu*</sub></sup> | [Paper](https://arxiv.org/pdf/2607.02708v1) Code |
@@ -165,7 +169,6 @@
 |:blue_square: `COD`| `2026/May` | `ICML` | Unsupervised Camouflaged Object Detection with Dual-Eigenvector Spectral Pseudo-Labeling and Contrastive Refinement <br> <sup><sub>*Pingzhu Liu, Chunming He, Zunnan Xu, Chao Hao, Bo Zhao, Xingyu Shao, Jun Zhou, Zitong YU, Xiu Li*</sub></sup> | [Paper](https://icml.cc/virtual/2026/poster/63384) Code |
 |:blue_square: `COD`| `2026/Apr` | `CVM` | Open-Vocabulary Camouflaged Object Segmentation with Cascaded Vision Language Models <br> <sup><sub>*Kai Zhao, Wubang Yuan, Zheng Wang, Guanyi Li, Xiaoqiang Zhu, Deng-Ping Fan, Dan Zeng*</sub></sup> | [Paper](https://ieeexplore.ieee.org/document/11366107/) [Code](https://github.com/intcomp/camouflaged-vlm) |
 |:blue_square: `COD`| `2026/Apr` | `ArXiv` | Exploring Boundary-Aware Spatial-Frequency Fusion for Camouflaged Object Detection <br> <sup><sub>*Song Yu, Yang Hu, Haokang Ding, Zhifang Liao, Yucheng Song*</sub></sup> | [Paper](https://arxiv.org/pdf/2604.17879v1) Code |
-|:blue_square: `COD`| `2026/Apr` | `ArXiv` | When W4A4 Breaks Camouflaged Object Detection: Token-Group Dual-Constraint Activation Quantization <br> <sup><sub>*Tianqi Li, Wenyu Fang, Xin He, Xue Geng, Xu Cheng, Yun Liu*</sub></sup> | [Paper](https://arxiv.org/pdf/2604.16855v1) Code |
 |:blue_square: `COD`| `2026/Apr` | `ArXiv` | CATP: Confidence-Aware Token Pruning for Camouflaged Object Detection <br> <sup><sub>*Yuhan Gao, Shuhao Kang, Xin He, Bing Li, Xu Cheng, Yun Liu*</sub></sup> | [Paper](https://arxiv.org/pdf/2604.16854v1) Code |
 |:blue_square: `COD`| `2026/Apr` | `CVPR-W` | SWNet: A Cross-Spectral Network for Camouflaged Weed Detection <br> <sup><sub>*Henry O. Velesaca, Luigi Miranda, Angel D. Sappa*</sub></sup> | [Paper](https://arxiv.org/pdf/2604.16147v1) [Code](https://github.com/hvelesaca/SWNet/) |
 |:white_large_square: `CX`| `2026/Apr` | `CVPR-W` | Camo-M3FD: A New Benchmark Dataset for Cross-Spectral Camouflaged Pedestrian Detection <br> <sup><sub>*Henry O. Velesaca, Andrea Mero, Guillermo A. Castillo, Angel D. Sappa*</sub></sup> | [Paper](https://arxiv.org/pdf/2604.16582v1) [Code](https://cod-espol.github.io/Camo-M3FD/) |
