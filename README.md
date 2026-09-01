@@ -11,7 +11,7 @@
 # <p align=center>`Awesome List for Camouflaged Object Detection (COD)`
 
 
-:loudspeaker:<strong>Last updated: 2026.08.17</strong>
+:loudspeaker:<strong>Last updated: 2026.09.01</strong>
 
 - [06/2026] Update with ICASSP papers.
 - [06/2026] Update with TPAMI, TMM, TIP papers.
@@ -107,6 +107,7 @@
 
 | **Task** | **Release** | **Pub.** | **Title** |    **Links**   |
 | :--------: | :------------: | :------: | :-------: | :------------: |
+|:blue_square: `COD`| `2026/Aug` | `ArXiv` | Seeing the Unseen: Camouflaged Object Detection Beyond the Visible Spectrum <br> <sup><sub>*Avi Gupta, Trasha Gupta*</sub></sup> | [Paper](https://arxiv.org/pdf/2608.30355v1) [Code](https://github.com/avigupta2798/MSFormer) |
 |:blue_square: `COD`| `2026/Aug` | `ArXiv` | Is There Really a Camouflaged Object? Towards Realistic Camouflaged Object Detection <br> <sup><sub>*Huafeng Chen, Yueming Lyu, Chenyang Si, Wende Tan, Liucheng Guo, Caifeng Shan*</sub></sup> | [Paper](https://arxiv.org/pdf/2608.11135v1) [Code](https://github.com/2231122/OPCOD) |
 |:blue_square: `COD`| `2026/Aug` | `ArXiv` | LAD-COD: Language-Aligned Dense Perception for Camouflaged Object Detection <br> <sup><sub>*Shangye Song, Tianzhi Zhu, Syed Ariff Syed Hesham, Xin He, Yun Liu*</sub></sup> | [Paper](https://arxiv.org/pdf/2608.07941v1) Code |
 |:blue_square: `COD`| `2026/Jul` | `ArXiv` | VCP-DCN: Beyond Visual Concealed Property via Depth Collaborative Network for Camouflaged Object Detection <br> <sup><sub>*Songsong Duan, Xi Yang, Nannan Wang*</sub></sup> | [Paper](https://arxiv.org/pdf/2607.27843v1) Code |
